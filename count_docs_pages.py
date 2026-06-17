@@ -78,9 +78,19 @@ def count_root_file_types(dataset_root: Path) -> dict[str, int]:
     return file_type_counts
 
 
-def count_documents_and_pages(dataset_root: Path) -> tuple[int, int]:
+def merge_file_type_counts(*count_maps: dict[str, int]) -> dict[str, int]:
+    merged_counts: dict[str, int] = {}
+
+    for count_map in count_maps:
+        for file_type, count in count_map.items():
+            merged_counts[file_type] = merged_counts.get(file_type, 0) + count
+
+    return merged_counts
+
+
+def count_documents_pages_and_writers(dataset_root: Path) -> tuple[dict[str, int], int, int]:
     """
-    Count pages and documents under TeluguSeg split folders.
+    Count segmented file types, pages, and writers under TeluguSeg split folders.
 
     Expected structure:
     TeluguSeg/<split>/<writer_id>/<page_id>/
@@ -91,14 +101,15 @@ def count_documents_and_pages(dataset_root: Path) -> tuple[int, int]:
 
     Document count rule:
     - For each writer, inspect page directories from 1..max_page_id.
-    - Count bottom-level .jpg and .txt files in those page directories.
+    - Count bottom-level files by extension in those page directories.
     """
     telugu_seg_root = dataset_root / "TeluguSeg"
     if not telugu_seg_root.exists():
         raise FileNotFoundError(f"Could not find {telugu_seg_root}")
 
-    document_count = 0
+    segmented_file_type_counts: dict[str, int] = {}
     page_count = 0
+    writer_count = 0
 
     LOGGER.info("Scanning split directories under %s", telugu_seg_root)
 
@@ -113,6 +124,8 @@ def count_documents_and_pages(dataset_root: Path) -> tuple[int, int]:
         for writer_dir in split_dir.iterdir():
             if not writer_dir.is_dir():
                 continue
+
+            writer_count += 1
 
             page_ids = []
             for page_dir in writer_dir.iterdir():
@@ -135,10 +148,11 @@ def count_documents_and_pages(dataset_root: Path) -> tuple[int, int]:
                 for file_path in page_dir.iterdir():
                     if not file_path.is_file():
                         continue
-                    if file_path.suffix.lower() in {".jpg", ".txt"}:
-                        document_count += 1
+                    suffix = file_path.suffix.lower()
+                    key = suffix if suffix else "[no_extension]"
+                    segmented_file_type_counts[key] = segmented_file_type_counts.get(key, 0) + 1
 
-    return document_count, page_count
+    return segmented_file_type_counts, page_count, writer_count
 
 
 def main() -> None:
@@ -160,22 +174,40 @@ def main() -> None:
 
     LOGGER.info("Starting dataset count job for root: %s", args.root)
 
-    file_type_counts = count_root_file_types(args.root)
-    document_count, page_count = count_documents_and_pages(args.root)
+    root_file_type_counts = count_root_file_types(args.root)
+    segmented_file_type_counts, page_count, writer_count = count_documents_pages_and_writers(args.root)
     manifest_item_count, manifest_character_count = count_manifest_items_and_characters(args.root)
+    total_file_type_counts = merge_file_type_counts(segmented_file_type_counts, root_file_type_counts)
+    segmented_document_count = sum(segmented_file_type_counts.values())
+    root_level_document_count = sum(root_file_type_counts.values())
+    document_count = sum(total_file_type_counts.values())
 
     LOGGER.info("Finished dataset count job")
 
-    print(f"Document count (.jpg + .txt files): {document_count}")
+    print(f"Document count (segmented .jpg/.txt + root-level files): {document_count}")
+    print(f"  - Segmented page-level files: {segmented_document_count}")
+    print(f"  - Root-level files: {root_level_document_count}")
+    print(f"Writer count: {writer_count}")
     print(f"Page count (sum of max page-dir per writer): {page_count}")
     print(f"Manifest labeled items (train/val/test .txt): {manifest_item_count}")
     print(f"Estimated total characters from manifests: {manifest_character_count:,}")
 
+    print("\nSegmented page-level file type counts:")
+    if not segmented_file_type_counts:
+        print("No files found under TeluguSeg page directories")
+    else:
+        for file_type, count in sorted(segmented_file_type_counts.items()):
+            print(f"{file_type}: {count}")
+
     print("\nRoot-level file type counts:")
-    if not file_type_counts:
+    if not root_file_type_counts:
         print("No files found directly under dataset root")
     else:
-        for file_type, count in sorted(file_type_counts.items()):
+        for file_type, count in sorted(root_file_type_counts.items()):
+            print(f"{file_type}: {count}")
+
+    print("\nCombined file type counts:")
+    for file_type, count in sorted(total_file_type_counts.items()):
             print(f"{file_type}: {count}")
 
 
