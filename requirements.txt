@@ -1,2 +1,15 @@
 numpy
 opencv-python
+Pillow>=9.0.0
+scikit-image>=0.20.0
+
+# PDF support
+pdf2image>=1.16.0
+
+# Document deskewing
+deskew>=0.12.0
+
+# Optional: High-quality upscaling
+# Uncomment to enable RealESRGAN super-resolution
+# realesrgan>=0.3.0
+# torch>=1.9.0  # Required for RealESRGAN
