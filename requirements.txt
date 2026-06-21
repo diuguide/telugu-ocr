@@ -3,9 +3,6 @@ opencv-python
 Pillow>=9.0.0
 scikit-image>=0.20.0
 
-# PDF support
-pdf2image>=1.16.0
-
 # Document deskewing
 deskew>=0.12.0
 
