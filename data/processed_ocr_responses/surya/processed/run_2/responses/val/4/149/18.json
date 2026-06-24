@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/18.png",
+  "relative_input_path": "val/4/149/18.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.023195995998321,
+  "raw_text": "ప్రపంచకాంకేతులు",
+  "text": "ప్రపంచకాంకేతులు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 15,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1009.0,
+            0.0
+          ],
+          [
+            1009.0,
+            193.0
+          ],
+          [
+            0.0,
+            193.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ప్రపంచకాంకేతులు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1009.0,
+          193.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1009.0,
+      193.0
+    ]
+  }
+}

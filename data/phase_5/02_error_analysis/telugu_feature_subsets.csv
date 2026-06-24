@@ -1,0 +1,9 @@
+configuration,subset,records,mean_cer,exact_accuracy
+surya/raw,reference_contains_conjunct,298,0.7805722599888296,0.030201342281879196
+surya/raw,reference_contains_diacritic,509,0.8071110337144477,0.025540275049115914
+surya/processed,reference_contains_conjunct,547,0.8278930851106835,0.018281535648994516
+surya/processed,reference_contains_diacritic,951,0.874893277730319,0.028391167192429023
+tesseract/raw,reference_contains_conjunct,547,0.9130353826073796,0.009140767824497258
+tesseract/raw,reference_contains_diacritic,951,0.9064013433423342,0.00946372239747634
+tesseract/processed,reference_contains_conjunct,547,0.7924183880308195,0.009140767824497258
+tesseract/processed,reference_contains_diacritic,951,0.7942218256098382,0.010515247108307046

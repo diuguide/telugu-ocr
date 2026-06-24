@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/70/3.png",
+  "relative_input_path": "test/12/70/3.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 28.384449636000227,
+  "raw_text": "ල බ ඉ ර අ ද ය",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1284.0,
+            0.0
+          ],
+          [
+            1284.0,
+            327.0
+          ],
+          [
+            0.0,
+            327.0
+          ]
+        ],
+        "confidence": 0.6042119826533331,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ල බ ඉ ර අ ද ය</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1284.0,
+          327.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1284.0,
+      327.0
+    ]
+  }
+}

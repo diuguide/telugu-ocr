@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/13.png",
+  "relative_input_path": "val/10/469/13.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 16.069383892001497,
+  "raw_text": "మంతోమిశ్రదేవేలు",
+  "text": "మంతోమిశ్రదేవేలు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 15,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1234.0,
+            0.0
+          ],
+          [
+            1234.0,
+            235.0
+          ],
+          [
+            0.0,
+            235.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మంతోమిశ్రదేవేలు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1234.0,
+          235.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1234.0,
+      235.0
+    ]
+  }
+}

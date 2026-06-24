@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/12/131/14.jpg",
+  "relative_input_path": "test/12/131/14.jpg",
+  "status": "ok",
+  "raw_text": "_తీగీటథుయుండేగో",
+  "text": "తీగీటథుయుండేగో",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 14,
+  "elapsed_seconds": 1.1597373530094046,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

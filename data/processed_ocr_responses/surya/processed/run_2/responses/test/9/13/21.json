@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/21.png",
+  "relative_input_path": "test/9/13/21.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.414903690999381,
+  "raw_text": "మూడో వారం లో",
+  "text": "మూడో వారం లో",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1085.0,
+            0.0
+          ],
+          [
+            1085.0,
+            190.0
+          ],
+          [
+            0.0,
+            190.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మూడో వారం లో</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1085.0,
+          190.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1085.0,
+      190.0
+    ]
+  }
+}

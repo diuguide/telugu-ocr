@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/val/10/108/17.jpg",
+  "relative_input_path": "val/10/108/17.jpg",
+  "status": "ok",
+  "raw_text": "జూగుంతర కనా",
+  "text": "జూగుంతర కనా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "elapsed_seconds": 1.0188562370021828,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

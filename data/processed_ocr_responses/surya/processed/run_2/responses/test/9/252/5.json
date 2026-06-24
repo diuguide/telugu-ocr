@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/5.png",
+  "relative_input_path": "test/9/252/5.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 24.224743837999995,
+  "raw_text": "ఉత్పహ్నా నిర్మాణ",
+  "text": "ఉత్పహ్నా నిర్మాణ",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 15,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1344.0,
+            0.0
+          ],
+          [
+            1344.0,
+            318.0
+          ],
+          [
+            0.0,
+            318.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ఉత్పహ్నా నిర్మాణ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1344.0,
+          318.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1344.0,
+      318.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/393/21.png",
+  "relative_input_path": "test/9/393/21.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 18.19515256600016,
+  "raw_text": "ಫ್ರಾಂದು ಟಾಲ್‌ಗೊ",
+  "text": "‌",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1149.0,
+            0.0
+          ],
+          [
+            1149.0,
+            254.0
+          ],
+          [
+            0.0,
+            254.0
+          ]
+        ],
+        "confidence": 0.7686502672845886,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಫ್ರಾಂದು ಟಾಲ್‌ಗೊ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1149.0,
+          254.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1149.0,
+      254.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/249/7.png",
+  "relative_input_path": "test/9/249/7.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 14.145298724999975,
+  "raw_text": "ಮೊಹನ್",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            597.0,
+            0.0
+          ],
+          [
+            597.0,
+            156.0
+          ],
+          [
+            0.0,
+            156.0
+          ]
+        ],
+        "confidence": 0.5259623311592299,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಮೊಹನ್</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          597.0,
+          156.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      597.0,
+      156.0
+    ]
+  }
+}

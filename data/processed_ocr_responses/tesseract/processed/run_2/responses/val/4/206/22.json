@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/22.png",
+  "relative_input_path": "val/4/206/22.png",
+  "status": "ok",
+  "raw_text": "సంపత్తి",
+  "text": "సంపత్తి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 7,
+  "elapsed_seconds": 0.5508344919999217,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

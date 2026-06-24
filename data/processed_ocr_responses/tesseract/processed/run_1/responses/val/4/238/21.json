@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/val/4/238/21.png",
+  "relative_input_path": "val/4/238/21.png",
+  "status": "ok",
+  "raw_text": "చేళ్డే పోో తుంది",
+  "text": "చేళ్డే పోో తుంది",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 14,
+  "elapsed_seconds": 0.6682675370102515,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

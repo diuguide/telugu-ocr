@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/166/12.png",
+  "relative_input_path": "test/9/166/12.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.519787979000057,
+  "raw_text": "హౌయంపోట్",
+  "text": "హౌయంపోట్",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            698.0,
+            0.0
+          ],
+          [
+            698.0,
+            189.0
+          ],
+          [
+            0.0,
+            189.0
+          ]
+        ],
+        "confidence": 0.7670101292206044,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>హౌయంపోట్</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          698.0,
+          189.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      698.0,
+      189.0
+    ]
+  }
+}

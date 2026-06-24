@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/20.png",
+  "relative_input_path": "test/12/125/20.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 17.949702751000586,
+  "raw_text": "విశిష్టుల్తా",
+  "text": "విశిష్టుల్తా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            994.0,
+            0.0
+          ],
+          [
+            994.0,
+            313.0
+          ],
+          [
+            0.0,
+            313.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>విశిష్టుల్తా</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          994.0,
+          313.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      994.0,
+      313.0
+    ]
+  }
+}

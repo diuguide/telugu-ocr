@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/13/13/6.png",
+  "relative_input_path": "test/13/13/6.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 14.008831701998133,
+  "raw_text": "ፊ ઈ ઈ લ લ ઈ લ લ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            909.0,
+            0.0
+          ],
+          [
+            909.0,
+            249.0
+          ],
+          [
+            0.0,
+            249.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ፊ ઈ ઈ લ લ ઈ લ લ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          909.0,
+          249.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      909.0,
+      249.0
+    ]
+  }
+}

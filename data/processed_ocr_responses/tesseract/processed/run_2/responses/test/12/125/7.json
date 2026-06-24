@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/7.png",
+  "relative_input_path": "test/12/125/7.png",
+  "status": "empty_output",
+  "raw_text": "Adz",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "elapsed_seconds": 0.5349683750000622,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/17.png",
+  "relative_input_path": "test/13/2/17.png",
+  "status": "ok",
+  "raw_text": "రా టన.",
+  "text": "రా టన",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 4,
+  "elapsed_seconds": 0.6059753629997431,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

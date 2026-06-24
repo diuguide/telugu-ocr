@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/21.png",
+  "relative_input_path": "test/9/53/21.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 7.009039015999406,
+  "raw_text": "ឃុំ​ಲ್ಪಾರ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            488.0,
+            0.0
+          ],
+          [
+            488.0,
+            187.0
+          ],
+          [
+            0.0,
+            187.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ឃុំ​ಲ್ಪಾರ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          488.0,
+          187.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      488.0,
+      187.0
+    ]
+  }
+}

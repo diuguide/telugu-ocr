@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/166/3.png",
+  "relative_input_path": "test/9/166/3.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.643333110999947,
+  "raw_text": "మాండ్సం",
+  "text": "మాండ్సం",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 7,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            477.0,
+            0.0
+          ],
+          [
+            477.0,
+            177.0
+          ],
+          [
+            0.0,
+            177.0
+          ]
+        ],
+        "confidence": 0.8715587557798852,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మాండ్సం</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          477.0,
+          177.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      477.0,
+      177.0
+    ]
+  }
+}

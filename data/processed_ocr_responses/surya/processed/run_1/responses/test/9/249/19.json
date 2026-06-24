@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/249/19.png",
+  "relative_input_path": "test/9/249/19.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 55.72259199900009,
+  "raw_text": "વડા ૩૦ ગ્રહો",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            602.0,
+            0.0
+          ],
+          [
+            602.0,
+            162.0
+          ],
+          [
+            0.0,
+            162.0
+          ]
+        ],
+        "confidence": 0.6816871914702042,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>વડા ૩૦ ગ્રહો</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          602.0,
+          162.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      602.0,
+      162.0
+    ]
+  }
+}

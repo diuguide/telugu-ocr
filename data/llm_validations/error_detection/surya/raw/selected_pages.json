@@ -1,0 +1,33 @@
+{
+  "source_results": "/home/tom/telugu_data/bin/data/processed_ocr_responses/surya/raw/results.jsonl",
+  "sampling": {
+    "limit_pages": null,
+    "sample_pages": null,
+    "sample_seed": null,
+    "page_keys_file": "/home/tom/telugu_data/bin/data/llm_validations/surya/raw/selected_pages.json"
+  },
+  "page_keys": [
+    "test_9_13",
+    "test_9_53",
+    "test_9_65",
+    "test_9_91",
+    "test_9_166",
+    "test_9_249",
+    "test_9_252",
+    "test_9_393",
+    "test_12_48",
+    "test_12_70",
+    "test_12_113",
+    "test_12_125",
+    "test_12_131",
+    "test_12_165",
+    "test_12_191",
+    "test_12_195",
+    "test_13_2",
+    "test_13_7",
+    "test_13_9",
+    "test_13_12",
+    "test_13_13",
+    "test_13_23"
+  ]
+}

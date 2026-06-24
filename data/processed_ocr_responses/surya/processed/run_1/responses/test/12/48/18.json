@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/48/18.png",
+  "relative_input_path": "test/12/48/18.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 14.874548601000242,
+  "raw_text": "తాగునీరు లభించి",
+  "text": "తాగునీరు లభించి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 14,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1015.0,
+            0.0
+          ],
+          [
+            1015.0,
+            211.0
+          ],
+          [
+            0.0,
+            211.0
+          ]
+        ],
+        "confidence": 0.8472102460069643,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>తాగునీరు లభించి</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1015.0,
+          211.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1015.0,
+      211.0
+    ]
+  }
+}

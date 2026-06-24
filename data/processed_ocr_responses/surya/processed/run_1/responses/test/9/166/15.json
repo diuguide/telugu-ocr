@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/166/15.png",
+  "relative_input_path": "test/9/166/15.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 8.501561150000043,
+  "raw_text": "ప్రాథమికో",
+  "text": "ప్రాథమికో",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            517.0,
+            0.0
+          ],
+          [
+            517.0,
+            163.0
+          ],
+          [
+            0.0,
+            163.0
+          ]
+        ],
+        "confidence": 0.7789235486364511,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ప్రాథమికో</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          517.0,
+          163.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      517.0,
+      163.0
+    ]
+  }
+}

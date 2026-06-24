@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/val/10/53/7.jpg",
+  "relative_input_path": "val/10/53/7.jpg",
+  "status": "ok",
+  "raw_text": "కతoం(eD",
+  "text": "కత ం",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 3,
+  "elapsed_seconds": 0.9424265639972873,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/6.png",
+  "relative_input_path": "val/4/219/6.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 10.875240511000811,
+  "raw_text": "పరమ పవిత్ర",
+  "text": "పరమ పవిత్ర",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            979.0,
+            0.0
+          ],
+          [
+            979.0,
+            162.0
+          ],
+          [
+            0.0,
+            162.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>పరమ పవిత్ర</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          979.0,
+          162.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      979.0,
+      162.0
+    ]
+  }
+}

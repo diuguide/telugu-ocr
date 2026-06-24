@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/21.png",
+  "relative_input_path": "test/12/70/21.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 14.2876610229996,
+  "raw_text": "దేవాత్మ వాలి",
+  "text": "దేవాత్మ వాలి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 11,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            973.0,
+            0.0
+          ],
+          [
+            973.0,
+            248.0
+          ],
+          [
+            0.0,
+            248.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>దేవాత్మ వాలి</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          973.0,
+          248.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      973.0,
+      248.0
+    ]
+  }
+}

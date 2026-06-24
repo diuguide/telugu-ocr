@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/16.png",
+  "relative_input_path": "val/4/206/16.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.628568146999896,
+  "raw_text": "సావ దౌవంగా",
+  "text": "సావ దౌవంగా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            986.0,
+            0.0
+          ],
+          [
+            986.0,
+            212.0
+          ],
+          [
+            0.0,
+            212.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>సావ దౌవంగా</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          986.0,
+          212.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      986.0,
+      212.0
+    ]
+  }
+}

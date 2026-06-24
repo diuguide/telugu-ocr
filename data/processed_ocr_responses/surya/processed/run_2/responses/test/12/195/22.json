@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/22.png",
+  "relative_input_path": "test/12/195/22.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 10.12709841799915,
+  "raw_text": "కొరతల",
+  "text": "కొరతల",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 5,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            716.0,
+            0.0
+          ],
+          [
+            716.0,
+            243.0
+          ],
+          [
+            0.0,
+            243.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>కొరతల</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          716.0,
+          243.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      716.0,
+      243.0
+    ]
+  }
+}

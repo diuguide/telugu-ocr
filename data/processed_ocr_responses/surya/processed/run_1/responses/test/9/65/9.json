@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/65/9.png",
+  "relative_input_path": "test/9/65/9.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 23.28172789000007,
+  "raw_text": "ಭವಿಧಾನ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            528.0,
+            0.0
+          ],
+          [
+            528.0,
+            219.0
+          ],
+          [
+            0.0,
+            219.0
+          ]
+        ],
+        "confidence": 0.6598850279284777,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಭವಿಧಾನ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          528.0,
+          219.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      528.0,
+      219.0
+    ]
+  }
+}

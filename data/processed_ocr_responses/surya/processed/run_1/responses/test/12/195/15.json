@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/195/15.png",
+  "relative_input_path": "test/12/195/15.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 26.49882744900242,
+  "raw_text": "నుండి పుత్రు నాడి దేవి",
+  "text": "నుండి పుత్రు నాడి దేవి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 19,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1357.0,
+            0.0
+          ],
+          [
+            1357.0,
+            286.0
+          ],
+          [
+            0.0,
+            286.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>నుండి పుత్రు నాడి దేవి</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1357.0,
+          286.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1357.0,
+      286.0
+    ]
+  }
+}

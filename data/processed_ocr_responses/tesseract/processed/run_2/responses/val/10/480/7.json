@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/7.png",
+  "relative_input_path": "val/10/480/7.png",
+  "status": "ok",
+  "raw_text": "లేగ రక",
+  "text": "లేగ రక",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 5,
+  "elapsed_seconds": 0.5762536649999674,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

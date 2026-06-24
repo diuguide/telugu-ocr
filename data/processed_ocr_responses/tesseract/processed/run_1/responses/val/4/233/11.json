@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/val/4/233/11.png",
+  "relative_input_path": "val/4/233/11.png",
+  "status": "ok",
+  "raw_text": "వార నరిఅరరేంం౦",
+  "text": "వార నరిఅరరేంం౦",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 13,
+  "elapsed_seconds": 0.6063985939981649,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

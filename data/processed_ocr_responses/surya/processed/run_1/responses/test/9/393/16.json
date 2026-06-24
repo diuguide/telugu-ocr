@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/393/16.png",
+  "relative_input_path": "test/9/393/16.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 19.49835270099993,
+  "raw_text": "పురస్కార యాత్రా",
+  "text": "పురస్కార యాత్రా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 14,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1399.0,
+            0.0
+          ],
+          [
+            1399.0,
+            218.0
+          ],
+          [
+            0.0,
+            218.0
+          ]
+        ],
+        "confidence": 0.7669641329021648,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>పురస్కార యాత్రా</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1399.0,
+          218.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1399.0,
+      218.0
+    ]
+  }
+}

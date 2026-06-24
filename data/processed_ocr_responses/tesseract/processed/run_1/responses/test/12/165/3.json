@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/165/3.png",
+  "relative_input_path": "test/12/165/3.png",
+  "status": "ok",
+  "raw_text": "ర గొను గురాంగో",
+  "text": "ర గొను గురాంగో",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "elapsed_seconds": 0.6647226740024053,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/val/10/53/16.jpg",
+  "relative_input_path": "val/10/53/16.jpg",
+  "status": "ok",
+  "raw_text": "గులకరాaి....",
+  "text": "గులకరా ి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 7,
+  "elapsed_seconds": 0.9020819920115173,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

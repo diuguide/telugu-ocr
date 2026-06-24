@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/1.png",
+  "relative_input_path": "val/4/149/1.png",
+  "status": "ok",
+  "raw_text": "ూదుతు",
+  "text": "ూదుతు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 5,
+  "elapsed_seconds": 0.5649955879998743,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

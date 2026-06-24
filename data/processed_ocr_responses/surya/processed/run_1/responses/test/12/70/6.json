@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/70/6.png",
+  "relative_input_path": "test/12/70/6.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 10.070337907000066,
+  "raw_text": "من من من",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            696.0,
+            0.0
+          ],
+          [
+            696.0,
+            229.0
+          ],
+          [
+            0.0,
+            229.0
+          ]
+        ],
+        "confidence": 0.41504570657075557,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>من من من</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          696.0,
+          229.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      696.0,
+      229.0
+    ]
+  }
+}

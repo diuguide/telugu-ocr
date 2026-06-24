@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/10.png",
+  "relative_input_path": "val/4/206/10.png",
+  "status": "ok",
+  "raw_text": "ఫే దుందు ముండదు",
+  "text": "ఫే దుందు ముండదు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 13,
+  "elapsed_seconds": 0.5615285009998843,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

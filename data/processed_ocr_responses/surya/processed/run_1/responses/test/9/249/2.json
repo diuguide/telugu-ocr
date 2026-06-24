@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/249/2.png",
+  "relative_input_path": "test/9/249/2.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 27.01715833000003,
+  "raw_text": "మే కౌత్రులందరూ",
+  "text": "మే కౌత్రులందరూ",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 13,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1142.0,
+            0.0
+          ],
+          [
+            1142.0,
+            196.0
+          ],
+          [
+            0.0,
+            196.0
+          ]
+        ],
+        "confidence": 0.7007876798942568,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మే కౌత్రులందరూ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1142.0,
+          196.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1142.0,
+      196.0
+    ]
+  }
+}

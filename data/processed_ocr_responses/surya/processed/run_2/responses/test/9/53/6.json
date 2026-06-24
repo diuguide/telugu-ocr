@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/6.png",
+  "relative_input_path": "test/9/53/6.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 15.334374993999518,
+  "raw_text": "గుట్టాను నారంగా",
+  "text": "గుట్టాను నారంగా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 14,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1157.0,
+            0.0
+          ],
+          [
+            1157.0,
+            231.0
+          ],
+          [
+            0.0,
+            231.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>గుట్టాను నారంగా</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1157.0,
+          231.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1157.0,
+      231.0
+    ]
+  }
+}

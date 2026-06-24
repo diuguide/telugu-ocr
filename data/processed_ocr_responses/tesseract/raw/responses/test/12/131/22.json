@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/12/131/22.jpg",
+  "relative_input_path": "test/12/131/22.jpg",
+  "status": "ok",
+  "raw_text": "_అ్రజ్గీటునగల.",
+  "text": "అ్రజ్గీటునగల",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "elapsed_seconds": 0.9738525099965045,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

@@ -1,0 +1,430 @@
+page_key,ocr_model,input_kind,region_index,error,correction,reason
+test_9_13,tesseract,processed,3,ఉ ు ట్వాలు,ఉత్త్వాలు,The space between 'ఉ' and 'త్త్వాలు' is likely an OCR error.
+test_9_13,tesseract,processed,5,౭ ర లీరి బూల్సీ,సరిలీరి బూల్సీ,The numeral '౭' is likely a misrecognition of the Telugu letter 'స'.
+test_9_13,tesseract,processed,6,వేఆనే లా,వేగానే లా,The space between 'వే' and 'గానే' is likely an OCR error.
+test_9_13,tesseract,processed,7,ల గులు,లగులు,The space between 'ల' and 'గులు' is likely an OCR error.
+test_9_13,tesseract,processed,9,నిర్దారీం వయా రు,నిర్దారింపు వారు,'వయా' is likely a misrecognition of 'వారు'.
+test_9_13,tesseract,processed,11,ఉీపాంచరీ,ఉపసంహారి,'ఉీపాంచరీ' is not a valid Telugu word; likely misrecognition of 'ఉపసంహారి'.
+test_9_13,tesseract,processed,12,నిర్వ యంఆ,నిర్వహణ,'యంఆ' is likely a misrecognition of 'హణ'.
+test_9_13,tesseract,processed,18,గొసు ఖం,గోసుఖం,The space between 'గోసు' and 'ఖం' is likely an OCR error.
+test_9_13,tesseract,processed,20,వేల్లంస్రదొరు అ,వెల్లంస్రదొరా,The space and extra 'అ' are likely OCR errors.
+test_9_13,tesseract,processed,21,మోూటడోఠార౦ర లొ,మోటడోఠారం లో,The numeral '౦' is likely a misrecognition of the letter 'ం'.
+test_9_13,tesseract,processed,22,డొదోదెయువొ,దొదోదెయువో,The initial 'డొ' is likely a misrecognition of 'దొ'.
+test_9_13,tesseract,processed,23,యేనో శేరి గా,ఏనో శేరిగా,The space between 'యే' and 'నో' is likely an OCR error.
+test_9_13,tesseract,processed,24,డోల్మారోసిండ,డోల్మారోసిన్,'డోల్మారోసిండ' is not a valid Telugu word; likely misrecognition of 'డోల్మారోసిన్'.
+test_9_53,tesseract,processed,2,నగల దు థడౌల్‌,నగల దుకాణం,'దు థడౌల్‌' is not a plausible Telugu word. 'దుకాణం' (shop) is a more likely correction.
+test_9_53,tesseract,processed,4,జ్లొనవము౦,జనవరి,'జ్లొనవము౦' is not a valid Telugu word. 'జనవరి' (January) is a plausible correction.
+test_9_53,tesseract,processed,5,వ్రీరనిబానం,వీరనిబంధనం,'వ్రీరనిబానం' is not a valid word. 'వీరనిబంధనం' (heroic composition) is a plausible correction.
+test_9_53,tesseract,processed,6,బల్లను సారంగా,బల్లెంసారంగా,'బల్లను సారంగా' is not a valid word. 'బల్లెంసారంగా' (a type of dance) is a plausible correction.
+test_9_53,tesseract,processed,7,లెడ్నియోరు,లేఖనికులు,'లెడ్నియోరు' is not a valid word. 'లేఖనికులు' (writers) is a plausible correction.
+test_9_53,tesseract,processed,12,మహోర్లు సౌంయుము,మహోరులు సౌమ్యము,'మహోర్లు సౌంయుము' is not valid. 'మహోరులు సౌమ్యము' (great and gentle) is a plausible correction.
+test_9_53,tesseract,processed,13,య్య లు,యయులు,'య్య లు' is not a valid word. 'యయులు' (a type of musical note) is a plausible correction.
+test_9_53,tesseract,processed,14,యలొర్బే,యలర్బే,'యలొర్బే' is not a valid word. 'యలర్బే' (a name) is a plausible correction.
+test_9_53,tesseract,processed,16,కౌలురైతు అ,కౌలురైతు,'కౌలురైతు అ' is not a valid word. 'కౌలురైతు' (tenant farmer) is a plausible correction.
+test_9_53,tesseract,processed,22,గోర్ల దౌర్రోస్రం,గోర్ల దౌరసరం,'దౌర్రోస్రం' is not a valid word. 'దౌరసరం' (a type of grain) is a plausible correction.
+test_9_53,tesseract,processed,23,మక్సీపోో మా,మక్సీపో మా,'మక్సీపోో' is not a valid word. 'మక్సీపో' (a name) is a plausible correction.
+test_9_53,tesseract,processed,24,ఫో సారి,ఫోసారి,'ఫో సారి' is not a valid word. 'ఫోసారి' (a name) is a plausible correction.
+test_9_65,tesseract,processed,1,రోర్లుల్‌,రోడ్లు,"The word 'రోర్లుల్‌' is not a valid Telugu word. 'రోడ్లు' is a plausible correction, meaning 'roads'."
+test_9_65,tesseract,processed,4,త్రెమ్మ ంటి,తెమ్మంటి,The space and extra characters are likely OCR errors. 'తెమ్మంటి' is a plausible correction.
+test_9_65,tesseract,processed,5,పం టలో డు జంతా,పంటలోడు,The spaces and extra characters are likely OCR errors. 'పంటలోడు' is a plausible correction.
+test_9_65,tesseract,processed,7,క్షేగ్రుయిగో,క్షీరసాగర,"The sequence is not a valid word. 'క్షీరసాగర' is a plausible correction, meaning 'milky ocean'."
+test_9_65,tesseract,processed,8,ల్‌చ్ట్స్‌ందా,చెప్పింది,The sequence is not a valid word. 'చెప్పింది' is a plausible correction.
+test_9_65,tesseract,processed,10,శుంఠ చూరు,శుంఠి,"The space and extra characters are likely OCR errors. 'శుంఠి' is a plausible correction, meaning 'ginger'."
+test_9_65,tesseract,processed,13,గోర్లో ౭౮,గోర్ల,The number is likely an OCR error. 'గోర్ల' is a plausible correction.
+test_9_65,tesseract,processed,14,౧ రి,ఒకరి,"The number and space are likely OCR errors. 'ఒకరి' is a plausible correction, meaning 'one person'."
+test_9_65,tesseract,processed,15,హ ివడే,హివ్వడే,The space and extra characters are likely OCR errors. 'హివ్వడే' is a plausible correction.
+test_9_65,tesseract,processed,16,్బందానత్‌,బంధానత్‌,The initial character is likely an OCR error. 'బంధానత్‌' is a plausible correction.
+test_9_65,tesseract,processed,17,ళోంపేర,లోపేర,The initial character is likely an OCR error. 'లోపేర' is a plausible correction.
+test_9_65,tesseract,processed,19,లర లర్‌,లలర్‌,The space is likely an OCR error. 'లలర్‌' is a plausible correction.
+test_9_65,tesseract,processed,21,తిను గళదై,తినుగలదై,The space is likely an OCR error. 'తినుగలదై' is a plausible correction.
+test_9_65,tesseract,processed,22,ర సోంగ్రే,సోంగ్రే,The initial character is likely an OCR error. 'సోంగ్రే' is a plausible correction.
+test_9_65,tesseract,processed,23,వీల్షులు,వీక్షులు,"The sequence is not a valid word. 'వీక్షులు' is a plausible correction, meaning 'viewers'."
+test_9_91,tesseract,processed,2,నొల్డేశిన్తున యి,నిర్దేశించినది,The OCR output contains non-standard character combinations unlikely in Telugu.
+test_9_91,tesseract,processed,4,తంి లూర్షను,తమిళూరును,The sequence contains an implausible character combination for a Telugu word.
+test_9_91,tesseract,processed,7,గాన లే,గానలే,The space in the middle of the word is unlikely in Telugu.
+test_9_91,tesseract,processed,8,వఉదడివ్నొ,వుద్దివునో,Contains non-standard character combinations unlikely in Telugu.
+test_9_91,tesseract,processed,10,లెదోరింజర డం,లేదోరింజరం,Contains an unlikely space and character combination for a Telugu word.
+test_9_91,tesseract,processed,11,మశ్పి తాన,మస్తితాన,Contains an unlikely space and character combination for a Telugu word.
+test_9_91,tesseract,processed,13,దూ జర౦డి,దూరజరిగింది,Contains an unlikely space and character combination for a Telugu word.
+test_9_91,tesseract,processed,15,బజారు నమయే,బజారునమయే,Contains an unlikely space and character combination for a Telugu word.
+test_9_91,tesseract,processed,16,చెసోర,చేసోరా,Contains a non-standard character combination unlikely in Telugu.
+test_9_91,tesseract,processed,17,డఢౌొగ్సుయాస్రరో,డౌగుస్రో,Contains non-standard character combinations unlikely in Telugu.
+test_9_91,tesseract,processed,22,గులు మగా,గులుమగా,Contains an unlikely space and character combination for a Telugu word.
+test_9_91,tesseract,processed,23,టునుగువుటిన,తునుగువుటిన,Contains a non-standard character combination unlikely in Telugu.
+test_9_91,tesseract,processed,24,మైస్రని,మైసూరని,Contains a non-standard character combination unlikely in Telugu.
+test_9_91,tesseract,processed,25,టేండబట్ట ద్వా,టెండర్‌బట్టద్వారా,Contains an unlikely space and character combination for a Telugu word.
+test_9_91,tesseract,processed,26,వచ్చ్రొస్తా ను,వచ్చేస్తాను,Contains an unlikely space and character combination for a Telugu word.
+test_9_166,tesseract,processed,1,ర్లస్‌న్‌,ప్లస్,The sequence 'ర్లస్‌న‌' is not a valid Telugu word. 'ప్లస్' is a common loanword from English.
+test_9_166,tesseract,processed,4,టూథ్చ మూల,టూత్‌పేస్ట్,The sequence 'టూథ్చ మూల' is not a valid Telugu word. 'టూత్‌పేస్ట్' is a common loanword from English.
+test_9_166,tesseract,processed,6,డేండపోొమునాయ,డేండపోమునాయ,The sequence 'డేండపోొమునాయ' contains an extra vowel sign 'ొ'. Removing it forms a more plausible structure.
+test_9_166,tesseract,processed,12,యంద టు,యందు,The sequence 'యంద టు' is not a valid Telugu word. 'యందు' is a valid Telugu word meaning 'in which'.
+test_9_166,tesseract,processed,14,బెట్టీ పొల లా,బెట్టిపోలు,The sequence 'బెట్టీ పొల లా' is not a valid Telugu word. 'బెట్టిపోలు' is a plausible Telugu word.
+test_9_166,tesseract,processed,15,చైయల,చేయల,The sequence 'చైయల' is not a valid Telugu word. 'చేయల' is a valid Telugu word meaning 'cannot do'.
+test_9_166,tesseract,processed,21,నయే త్తు భావన,నయా భావన,The sequence 'నయే త్తు భావన' is not a valid Telugu word. 'నయా భావన' is a plausible Telugu phrase meaning 'new idea'.
+test_9_166,tesseract,processed,22,టేర్గింలా,తెలుగులో,The sequence 'టేర్గింలా' is not a valid Telugu word. 'తెలుగులో' is a valid Telugu word meaning 'in Telugu'.
+test_9_166,tesseract,processed,23,గుర్తు ఠస్వారు,గుర్తు చేసారు,The sequence 'గుర్తు ఠస్వారు' is not a valid Telugu word. 'గుర్తు చేసారు' is a valid Telugu phrase meaning 'remembered'.
+test_9_166,tesseract,processed,24,యడ,యడా,The sequence 'యడ' is not a valid Telugu word. 'యడా' is a plausible Telugu word.
+test_9_166,tesseract,processed,25,ఖు,ఖ,The sequence 'ఖు' is not a valid Telugu word. 'ఖ' is a valid Telugu letter.
+test_9_249,tesseract,processed,1,డ్‌యో తల్‌,దయతో,The sequence 'డ్‌యో తల్‌' is not a valid Telugu word. 'దయతో' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,2,యే థోఫలంటరూ,ఏదో ఫలితం,The sequence 'యే థోఫలంటరూ' is not a valid Telugu word. 'ఏదో ఫలితం' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,4,పేయో రడ,పేరు,The sequence 'పేయో రడ' is not a valid Telugu word. 'పేరు' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,9,వదా ల్‌,వదల,The sequence 'వదా ల్‌' is not a valid Telugu word. 'వదల' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,10,గ్రమానికి లోడు,గ్రామానికి లోడు,The sequence 'గ్రమానికి లోడు' is missing a vowel. 'గ్రామానికి లోడు' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,11,లెట్ట్స్‌,లెట్స్‌,The sequence 'లెట్ట్స్‌' is not a valid Telugu word. 'లెట్స్‌' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,12,బోష్కంటొ,బోస్కంటో,The sequence 'బోష్కంటొ' is not a valid Telugu word. 'బోస్కంటో' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,13,లౌరిశ్షన్నా,లౌరెన్సన్నా,The sequence 'లౌరిశ్షన్నా' is not a valid Telugu word. 'లౌరెన్సన్నా' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,14,ఇళ తయును,ఇల్లు తయారు,The sequence 'ఇళ తయును' is not a valid Telugu word. 'ఇల్లు తయారు' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,16,జైల బి,జైలుబి,The sequence 'జైల బి' is not a valid Telugu word. 'జైలుబి' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,17,గడ య౦దో,గడచింది,The sequence 'గడ య౦దో' is not a valid Telugu word. 'గడచింది' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,19,ఇర కౌోనీర్‌,ఇక్కడ ఉన్నారు,The sequence 'ఇర కౌోనీర్‌' is not a valid Telugu word. 'ఇక్కడ ఉన్నారు' is a plausible correction based on common Telugu morphology.
+test_9_249,tesseract,processed,23,వటంటి,వంటంటి,The sequence 'వటంటి' is not a valid Telugu word. 'వంటంటి' is a plausible correction based on common Telugu morphology.
+test_9_252,tesseract,processed,2,పంటర్వవ,పంటర్వ,The sequence 'వవ' is unlikely in Telugu morphology; 'పంటర్వ' is a more plausible form.
+test_9_252,tesseract,processed,3,తపఘ్వు యంది,తపగ్వు యంది,The sequence 'ఘ్వు' is unlikely; 'గ్వు' is a more plausible combination.
+test_9_252,tesseract,processed,5,ధిత్తమాఃరిరులే,ధిత్తమారిరులే,The sequence 'మాః' is unlikely; 'మా' is a more plausible form.
+test_9_252,tesseract,processed,6,సమూాలూరం౦,సమూహాలూరం,The sequence 'సమూా' is unlikely; 'సమూహా' is a more plausible form.
+test_9_252,tesseract,processed,7,లీ టల స్మ,లీటలస్మ,The spaces are unlikely in a single word; 'లీటలస్మ' is a plausible correction.
+test_9_252,tesseract,processed,8,సమే క్వాం ధథ,సమేక్వాంధథ,The spaces are unlikely in a single word; 'సమేక్వాంధథ' is a plausible correction.
+test_9_252,tesseract,processed,11,నోర్లారథ,నోరులారథ,The sequence 'నోర్లా' is unlikely; 'నోరులా' is a more plausible form.
+test_9_252,tesseract,processed,12,అ ను సరంతిండుం,అనుసరంతిండుం,The spaces are unlikely in a single word; 'అనుసరంతిండుం' is a plausible correction.
+test_9_252,tesseract,processed,13,ల్రపఏక అ సౌలు,ల్రపఏకసౌలు,The spaces are unlikely in a single word; 'ల్రపఏకసౌలు' is a plausible correction.
+test_9_252,tesseract,processed,16,రిన్తే స్మర ౦ లో,రిన్తేస్మర౦లో,The spaces are unlikely in a single word; 'రిన్తేస్మర౦లో' is a plausible correction.
+test_9_252,tesseract,processed,17,డియో ావోరొఫ్యాన్న,డియోవోరొఫ్యాన్న,The space and sequence 'ావో' are unlikely; 'వో' is a more plausible form.
+test_9_252,tesseract,processed,19,శవపాం,శవపం,The sequence 'పాం' is unlikely; 'పం' is a more plausible form.
+test_9_252,tesseract,processed,21,సెనుతో్‌,సెనుతో,The sequence 'తో్‌' is unlikely; 'తో' is a more plausible form.
+test_9_252,tesseract,processed,23,డెంగ వల,డెంగవల,The space is unlikely in a single word; 'డెంగవల' is a plausible correction.
+test_9_393,tesseract,processed,1,శస్రేటల ను,శస్త్రేతలను,The sequence 'శస్రేటల' is not a valid Telugu word. 'శస్త్రేతలను' is a plausible correction with proper orthographic structure.
+test_9_393,tesseract,processed,2,వజయ రామారొంప,విజయ రామారావు,"'వజయ' is likely a misspelling of 'విజయ', and 'రామారొంప' is not a valid word, 'రామారావు' is a common name."
+test_9_393,tesseract,processed,5,రొ ఖేచూరరాం్ర,సీతారామరావు,'రొ ఖేచూరరాం్ర' is not a valid word. 'సీతారామరావు' is a plausible correction with a common name structure.
+test_9_393,tesseract,processed,6,సల వే రొరి ర దం,సలవేరు రుద్రం,The sequence 'సల వే రొరి ర దం' is not valid. 'సలవేరు రుద్రం' is a plausible correction with proper orthographic structure.
+test_9_393,tesseract,processed,9,నోలుయ్రగో,నీలూరగో,'నోలుయ్రగో' is not a valid word. 'నీలూరగో' is a plausible correction with proper orthographic structure.
+test_9_393,tesseract,processed,10,లయ దిథ,లయ దిత్త,'దిథ' is not a valid Telugu word. 'దిత్త' is a plausible correction with proper orthographic structure.
+test_9_393,tesseract,processed,11,ను రాయ ళర,నూరాయణ,'ను రాయ ళర' is not a valid word. 'నూరాయణ' is a plausible correction with a common name structure.
+test_9_393,tesseract,processed,15,లెల్లారాత,లెల్లారావు,'లెల్లారాత' is not a valid word. 'లెల్లారావు' is a plausible correction with a common name structure.
+test_9_393,tesseract,processed,16,గుదనగు యో ల్‌,గుడనగు యోల్‌,'గుదనగు' is not a valid word. 'గుడనగు' is a plausible correction with proper orthographic structure.
+test_9_393,tesseract,processed,17,దేరృ౦గా,దేరుగా,'దేరృ౦గా' contains an invalid sequence. 'దేరుగా' is a plausible correction with proper orthographic structure.
+test_9_393,tesseract,processed,18,మానని అ లా,మానని అలా,The space in 'అ లా' is unnecessary. 'అలా' is a valid word.
+test_9_393,tesseract,processed,21,ఫృంరు టతోను,పురుటతోను,'ఫృంరు' is not a valid word. 'పురుటతోను' is a plausible correction with proper orthographic structure.
+test_9_393,tesseract,processed,22,బయో గోండద౦,బయో గుండదం,'గోండద౦' is not a valid word. 'గుండదం' is a plausible correction with proper orthographic structure.
+test_9_393,tesseract,processed,23,ఎవరి లొగ్ణ నా,ఎవరి లోగ్ణ నా,'లొగ్ణ' is not a valid word. 'లోగ్ణ' is a plausible correction with proper orthographic structure.
+test_9_393,tesseract,processed,24,గభ్ర్రలుయో ర,గభ్రలుయోర్,'గభ్ర్రలుయో ర' contains an unnecessary space. 'గభ్రలుయోర్' is a plausible correction with proper orthographic structure.
+test_12_48,tesseract,processed,1,నీ య్యా,నీయ్యా,The space in 'నీ య్యా' is likely an OCR error; 'నీయ్యా' is a plausible Telugu word.
+test_12_48,tesseract,processed,2,సాం స నా ం,సాంసనం,The spaces and extra characters in 'సాం స నా ం' suggest OCR errors; 'సాంసనం' is a valid word.
+test_12_48,tesseract,processed,4,అ్రస్లేయా,అస్లేయా,The initial consonant cluster 'అ్ర' is unlikely; 'అస్లేయా' is more plausible.
+test_12_48,tesseract,processed,6,గోరాహా ర దొక్షలు,గోరాహార దోషాలు,The spaces and incorrect characters suggest 'గోరాహార దోషాలు' as a correction.
+test_12_48,tesseract,processed,7,అనుమేడీంి రదేంపైగో,అనుమతించు రదేంపైగో,The sequence 'అనుమేడీంి' is unlikely; 'అనుమతించు' is a valid word.
+test_12_48,tesseract,processed,9,లేలరోణసామన,లేలరొణసామన,The sequence 'లేలరోణసామన' is unlikely; 'లేలరొణసామన' is more plausible.
+test_12_48,tesseract,processed,11,మశికోయేం,మశికోయే,The ending 'ేం' is unlikely; 'మశికోయే' is a valid form.
+test_12_48,tesseract,processed,12,అథధిితో,అతిధితో,The sequence 'అథధి' is unlikely; 'అతిధితో' is a valid word.
+test_12_48,tesseract,processed,13,దీని్వైనా,దీనివైనా,The sequence 'దీని్వైనా' is unlikely; 'దీనివైనా' is more plausible.
+test_12_48,tesseract,processed,14,పోల ణేంశ్రో,పోల్నేంశ్రో,The space in 'పోల ణేంశ్రో' is likely an OCR error; 'పోల్నేంశ్రో' is more plausible.
+test_12_48,tesseract,processed,15,శాండీ భ బతలను,శాండీభ బతలను,The space in 'శాండీ భ' is likely an OCR error; 'శాండీభ' is more plausible.
+test_12_48,tesseract,processed,16,ని ర్సీక్షవనో,నిర్సీక్షవనో,The space in 'ని ర్సీక్షవనో' is likely an OCR error; 'నిర్సీక్షవనో' is more plausible.
+test_12_48,tesseract,processed,20,స౦ం క యంచు,సంకయంచు,The spaces in 'స౦ం క యంచు' suggest OCR errors; 'సంకయంచు' is a valid word.
+test_12_48,tesseract,processed,21,దయా లడై,దయాలడై,The space in 'దయా లడై' is likely an OCR error; 'దయాలడై' is more plausible.
+test_12_48,tesseract,processed,24,జహొాలించే,జహ్వాలించే,The sequence 'జహొా' is unlikely; 'జహ్వా' is more plausible.
+test_12_70,tesseract,processed,3,అడు ఖంధ్గాలో,అడుగులో,The sequence 'ఖంధ్గాలో' is not a plausible Telugu word. 'అడుగులో' is a common word meaning 'in the step'.
+test_12_70,tesseract,processed,8,సరగేల ద్రా,సరస్వతీ,The sequence 'సరగేల ద్రా' is not a plausible Telugu word. 'సరస్వతీ' is a common name.
+test_12_70,tesseract,processed,10,గస రూపార్ర,గురుపార్వ,The sequence 'గస రూపార్ర' is not a plausible Telugu word. 'గురుపార్వ' is a more likely correction.
+test_12_70,tesseract,processed,12,రత గక నష ని,రత్నగర్భ,The sequence 'రత గక నష ని' is not a plausible Telugu word. 'రత్నగర్భ' is a more likely correction.
+test_12_70,tesseract,processed,14,రేంగ యహ ౦,రేగన,The sequence 'రేంగ యహ ౦' is not a plausible Telugu word. 'రేగన' is a more likely correction.
+test_12_70,tesseract,processed,15,సంగ రం౦గా,సంగ్రామం,The sequence 'సంగ రం౦గా' is not a plausible Telugu word. 'సంగ్రామం' is a more likely correction.
+test_12_70,tesseract,processed,17,రాజవేజర ౦,రాజవేగం,The sequence 'రాజవేజర ౦' is not a plausible Telugu word. 'రాజవేగం' is a more likely correction.
+test_12_70,tesseract,processed,20,రౌలా యే లది,రౌలపాడు,The sequence 'రౌలా యే లది' is not a plausible Telugu word. 'రౌలపాడు' is a more likely correction.
+test_12_70,tesseract,processed,21,దీనోత్స లాల,దీనోత్సవం,The sequence 'దీనోత్స లాల' is not a plausible Telugu word. 'దీనోత్సవం' is a more likely correction.
+test_12_113,tesseract,processed,2,మీౌరాయి,మీ ఊరాయి,The sequence 'మీౌ' is unlikely; 'మీ ఊరాయి' is a plausible correction.
+test_12_113,tesseract,processed,4,ఆ రేఇ ఇుుఆ,ఆ రేగు,The sequence 'రేఇ ఇుుఆ' is implausible; 'రేగు' is a valid word.
+test_12_113,tesseract,processed,6,పీపొదినను,పీపొదును,The sequence 'పొదినను' is unlikely; 'పీపొదును' is a plausible correction.
+test_12_113,tesseract,processed,7,రెం డీ౦ంలిలటువపటీ,రెండింటిలోపటి,The sequence 'డీ౦ంలిలటువపటీ' is implausible; 'రెండింటిలోపటి' is a valid word.
+test_12_113,tesseract,processed,10,మహా ద వున,మహాదేవుని,The spaces and sequence 'ద వున' are unlikely; 'మహాదేవుని' is a valid word.
+test_12_113,tesseract,processed,11,టనసొతీ నీ,తన సొత్తు,The sequence 'టనసొతీ' is unlikely; 'తన సొత్తు' is a valid phrase.
+test_12_113,tesseract,processed,15,సహో రట,సహోదర,The sequence 'సహో రట' is unlikely; 'సహోదర' is a valid word.
+test_12_113,tesseract,processed,16,మీవహి యాన,మీ వాహనం,The sequence 'మీవహి యాన' is unlikely; 'మీ వాహనం' is a valid phrase.
+test_12_113,tesseract,processed,17,్రలివాటుథునీన,ప్రలివాటుతునీ,The sequence '్రలివాటుథునీన' is unlikely; 'ప్రలివాటుతునీ' is a valid word.
+test_12_113,tesseract,processed,18,క్ష్‌గ్సే,క్షమించు,The sequence 'క్ష్‌గ్సే' is unlikely; 'క్షమించు' is a valid word.
+test_12_113,tesseract,processed,19,వన్నీ ంటి,వన్నీంటి,The space in 'వన్నీ ంటి' is unlikely; 'వన్నీంటి' is a valid word.
+test_12_113,tesseract,processed,20,కవీ లీయేం,కవిత్వం,The sequence 'కవీ లీయేం' is unlikely; 'కవిత్వం' is a valid word.
+test_12_113,tesseract,processed,21,భేోవంత్ర న,భయవంతర,The sequence 'భేోవంత్ర న' is unlikely; 'భయవంతర' is a valid word.
+test_12_113,tesseract,processed,22,మోరుమూాల,మోరుమూల,The sequence 'మూాల' is unlikely; 'మోరుమూల' is a valid word.
+test_12_113,tesseract,processed,23,ప్రసితీగ,ప్రసిద్ధి,The sequence 'ప్రసితీగ' is unlikely; 'ప్రసిద్ధి' is a valid word.
+test_12_113,tesseract,processed,24,చౌనువా,చౌనువు,The sequence 'చౌనువా' is unlikely; 'చౌనువు' is a valid word.
+test_12_125,tesseract,processed,4,శగరిగీసు ౦ దగ,శరిరగీసు,The sequence 'శగరిగీసు ౦ దగ' is not a valid Telugu word. 'శరిరగీసు' is a plausible correction due to common OCR confusion between similar-looking characters.
+test_12_125,tesseract,processed,5,వ్రళ్హింటిన,వ్రహించిన,The sequence 'వ్రళ్హింటిన' is not a valid Telugu word. 'వ్రహించిన' is a plausible correction due to common OCR confusion between similar-looking characters.
+test_12_125,tesseract,processed,6,యాట్లానీ డ్ధాం,యాట్లాడుదాం,The sequence 'యాట్లానీ డ్ధాం' is not a valid Telugu word. 'యాట్లాడుదాం' is a plausible correction due to common OCR confusion between similar-looking characters.
+test_12_125,tesseract,processed,8,హౌ క్స్ర బ్ర,హౌస్,The sequence 'హౌ క్స్ర బ్ర' is not a valid Telugu word. 'హౌస్' is a plausible correction due to common OCR confusion between similar-looking characters.
+test_12_125,tesseract,processed,10,నం కోవాలో,నమ్కోవాలో,The sequence 'నం కోవాలో' is not a valid Telugu word. 'నమ్కోవాలో' is a plausible correction due to common OCR confusion between similar-looking characters.
+test_12_125,tesseract,processed,11,బీబారినుగ్నా౦,బీబరినుగ్నం,The sequence 'బీబారినుగ్నా౦' is not a valid Telugu word. 'బీబరినుగ్నం' is a plausible correction due to common OCR confusion between similar-looking characters.
+test_12_125,tesseract,processed,14,బయ శుక,బయశంక,The sequence 'బయ శుక' is not a valid Telugu word. 'బయశంక' is a plausible correction due to common OCR confusion between similar-looking characters.
+test_12_125,tesseract,processed,18,గోటు లం,గొట్టులం,The sequence 'గోటు లం' is not a valid Telugu word. 'గొట్టులం' is a plausible correction due to common OCR confusion between similar-looking characters.
+test_12_125,tesseract,processed,21,బర హైౌరుగు,బరహూరుగు,The sequence 'బర హైౌరుగు' is not a valid Telugu word. 'బరహూరుగు' is a plausible correction due to common OCR confusion between similar-looking characters.
+test_12_125,tesseract,processed,22,గోరా ముడు,గోరుముడు,The sequence 'గోరా ముడు' is not a valid Telugu word. 'గోరుముడు' is a plausible correction due to common OCR confusion between similar-looking characters.
+test_12_131,tesseract,processed,1,లెకాం శ్రీ,లేఖం శ్రీ,'లెకాం' is not a valid Telugu word. 'లేఖం' (letter/document) is a plausible correction.
+test_12_131,tesseract,processed,2,సేయగ లిగా అ,సేయగలిగా,The spaces in 'సేయగ లిగా అ' suggest a split in a single word. 'సేయగలిగా' is a plausible correction.
+test_12_131,tesseract,processed,3,నొక ణీ ౮,నొక్కణి,The spaces and numeral '౮' are unlikely in a single word. 'నొక్కణి' (a type of grain) is a plausible correction.
+test_12_131,tesseract,processed,5,సశ లను,సశలనం,The space in 'సశ లను' suggests a split in a single word. 'సశలనం' (a type of sound) is a plausible correction.
+test_12_131,tesseract,processed,6,ము లన్తా,ములంతా,The space in 'ము లన్తా' suggests a split in a single word. 'ములంతా' (as much as) is a plausible correction.
+test_12_131,tesseract,processed,7,దళ౦సనోయయన,దళసనోయన,The extra '౦' in 'దళ౦సనోయయన' is likely an error. 'దళసనోయన' is a plausible correction.
+test_12_131,tesseract,processed,10,అనం తమునూ రీ,అనంతమునూరి,The spaces in 'అనం తమునూ రీ' suggest a split in a single word. 'అనంతమునూరి' (a place name) is a plausible correction.
+test_12_131,tesseract,processed,17,స దర,సదర,The space in 'స దర' suggests a split in a single word. 'సదర' (respectful) is a plausible correction.
+test_12_131,tesseract,processed,18,సూరి ఇరా రు,సూరిరారు,The spaces in 'సూరి ఇరా రు' suggest a split in a single word. 'సూరిరారు' (a name) is a plausible correction.
+test_12_131,tesseract,processed,19,ొధిక లమ,ధికలమ,The space and extra character in ' ొధిక లమ' suggest errors. 'ధికలమ' (a type of measure) is a plausible correction.
+test_12_131,tesseract,processed,20,హై పం,హైపం,The space in 'హై పం' suggests a split in a single word. 'హైపం' (hype) is a plausible correction.
+test_12_131,tesseract,processed,21,లడౌంధి ధయ,లడౌంధిధయ,The space in 'లడౌంధి ధయ' suggests a split in a single word. 'లడౌంధిధయ' is a plausible correction.
+test_12_131,tesseract,processed,22,లఖీశుాగ౦,లఖీశ్వరం,The sequence 'లఖీశుాగ౦' is not a valid Telugu word. 'లఖీశ్వరం' (a name) is a plausible correction.
+test_12_131,tesseract,processed,23,చనం దట,చనముదట,The space in 'చనం దట' suggests a split in a single word. 'చనముదట' is a plausible correction.
+test_12_131,tesseract,processed,24,ఫే అనే,ఫేన,The space in 'ఫే అనే' suggests a split in a single word. 'ఫేన' (foam) is a plausible correction.
+test_12_131,tesseract,processed,25,ణ్ద్వ,ద్వ,The initial 'ణ్' in 'ణ్ద్వ' is likely an error. 'ద్వ' (two) is a plausible correction.
+test_12_165,tesseract,processed,1,లియా శయన దు,శయనుడు,The sequence 'లియా' is unlikely in Telugu. 'శయనుడు' is a plausible correction.
+test_12_165,tesseract,processed,3,ఆ దొనుగురాంగో,దొనుగురు,The sequence 'ఆ' and 'గో' are unlikely in this context. 'దొనుగురు' is a plausible correction.
+test_12_165,tesseract,processed,4,భట థీయిసయా దీ,భట,The sequence 'థీయిసయా దీ' is unlikely. 'భట' is a plausible correction.
+test_12_165,tesseract,processed,5,సం ర గంత,సంగత,The sequence 'సం ర గంత' is unlikely. 'సంగత' is a plausible correction.
+test_12_165,tesseract,processed,7,కయ్య్న్గ్య్రాా,కయ్యంగ్రా,The sequence 'కయ్య్న్గ్య్రాా' contains repeated vowels and consonants unlikely in Telugu.
+test_12_165,tesseract,processed,8,టయనే ట్వ్న ము,టయనే,The sequence 'ట్వ్న ము' is unlikely. 'టయనే' is a plausible correction.
+test_12_165,tesseract,processed,12,నేథ్ర ముం,నేత్రం,The sequence 'నేథ్ర ముం' is unlikely. 'నేత్రం' is a plausible correction.
+test_12_165,tesseract,processed,13,ఎఏందుటనమహా ర,ఏందుట,The sequence 'ఎఏ' and 'మహా ర' are unlikely. 'ఏందుట' is a plausible correction.
+test_12_165,tesseract,processed,16,రీ హూ,రీ,The sequence 'హూ' is unlikely in Telugu. 'రీ' is a plausible correction.
+test_12_165,tesseract,processed,18,వసూ భు,వసుభు,The sequence 'వసూ భు' is unlikely. 'వసుభు' is a plausible correction.
+test_12_165,tesseract,processed,20,త్రీష,త్రీశ,The sequence 'త్రీష' is unlikely. 'త్రీశ' is a plausible correction.
+test_12_191,tesseract,processed,3,లగి రము,లగిరము,Unnecessary space in the middle of a word.
+test_12_191,tesseract,processed,4,నిజన రర,నిజనిరర,Unnecessary space in the middle of a word.
+test_12_191,tesseract,processed,6,బేలీతుం గగ,బేలీతుంగ,Unnecessary space and extra character at the end.
+test_12_191,tesseract,processed,7,ణా ౦,ణం,Unnecessary space and incorrect numeral.
+test_12_191,tesseract,processed,9,అణ్వాాన్‌,అణ్వాన్‌,Duplicate vowel sign.
+test_12_191,tesseract,processed,11,గ్రాము ట్‌,గ్రాముట్‌,Unnecessary space in the middle of a word.
+test_12_191,tesseract,processed,14,కిరిసున్మూ శుబ్న,కిరిసున్మూషుబ్న,Unnecessary space in the middle of a word.
+test_12_191,tesseract,processed,15,శోటమ,శోధన,Orthographic error; 'ట' is unlikely in this context.
+test_12_191,tesseract,processed,17,గుర్‌్సను,గురుసను,Unnecessary special character.
+test_12_191,tesseract,processed,19,కాగ యులుల టీటం,కాగయులులటీటం,Unnecessary spaces in the middle of a word.
+test_12_191,tesseract,processed,20,నక్ష తొలు,నక్షత్ర,Orthographic error; 'తొలు' is unlikely in this context.
+test_12_191,tesseract,processed,22,బవొఠుసు,బహుశ,Orthographic error; unlikely consonant cluster.
+test_12_191,tesseract,processed,23,సలటరామున్‌,సలత్రామున్‌,Orthographic error; 'ట' is unlikely in this context.
+test_12_191,tesseract,processed,25,గా బా,గాబా,Unnecessary space in the middle of a word.
+test_12_195,tesseract,processed,2,ఒలక ను న్న,ఒలకనున్న,Unnecessary spaces within a single word.
+test_12_195,tesseract,processed,3,కూలీ దౌయం గ్రీ,కూలీదౌయంగ్రీ,Unnecessary spaces within a single word.
+test_12_195,tesseract,processed,7,డీయోపు డ్రా,డీయోపుడ్రా,Unnecessary space within a single word.
+test_12_195,tesseract,processed,8,జు మీఖను,జుమీఖను,Unnecessary space within a single word.
+test_12_195,tesseract,processed,11,సన దాయ క్ష,సనదాయక్ష,Unnecessary spaces within a single word.
+test_12_195,tesseract,processed,14,బేటీ గలక్చు,బేటీగలక్చు,Unnecessary space within a single word.
+test_12_195,tesseract,processed,15,గుశ నతు నాడ దేం,గుశనతునాడదేం,Unnecessary spaces within a single word.
+test_12_195,tesseract,processed,16,దీరాతో ఇరనత్ర,దీరాతోఇరనత్ర,Unnecessary space within a single word.
+test_12_195,tesseract,processed,17,య వఏవబభారతీ,యవఏవబభారతీ,Unnecessary space within a single word.
+test_12_195,tesseract,processed,20,గనోపొటా రేనేవాడు,గనోపొటారేనేవాడు,Unnecessary space within a single word.
+test_12_195,tesseract,processed,21,గ సిటీనో,గసిటీనో,Unnecessary space within a single word.
+test_12_195,tesseract,processed,23,ఏళ్ల దీరండ్రా,ఏళ్లదీరండ్రా,Unnecessary space within a single word.
+test_13_2,tesseract,processed,7,నరో ధీం,నరోధీం,Unlikely space within a single word; 'నరోధీం' is a valid word.
+test_13_2,tesseract,processed,14,బోలోంనుర,బోలోనుర,Unlikely internal character sequence; 'బోలోనుర' is a more plausible word.
+test_13_2,tesseract,processed,16,ర్‌,ర్,Unlikely standalone consonant with a visible diacritic; 'ర్' is a valid standalone consonant.
+test_13_2,tesseract,processed,17,రా టన,రాటన,Unlikely space within a single word; 'రాటన' is a valid word.
+test_13_2,tesseract,processed,18,బడల,బదల,Unlikely internal character sequence; 'బదల' is a more plausible word.
+test_13_2,tesseract,processed,20,బం క,బంక,Unlikely space within a single word; 'బంక' is a valid word.
+test_13_7,tesseract,processed,8,కామ్రీలమే లో,కామ్రిలమేలో,The space in 'కామ్రీలమే లో' is unlikely in a single word. Removing the space forms a plausible compound.
+test_13_7,tesseract,processed,9,నూటా చేర మడు,నూటా చేరుమడు,The space in 'చేర మడు' is unlikely. 'చేరుమడు' is a plausible compound word.
+test_13_7,tesseract,processed,11,సారస ద,సారసద,The space in 'సారస ద' is unlikely. 'సారసద' is a plausible single word.
+test_13_7,tesseract,processed,13,రు ఢ్రం,రుద్రం,The space in 'రు ఢ్రం' is unlikely. 'రుద్రం' is a common Telugu word.
+test_13_7,tesseract,processed,17,యే డ్ముకా,ఏడ్ముకా,The space in 'యే డ్ముకా' is unlikely. 'ఏడ్ముకా' is a plausible single word.
+test_13_7,tesseract,processed,21,ుండబ్‌రా,కుండబ్రా,The initial character 'ు' is likely a misrecognition. 'కుండబ్రా' is a plausible correction.
+test_13_9,tesseract,processed,12,లూ టన,లూటన్,"The OCR output contains a space, which is unlikely in a single word. 'లూటన్' is a more plausible transliteration of a name or place."
+test_13_9,tesseract,processed,15,నాలాలు ల్‌,నాలాలుల,The presence of a space and the standalone 'ల్‌' is unlikely. 'నాలాలుల' is a more plausible morphological form.
+test_13_9,tesseract,processed,19,నౌ తోద పా చాల,నౌతోదపాచాల,"The OCR output contains spaces, which are unlikely in a single word. 'నౌతోదపాచాల' is a more plausible compound or name."
+test_13_12,tesseract,processed,2,ణక భలం,శక్తి,The sequence 'ణక భలం' is not a plausible Telugu word. 'శక్తి' is a common word meaning 'strength'.
+test_13_12,tesseract,processed,12,జరీ్‌ ు,జరీ,"The sequence 'జరీ్‌ ు' contains an unnecessary diacritic and space, making it implausible."
+test_13_12,tesseract,processed,15,బాం,బం,The sequence 'బాం' is not a valid standalone word. 'బం' is a more plausible correction.
+test_13_13,tesseract,processed,4,లీ జరడణగా,లీజరడంగా,The space is likely an OCR error; 'లీజరడంగా' is a more plausible Telugu word.
+test_13_13,tesseract,processed,6,నుల ల,నుల్ల,The space is likely an OCR error; 'నుల్ల' is a more plausible Telugu word.
+test_13_13,tesseract,processed,18,మునల్ల నా,మునల్లనా,The space is likely an OCR error; 'మునల్లనా' is a more plausible Telugu word.
+test_13_13,tesseract,processed,22,లొిర ం,లోకం,The characters are likely misrecognized; 'లోకం' is a more plausible Telugu word.
+test_13_23,tesseract,processed,4,సుం ఢీ క,సుందరిక,The OCR output contains spaces and an unlikely sequence 'ఢీ'. 'సుందరిక' is a plausible correction.
+test_13_23,tesseract,processed,6,లన లా,లలనా,The OCR output contains a space and an unlikely sequence. 'లలనా' is a plausible correction.
+test_13_23,tesseract,processed,10,౧ న కుపూడిడాక డు,ఇంకుపూడిడాకుడు,"The OCR output contains a numeral and spaces, which are unlikely in a single word. 'ఇంకుపూడిడాకుడు' is a plausible correction."
+test_13_23,tesseract,processed,11,లీ ఖాన,లీఖనం,The OCR output contains a space and an unlikely sequence. 'లీఖనం' is a plausible correction.
+test_13_23,tesseract,processed,19,ఆతౌల్హ,ఆతౌల్లా,The OCR output contains an unlikely sequence 'ల్హ'. 'ఆతౌల్లా' is a plausible correction.
+test_13_24,tesseract,processed,2,లూ బీ సోలో,లూబీసోలో,Unnecessary spaces in a single word; likely a compound or name.
+test_13_24,tesseract,processed,6,్ర శ్రపుముగో,శ్రపుముగో,Unnecessary leading virama; not a valid standalone form.
+test_13_24,tesseract,processed,11,కేరట్‌ యర,కేరటయర,Unnecessary space; likely a single word or name.
+test_13_24,tesseract,processed,14,ఎ్రాగగన్‌,ఎరాగగన్‌,Misplaced virama; likely a name or term.
+test_13_24,tesseract,processed,15,ఘమువెడ్టూ,ఘనువెడ్టూ,Uncommon consonant cluster; likely a phonetic error.
+test_13_24,tesseract,processed,16,డ్రొసే,ద్రోసే,Uncommon initial consonant cluster; likely a phonetic error.
+test_13_32,tesseract,processed,1,లూ డు,లూడు,Unnecessary space in the middle of a single word.
+test_13_32,tesseract,processed,2,ఆగం నా,ఆగమ్మా,Unnecessary space and incorrect segmentation of a single word.
+test_13_32,tesseract,processed,10,ళ్‌,ళ,The standalone consonant with a visible halant is unlikely without context.
+test_13_32,tesseract,processed,16,౨ రకము,రకము,The numeral '౨' is unlikely to be part of a single word without context.
+test_13_32,tesseract,processed,21,ర శాసనాల రా,శాసనాల,Unnecessary segmentation and repetition in a single word.
+test_13_32,tesseract,processed,23,లొడ్రరునేంగా,లోడ్రునేంగా,Uncommon consonant cluster 'డ్రర' is likely a segmentation error.
+test_13_32,tesseract,processed,24,ాాంశరాధదు,ఆంశరాధదు,Initial vowel sign 'ా' without a base consonant is incorrect.
+val_4_69,tesseract,processed,1,సోరలన్దొ యథ,సోమరసందో యథా,"The sequence 'సోరలన్దొ' is not a plausible Telugu word. 'సోమరసందో' is a more likely formation, and 'యథా' is a common suffix."
+val_4_69,tesseract,processed,3,ఆ గ్గీటారు,ఆగ్గీటారు,The space in 'ఆ గ్గీటారు' is unlikely in a single word. 'ఆగ్గీటారు' is a more plausible formation.
+val_4_69,tesseract,processed,4,తెర కుయన,తెరకుయన,The space in 'తెర కుయన' is unlikely in a single word. 'తెరకుయన' is a more plausible formation.
+val_4_69,tesseract,processed,5,శభ,శుభ,"'శభ' is not a common Telugu word, whereas 'శుభ' is a valid word meaning 'auspicious'."
+val_4_69,tesseract,processed,7,వ్ర,వ్రా,'వ్ర' is incomplete and not a standalone word. 'వ్రా' is a more plausible form.
+val_4_69,tesseract,processed,8,హ్‌ందుక,ఎందుకు,'హ్‌ందుక' is not a valid word. 'ఎందుకు' is a common word meaning 'why'.
+val_4_69,tesseract,processed,10,టల,తల,"'టల' is not a standalone word, whereas 'తల' means 'head'."
+val_4_69,tesseract,processed,11,జన్మ ఓదం,జన్మోదయం,The space in 'జన్మ ఓదం' is unlikely. 'జన్మోదయం' is a more plausible formation.
+val_4_69,tesseract,processed,12,లకర,లకరం,'లకర' is incomplete. 'లకరం' is a more plausible form.
+val_4_69,tesseract,processed,13,రర,రారు,'రర' is not a valid word. 'రారు' is a more plausible form.
+val_4_69,tesseract,processed,15,హాటోనగ్నో టన,హాటోనగ్నోటన్,The space in 'హాటోనగ్నో టన' is unlikely. 'హాటోనగ్నోటన్' is a more plausible formation.
+val_4_69,tesseract,processed,18,చనిలవయా,చనిలవయ్యా,'చనిలవయా' is not a valid word. 'చనిలవయ్యా' is a more plausible form.
+val_4_69,tesseract,processed,20,రయి,రాయి,'రయి' is not a valid word. 'రాయి' means 'stone'.
+val_4_69,tesseract,processed,22,రర,రారు,'రర' is not a valid word. 'రారు' is a more plausible form.
+val_4_69,tesseract,processed,25,నం,నమ,'నం' is incomplete. 'నమ' is a more plausible form.
+val_4_69,tesseract,processed,26,ంరణలొ క్ల,నిరణలోకల,The sequence 'ంరణలొ క్ల' is not plausible. 'నిరణలోకల' is a more plausible formation.
+val_4_69,tesseract,processed,28,అుటీమున,అల్టీమన్,'అుటీమున' is not a valid word. 'అల్టీమన్' is a more plausible form.
+val_4_149,tesseract,processed,1,ూదుతు,ఇందుకు,"The initial character appears to be a misplaced diacritic, suggesting a common word 'ఇందుకు'."
+val_4_149,tesseract,processed,2,ఆను టూగాణ్చి,ఆనందించు,The sequence 'టూగాణ్చి' is not plausible; 'ఆనందించు' is a common verb form.
+val_4_149,tesseract,processed,3,కుకై రుం పగా,కుక్కరంపగా,The sequence 'కుకై రుం పగా' is not plausible; 'కుక్కరంపగా' is a more likely compound word.
+val_4_149,tesseract,processed,5,ఆశింఒరరు,ఆశించరు,The sequence 'ఆశింఒరరు' is not plausible; 'ఆశించరు' is a common verb form.
+val_4_149,tesseract,processed,9,ఓమఆాఫపండఠు,ఓం నమః శివాయ,The sequence is not plausible; 'ఓం నమః శివాయ' is a common phrase.
+val_4_149,tesseract,processed,13,ఊవి పాయా,ఉపాయం,The sequence 'ఊవి పాయా' is not plausible; 'ఉపాయం' is a common word.
+val_4_149,tesseract,processed,14,నోతక్‌నాం,నోటిఫికేషన్,The sequence 'నోతక్‌నాం' is not plausible; 'నోటిఫికేషన్' is a common loanword.
+val_4_149,tesseract,processed,15,నిత్బి ప,నిత్యప,The sequence 'నిత్బి ప' is not plausible; 'నిత్యప' is a more likely form.
+val_4_149,tesseract,processed,16,వ్రీిపాయ,వీరపాయ,The sequence 'వ్రీిపాయ' is not plausible; 'వీరపాయ' is a more likely form.
+val_4_149,tesseract,processed,17,మనరడరు,మనసు,The sequence 'మనరడరు' is not plausible; 'మనసు' is a common word.
+val_4_149,tesseract,processed,18,చనంంరాం తుంలు,చందనం తుంలు,The sequence 'చనంంరాం తుంలు' is not plausible; 'చందనం తుంలు' is a more likely form.
+val_4_149,tesseract,processed,19,పకల తుం,పకల,The sequence 'పకల తుం' is not plausible; 'పకల' is a common word.
+val_4_149,tesseract,processed,20,బుర త,బురద,The sequence 'బుర త' is not plausible; 'బురద' is a common word.
+val_4_149,tesseract,processed,22,లంబిగిది,లంబించు,The sequence 'లంబిగిది' is not plausible; 'లంబించు' is a common verb form.
+val_4_155,tesseract,processed,1,ఆఅ ముడ తాం ౬ుంఠా,ఆముడుతాం,The sequence contains non-Telugu characters and spacing errors.
+val_4_155,tesseract,processed,2,యెలూకురింటున్న బ్బ,యెలూకురింటున్నా,The ending 'బ్బ' is not a valid Telugu ending.
+val_4_155,tesseract,processed,4,గా అర,గార,The space is incorrect; 'గార' is a valid word.
+val_4_155,tesseract,processed,5,పంక టావ్‌,పంక్‌,'టావ్‌' is not a valid Telugu word.
+val_4_155,tesseract,processed,7,చాన జల,చాల,The space is incorrect; 'చాల' is a valid word.
+val_4_155,tesseract,processed,8,ఆకారం అం౦లఅ,ఆకారమం,Contains non-Telugu characters and spacing errors.
+val_4_155,tesseract,processed,10,ఓకోనీశాదులం తా,ఓకోనీశాదులం,The ending 'తా' is not a valid Telugu ending.
+val_4_155,tesseract,processed,12,ఎక్షిష లాల తో,ఎక్షిషలాల,The space is incorrect; 'ఎక్షిషలాల' is a valid word.
+val_4_155,tesseract,processed,14,డన,దనం,'డన' is not a valid Telugu word.
+val_4_155,tesseract,processed,16,రేఉటీలన్ప,రేఉటీలం,The ending 'న్ప' is not a valid Telugu ending.
+val_4_155,tesseract,processed,20,ఓనిఫినుం ట,ఓనిఫినుంత,The space is incorrect; 'ఓనిఫినుంత' is a valid word.
+val_4_155,tesseract,processed,21,౨దశ్ష,దశ,Contains non-Telugu characters.
+val_4_155,tesseract,processed,23,ొకాంలా,ఒకలా,Contains non-Telugu characters.
+val_4_189,tesseract,processed,1,యమం కులనన,యమకులన,The sequence 'కులనన' is unlikely; 'కులన' is a more plausible word ending.
+val_4_189,tesseract,processed,3,సనౌగింి,సనౌగిని,The sequence 'గింి' is unlikely; 'గిని' is a more plausible ending.
+val_4_189,tesseract,processed,4,ఆఉయోకి,ఆయోకి,The sequence 'ఆఉ' is unlikely; 'ఆయో' is a more plausible start.
+val_4_189,tesseract,processed,5,ఆ చాక క్‌,ఆచాక,The space and 'క్‌' are unlikely; 'ఆచాక' is a more plausible word.
+val_4_189,tesseract,processed,7,ముంందిరత వు,ముందిరతువు,The sequence 'ముంందిరత వు' is unlikely; 'ముందిరతువు' is a more plausible word.
+val_4_189,tesseract,processed,8,జొపి డీలు,జోపిడీలు,The sequence 'జొపి' is unlikely; 'జోపి' is a more plausible start.
+val_4_189,tesseract,processed,9,బున రలో,బునరలో,The space in 'బున రలో' is unlikely; 'బునరలో' is a more plausible word.
+val_4_189,tesseract,processed,11,టత్య్బు,తత్వబు,The sequence 'టత్య్' is unlikely; 'తత్వ' is a more plausible start.
+val_4_189,tesseract,processed,12,బోరవజ్హం్వం,బోరవజ్హం,The sequence 'ం్వం' is unlikely; 'ం' is a more plausible ending.
+val_4_189,tesseract,processed,14,ప్రాతి టదికగో,ప్రాతి దికగో,The sequence 'టదికగో' is unlikely; 'దికగో' is a more plausible word.
+val_4_189,tesseract,processed,15,సమా వహేక్చైనబ్ప ఆక,సమావహేక్చైనబాక,The spaces and sequence 'బ్ప ఆక' are unlikely; 'బాక' is a more plausible ending.
+val_4_189,tesseract,processed,16,౨రానవ టౌతి కి,రానవటౌతికి,The numeral and spaces are unlikely; 'రానవటౌతికి' is a more plausible word.
+val_4_189,tesseract,processed,18,నో ంరుంగా,నోరుంగా,The space in 'నో ంరుంగా' is unlikely; 'నోరుంగా' is a more plausible word.
+val_4_189,tesseract,processed,19,వొుంమఘత్‌,వొమఘత్‌,The sequence 'వొుంమ' is unlikely; 'వొమ' is a more plausible start.
+val_4_189,tesseract,processed,20,షోతూమ్స్స్‌,షోతూమ్స్‌,The sequence 'మ్స్స్‌' is unlikely; 'మ్స్‌' is a more plausible ending.
+val_4_189,tesseract,processed,21,లుయ్సారల,లూయిసారల,The sequence 'లుయ్' is unlikely; 'లూయి' is a more plausible start.
+val_4_206,tesseract,processed,2,రాజు దీంరూనా పీ,రాజు దీపం,The sequence 'దీంరూనా పీ' is not a plausible Telugu word. 'దీపం' is a common word meaning 'lamp'.
+val_4_206,tesseract,processed,3,ఊుం ఒం లా,ఊం,The sequence 'ఊుం ఒం లా' is not a plausible Telugu word. 'ఊం' is a valid interjection.
+val_4_206,tesseract,processed,9,పెలపౌతాతైనాయము,పేల్పుతాతినాయము,The sequence 'పెలపౌతాతైనాయము' is not a plausible Telugu word. 'పేల్పు' is a more likely starting segment.
+val_4_206,tesseract,processed,10,ఫే దుందు ముండదు,ఫెద్దు ముండదు,The sequence 'ఫే దుందు' is not a plausible Telugu word. 'ఫెద్దు' is a more likely correction.
+val_4_206,tesseract,processed,17,ృవ స్తృలను,స్త్రీలను,The sequence 'ృవ' is not a valid Telugu prefix. 'స్త్రీలను' is a valid word meaning 'women'.
+val_4_206,tesseract,processed,18,అఅఆతా౭,ఆతా,The sequence 'అఅఆతా౭' contains repeated and non-Telugu characters. 'ఆతా' is a more plausible correction.
+val_4_206,tesseract,processed,19,ెిరా౩శ క,విరాశక,The sequence 'ెిరా౩శ క' contains non-Telugu characters. 'విరాశక' is a more plausible correction.
+val_4_206,tesseract,processed,24,ఉర్భ్ఫుమం,ఉపభూమి,The sequence 'ఉర్భ్ఫుమం' is not a plausible Telugu word. 'ఉపభూమి' is a more likely correction.
+val_4_219,tesseract,processed,1,చేరేడంరతె,చేరేడంతె,The sequence 'రతె' is unlikely; 'తె' is a common suffix.
+val_4_219,tesseract,processed,3,కుతి మిం రుంగా,కుతిమింగ,The spaces are incorrect; 'కుతిమింగ' is a plausible word.
+val_4_219,tesseract,processed,4,గసుోరూమవురి బశూడదు,గురుమవురి బశూడదు,'గసుో' is unlikely; 'గురు' is a common prefix.
+val_4_219,tesseract,processed,5,గ తరం కి,గతరానికి,Spaces are incorrect; 'గతరానికి' is a plausible word.
+val_4_219,tesseract,processed,6,వర చురువి త,వర్చురువిత,Spaces are incorrect; 'వర్చురువిత' is a plausible word.
+val_4_219,tesseract,processed,7,ఎయు అరం,ఎయురం,Spaces are incorrect; 'ఎయురం' is a plausible word.
+val_4_219,tesseract,processed,8,రెంటి నా గ,రెంటినాగ,Spaces are incorrect; 'రెంటినాగ' is a plausible word.
+val_4_219,tesseract,processed,9,తెలటను కవ,తెలటనుకవ,Spaces are incorrect; 'తెలటనుకవ' is a plausible word.
+val_4_219,tesseract,processed,10,అశ్చీ ఖిన్బీకావ,అశ్చీకిన్బీకావ,The sequence 'ఖిన' is unlikely; 'కిన' is more plausible.
+val_4_219,tesseract,processed,11,ముండేనొకీ,ముండేనికి,'నొకీ' is unlikely; 'నికి' is a common suffix.
+val_4_219,tesseract,processed,12,వేసఎ లోనే,వేసలోనే,Spaces are incorrect; 'వేసలోనే' is a plausible word.
+val_4_219,tesseract,processed,13,సౌ భో మత,సౌభోమత,Spaces are incorrect; 'సౌభోమత' is a plausible word.
+val_4_219,tesseract,processed,14,వర్షించు ంయో,వర్షించుయో,Spaces are incorrect; 'వర్షించుయో' is a plausible word.
+val_4_219,tesseract,processed,15,కనున నేం దుఠు,కనుననేం దుఠు,Spaces are incorrect; 'కనుననేం' is a plausible word.
+val_4_219,tesseract,processed,16,రా కుం యం రుయు,రాకుం యంరుయు,Spaces are incorrect; 'రాకుం' is a plausible word.
+val_4_219,tesseract,processed,18,డొలధించూారు,డోలధించారు,'డొల' is unlikely; 'డోల' is a more common form.
+val_4_219,tesseract,processed,19,౩ బ స్పీ,బస్పీ,The numeral '౩' is likely an error; 'బస్పీ' is plausible.
+val_4_219,tesseract,processed,20,వాలొనున్న,వాలొనున,'వాలొనున' is a more plausible form.
+val_4_219,tesseract,processed,21,చాట కాలను,చాటకాలను,Spaces are incorrect; 'చాటకాలను' is a plausible word.
+val_4_233,tesseract,processed,1,సాగరుం తోము,సాగరంతోము,Unlikely space in compound word; 'తోము' is a suffix.
+val_4_233,tesseract,processed,2,ఆశ్చృర ముం,ఆశ్చర్యము,'ఆశ్చృర' is not a valid form; 'ఆశ్చర్యము' is a common word.
+val_4_233,tesseract,processed,3,హపొాల్సురిను నారు,హపోల్సురినునారు,Unlikely space in compound word; 'నారు' is a suffix.
+val_4_233,tesseract,processed,6,అగ్ని ౦ తలకన్నా,అగ్నితలకన్నా,Unlikely space in compound word; 'తలకన్నా' is a suffix.
+val_4_233,tesseract,processed,7,౨ానుషపీవ,ధానుషపీవ,'౨' is a numeral; likely OCR misinterpretation of 'ధ'.
+val_4_233,tesseract,processed,8,గుంటింథ్యార్థి,గుంటింటి ఆర్థి,Unlikely compound; 'గుంటింటి' and 'ఆర్థి' are separate words.
+val_4_233,tesseract,processed,9,సస్న నంద కం,సన్నందకం,Unlikely space in compound word; 'నందకం' is a suffix.
+val_4_233,tesseract,processed,11,అవనాగ నరిరరుం,అవనాగనరిరుం,Unlikely space in compound word; 'నరిరుం' is a suffix.
+val_4_233,tesseract,processed,15,ఆఅణశుం కూల,ఆణశంకూల,Unlikely space in compound word; 'కూల' is a suffix.
+val_4_233,tesseract,processed,16,అఅుకారులు,అకారులు,Repetition of 'అ' is unlikely; 'అకారులు' is a valid form.
+val_4_233,tesseract,processed,18,ఆజుకిద,ఆజుకి,'ద' is an unlikely suffix here; 'ఆజుకి' is a valid form.
+val_4_233,tesseract,processed,19,ఆ౭ పొయువమే నట్లా,ఆపోయువమేనట్లా,'౭' is a numeral; likely OCR misinterpretation of 'ప'.
+val_4_233,tesseract,processed,20,రం లం క్ర,రమలంక్ర,Unlikely spaces in compound word; 'లంక్ర' is a suffix.
+val_4_233,tesseract,processed,22,వెళ్ల గానా,వెళ్లగానా,Unlikely space in compound word; 'గానా' is a suffix.
+val_4_238,tesseract,processed,1,అుయులింబిన,అయులింబిన,The sequence 'అు' is not a valid Telugu orthographic combination.
+val_4_238,tesseract,processed,3,యరిమెతే మీవుతు న్నారు,యరిమెతే మివుతున్నారు,The space in 'మీవుతు న్నారు' is likely an OCR error splitting a single word.
+val_4_238,tesseract,processed,5,తేథీ నుండు,తేదీ నుండు,'తేథీ' is not a valid word; 'తేదీ' is the correct form.
+val_4_238,tesseract,processed,6,మేడఉలకా,మేడులకా,'మేడఉలకా' contains an unlikely combination; 'మేడులకా' is more plausible.
+val_4_238,tesseract,processed,10,సంపూ రంగా,సంపూర్ణంగా,'సంపూ రంగా' is split incorrectly; 'సంపూర్ణంగా' is a valid word.
+val_4_238,tesseract,processed,11,ఇనూతుంలూ ర,ఇనూతలూర,'ఇనూతుంలూ ర' contains an unlikely sequence; 'ఇనూతలూర' is more plausible.
+val_4_238,tesseract,processed,12,ఎతుత మరలరుం,ఎతుత మరలరం,'మరలరుం' is not a valid ending; 'మరలరం' is more plausible.
+val_4_238,tesseract,processed,13,అఖ ౨తలం,అఖతలం,The space and numeral '౨' are likely OCR errors.
+val_4_238,tesseract,processed,15,గాబ్రౌాటడు,గాబ్రాటడు,'గాబ్రౌాటడు' contains an unlikely sequence; 'గాబ్రాటడు' is more plausible.
+val_4_238,tesseract,processed,16,ఉర బంవ్చృ తంంద నోడు,ఉర బంచుతంద నోడు,'బంవ్చృ' is not a valid sequence; 'బంచుతంద' is more plausible.
+val_4_238,tesseract,processed,19,తవ యో గాం,తవ యోగం,'యో గాం' is split incorrectly; 'యోగం' is a valid word.
+val_4_238,tesseract,processed,20,ఎ౨కుతతే,ఎకుతతే,The numeral '౨' is likely an OCR error.
+val_4_238,tesseract,processed,22,చెప్పట కృ,చెప్పటకు,'కృ' is not a valid ending; 'చెప్పటకు' is more plausible.
+val_4_238,tesseract,processed,23,గుశౌరిర్లి ఆ,గుశౌరిలి,'గుశౌరిర్లి ఆ' is split incorrectly; 'గుశౌరిలి' is more plausible.
+val_4_238,tesseract,processed,24,ఆనాడఢ,ఆనాడు,'ఆనాడఢ' contains an unlikely sequence; 'ఆనాడు' is more plausible.
+val_10_53,tesseract,processed,13,దంల,దంత,The sequence 'దంల' is not a valid Telugu word. 'దంత' (tooth) is a plausible correction due to common OCR confusion between 'త' and 'ల'.
+val_10_53,tesseract,processed,14,ంరే,మరే,"The sequence 'ంరే' is incomplete. 'మరే' is a plausible correction, as 'మ' is often misread as 'ం'."
+val_10_53,tesseract,processed,22,మంపైరొలుువ,మంపై రోల్లు,"The sequence 'మంపైరొలుువ' is not a valid Telugu word. 'మంపై రోల్లు' (a phrase meaning 'on top of the rolls') is a plausible correction, considering common OCR errors with 'రొ' and 'రో'."
+val_10_89,tesseract,processed,7,దు దు,దుద్దు,The space between 'దు' and 'దు' is likely an OCR error. 'దుద్దు' is a valid Telugu word.
+val_10_89,tesseract,processed,10,రా౭రరడన,రాజరాజన,The character '౭' is likely a misrecognition of 'జ'. 'రాజరాజన' is a plausible correction.
+val_10_89,tesseract,processed,18,్‌గ,గ,The presence of a standalone '్‌' before 'గ' is likely an OCR artifact.
+val_10_89,tesseract,processed,19,మగు త గాం,మగుతగాం,The spaces between syllables are likely OCR errors. 'మగుతగాం' is a plausible correction.
+val_10_108,tesseract,processed,6,ే ోణ ి,లోణి,The sequence 'ే ోణ ి' is not a valid Telugu word; 'లోణి' is a plausible correction.
+val_10_108,tesseract,processed,11,యూ య,యూన,The sequence 'యూ య' is incomplete; 'యూన' is a more plausible form.
+val_10_108,tesseract,processed,13,ళా,లా,The character 'ళ' is less common in this context; 'లా' is more typical.
+val_10_108,tesseract,processed,17,గుంతు రా,గుంటూర,"The sequence 'గుంతు రా' is likely a split of 'గుంటూర', a known place name."
+val_10_108,tesseract,processed,19,రుయలాయిస్తాయు,రూలాయిస్తారు,The sequence 'రుయలాయిస్తాయు' is not a valid form; 'రూలాయిస్తారు' is a more plausible verb form.
+val_10_179,tesseract,processed,1,ఇంతగ,ఇంతక,The word 'ఇంతగ' is not a valid standalone word. 'ఇంతక' is a more plausible correction.
+val_10_179,tesseract,processed,3,యూన,యూన్,The word 'యూన' is incomplete. 'యూన్' is a more plausible standalone form.
+val_10_179,tesseract,processed,9,రష్టమైంద,రాష్ట్రమైంది,The word 'రష్టమైంద' is a misspelling. 'రాష్ట్రమైంది' is a more plausible correction.
+val_10_179,tesseract,processed,11,ఎడణెనా,ఎడమ,The word 'ఎడణెనా' is not valid. 'ఎడమ' is a more plausible correction.
+val_10_179,tesseract,processed,12,ల్‌లొంకాం,లోంకాం,The word 'ల్‌లొంకాం' contains an unnecessary consonant. 'లోంకాం' is more plausible.
+val_10_179,tesseract,processed,13,తుసౌ్‌ల,తుసౌల,The word 'తుసౌ్‌ల' contains an unnecessary consonant. 'తుసౌల' is more plausible.
+val_10_179,tesseract,processed,16,ఒభభయతేనొ,ఒకభయతేనో,The word 'ఒభభయతేనొ' is not valid. 'ఒకభయతేనో' is a more plausible correction.
+val_10_179,tesseract,processed,22,రో ౧౦ుగల,రోడ్డు,The word 'రో ౧౦ుగల' is not valid. 'రోడ్డు' is a more plausible correction.
+val_10_179,tesseract,processed,24,చరం శాందదలీ,చరణం శాంతిదలీ,The word 'చరం శాందదలీ' is not valid. 'చరణం శాంతిదలీ' is a more plausible correction.
+val_10_350,tesseract,processed,1,సటుకొబుం,సంకుబుం,The sequence 'టు' is unlikely in Telugu; 'ంకు' is more plausible.
+val_10_350,tesseract,processed,2,రంల,రంగ,'రంల' is not a valid standalone word; 'రంగ' is a common root.
+val_10_350,tesseract,processed,6,పహొాదగోరి,పహాడగోరి,'హొ' is not a typical Telugu sequence; 'హా' is more common.
+val_10_350,tesseract,processed,11,ఖణుదంయులదానా,ఖండములదానా,'ణు' is unlikely in this context; 'ండ' is more plausible.
+val_10_350,tesseract,processed,18,రొరయం,రహస్యం,'రొర' is not a valid sequence; 'రహ' is more common.
+val_10_350,tesseract,processed,19,ఆగతీరాంంలోను,ఆగతీరంలోను,The sequence 'రాంం' is unlikely; 'రంలో' is more plausible.
+val_10_350,tesseract,processed,23,రా్‌్‌ుతడాణో,రాజుతడాణో,The sequence 'ా్‌్‌ు' is not valid; 'ాజు' is more plausible.
+val_10_386,tesseract,processed,1,రహా త్తం,రహస్తం,Uncommon space in the middle of a word; 'రహస్తం' is a plausible correction.
+val_10_386,tesseract,processed,2,అఆగయర్నంతు,ఆగయర్నంతు,Unlikely combination of 'అ' and 'ఆ'; 'ఆగయర్నంతు' is more plausible.
+val_10_386,tesseract,processed,3,గనేయాజదరా,గణపతిదరా,Uncommon sequence; 'గణపతిదరా' is a more plausible Telugu word.
+val_10_386,tesseract,processed,4,థుంచేతారగా,ధుంచేతారగా,'థ' is less common than 'ధ' in Telugu words; 'ధుంచేతారగా' is more plausible.
+val_10_386,tesseract,processed,6,బుకొయుం టు,బుకొయుండు,Uncommon space in the middle of a word; 'బుకొయుండు' is a plausible correction.
+val_10_386,tesseract,processed,9,౧ుంయులతు,పుంయులతు,Uncommon numeral '౧' used as a letter; 'పుంయులతు' is more plausible.
+val_10_386,tesseract,processed,10,రర,రార,Uncommon repetition; 'రార' is a more plausible Telugu word.
+val_10_386,tesseract,processed,12,అగ్ట్రేర్‌ుత్రు,అగ్రరాజు,Uncommon sequence; 'అగ్రరాజు' is a more plausible Telugu word.
+val_10_386,tesseract,processed,13,౭లీ్న తనంలో,తనంలో,Uncommon numeral '౭' used as a letter; 'తనంలో' is more plausible.
+val_10_386,tesseract,processed,15,ఆతయూరాలు,ఆత్మయూరాలు,Uncommon sequence; 'ఆత్మయూరాలు' is a more plausible Telugu word.
+val_10_386,tesseract,processed,16,టంటవాడు,తంటవాడు,'ట' is less common than 'త' in Telugu words; 'తంటవాడు' is more plausible.
+val_10_386,tesseract,processed,17,త్‌పోయింటి,తప్పోయింటి,Uncommon sequence; 'తప్పోయింటి' is a more plausible Telugu word.
+val_10_386,tesseract,processed,18,వౌరనవథడంతుంటూతు,వౌరనవధడంతుంటూ,Uncommon sequence; 'వౌరనవధడంతుంటూ' is a more plausible Telugu word.
+val_10_386,tesseract,processed,19,య తక,యతక,Uncommon space in the middle of a word; 'యతక' is a plausible correction.
+val_10_386,tesseract,processed,20,చుకియ,చుక్క,Uncommon sequence; 'చుక్క' is a more plausible Telugu word.
+val_10_386,tesseract,processed,21,ూ,ఊ,Incomplete vowel representation; 'ఊ' is a more plausible Telugu letter.
+val_10_386,tesseract,processed,22,౧౦ ౧,పది ఒకటి,Uncommon numeral sequence; 'పది ఒకటి' is a more plausible Telugu representation.
+val_10_386,tesseract,processed,23,తే మదిం,తేమదం,Uncommon space in the middle of a word; 'తేమదం' is a plausible correction.
+val_10_386,tesseract,processed,24,యౌ,యౌవ,Incomplete word; 'యౌవ' is a more plausible Telugu word.
+val_10_469,tesseract,processed,1,యూరీ యుగ త,యూరియుగత,Unlikely space within a single word; 'యూరియుగత' is a more plausible compound.
+val_10_469,tesseract,processed,2,అయుగరనోాడు,అయుగరనోడు,"The sequence 'నోాడు' is likely a misreading of 'నోడు', a more plausible Telugu ending."
+val_10_469,tesseract,processed,4,రెణ్తగా,రెండుగా,'రెణ్తగా' is not a valid word; 'రెండుగా' is a common Telugu word.
+val_10_469,tesseract,processed,5,యాయ,యాయీ,'యాయ' is incomplete; 'యాయీ' is a more plausible form.
+val_10_469,tesseract,processed,6,శయగుతన,శయనగుతన,'శయగుతన' is not valid; 'శయనగుతన' is a more plausible compound.
+val_10_469,tesseract,processed,8,గ్‌ా,గా,The character '్‌' is unnecessary here; 'గా' is a valid suffix.
+val_10_469,tesseract,processed,10,ంెంరలు,మెంరలు,The initial 'ం' is misplaced; 'మెంరలు' is a more plausible form.
+val_10_469,tesseract,processed,13,యంతంై వేలూ,యంతమై వేలూ,"'యంతంై' is likely a misreading of 'యంతమై', a more plausible form."
+val_10_469,tesseract,processed,17,చయలు గతిం,చయలుగతిం,Unlikely space within a single word; 'చయలుగతిం' is a more plausible compound.
+val_10_480,tesseract,processed,4,డఉుపొణ్యాయంలకల,దుప్పొణ్యాయంలకల,The sequence 'డఉు' is unlikely in Telugu orthography; 'దుప్పొణ్యాయంలకల' is a more plausible structure.
+val_10_480,tesseract,processed,6,సోథ్గంచుగం,సోదరంగుచూసి,The sequence 'థ్గ' is not typical in Telugu; 'సోదరంగుచూసి' is a more plausible structure.
+val_10_480,tesseract,processed,9,ఆ రుయుల్నంగా,ఆరుయుల్నంగా,The space in 'ఆ రుయుల్నంగా' is unlikely; 'ఆరుయుల్నంగా' is a more plausible structure.
+val_10_480,tesseract,processed,11,గురురుంలేనాం ౮,గురువులేనాం,The sequence 'రుంలే' is unlikely; 'గురువులేనాం' is a more plausible structure.
+val_10_480,tesseract,processed,16,శో్క్తిం్ర,శక్తిం,The sequence 'శో్క్తిం్ర' is unlikely; 'శక్తిం' is a more plausible structure.
+val_10_480,tesseract,processed,21,గమ భరత,గమభరత,The space in 'గమ భరత' is unlikely; 'గమభరత' is a more plausible structure.

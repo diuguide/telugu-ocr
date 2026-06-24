@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/13/2/16.jpg",
+  "relative_input_path": "test/13/2/16.jpg",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 13.379796943998372,
+  "raw_text": "દેવન",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            883.0,
+            0.0
+          ],
+          [
+            883.0,
+            294.0
+          ],
+          [
+            0.0,
+            294.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>દેવન</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          883.0,
+          294.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      883.0,
+      294.0
+    ]
+  }
+}

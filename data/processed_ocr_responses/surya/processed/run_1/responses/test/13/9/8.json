@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/13/9/8.png",
+  "relative_input_path": "test/13/9/8.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.988629590996425,
+  "raw_text": "కలగ పేసుకుంటే",
+  "text": "కలగ పేసుకుంటే",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1043.0,
+            0.0
+          ],
+          [
+            1043.0,
+            209.0
+          ],
+          [
+            0.0,
+            209.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>కలగ పేసుకుంటే</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1043.0,
+          209.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1043.0,
+      209.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/13/12/11.png",
+  "relative_input_path": "test/13/12/11.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 10.036199777008733,
+  "raw_text": "මජ්ජා සිදු",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            505.0,
+            0.0
+          ],
+          [
+            505.0,
+            177.0
+          ],
+          [
+            0.0,
+            177.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>මජ්ජා සිදු</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          505.0,
+          177.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      505.0,
+      177.0
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/1.png",
+  "relative_input_path": "test/12/165/1.png",
+  "status": "ok",
+  "raw_text": "లియా శయన దు",
+  "text": "లియా శయన దు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "elapsed_seconds": 0.691599173999748,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

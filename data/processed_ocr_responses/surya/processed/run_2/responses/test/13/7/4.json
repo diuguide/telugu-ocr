@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/4.png",
+  "relative_input_path": "test/13/7/4.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 10.054441320000478,
+  "raw_text": "సామాన్యం",
+  "text": "సామాన్యం",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            923.0,
+            0.0
+          ],
+          [
+            923.0,
+            197.0
+          ],
+          [
+            0.0,
+            197.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>సామాన్యం</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          923.0,
+          197.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      923.0,
+      197.0
+    ]
+  }
+}

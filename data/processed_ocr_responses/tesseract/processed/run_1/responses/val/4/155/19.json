@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/val/4/155/19.png",
+  "relative_input_path": "val/4/155/19.png",
+  "status": "ok",
+  "raw_text": "౨కు టు",
+  "text": "౨కు టు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 5,
+  "elapsed_seconds": 0.5520892539934721,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

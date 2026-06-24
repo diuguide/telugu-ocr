@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/166/4.png",
+  "relative_input_path": "test/9/166/4.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 13.413624529000117,
+  "raw_text": "మార్కహాలు",
+  "text": "మార్కహాలు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            748.0,
+            0.0
+          ],
+          [
+            748.0,
+            218.0
+          ],
+          [
+            0.0,
+            218.0
+          ]
+        ],
+        "confidence": 0.7824795532347762,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మార్కహాలు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          748.0,
+          218.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      748.0,
+      218.0
+    ]
+  }
+}

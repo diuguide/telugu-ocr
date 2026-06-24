@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/166/23.png",
+  "relative_input_path": "test/9/166/23.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.194329247999804,
+  "raw_text": "സ്റ്റും നേതൃത്വം",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            789.0,
+            0.0
+          ],
+          [
+            789.0,
+            182.0
+          ],
+          [
+            0.0,
+            182.0
+          ]
+        ],
+        "confidence": 0.7260305416852899,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>സ്റ്റും നേതൃത്വം</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          789.0,
+          182.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      789.0,
+      182.0
+    ]
+  }
+}

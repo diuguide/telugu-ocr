@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/22.png",
+  "relative_input_path": "test/9/393/22.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.619753756000136,
+  "raw_text": "దేవుి నందం",
+  "text": "దేవుి నందం",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            981.0,
+            0.0
+          ],
+          [
+            981.0,
+            214.0
+          ],
+          [
+            0.0,
+            214.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>దేవుి నందం</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          981.0,
+          214.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      981.0,
+      214.0
+    ]
+  }
+}

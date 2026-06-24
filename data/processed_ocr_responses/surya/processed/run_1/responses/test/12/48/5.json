@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/48/5.png",
+  "relative_input_path": "test/12/48/5.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 14.99838212800023,
+  "raw_text": "వద్ద పుట్టాలు",
+  "text": "వద్ద పుట్టాలు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            974.0,
+            0.0
+          ],
+          [
+            974.0,
+            217.0
+          ],
+          [
+            0.0,
+            217.0
+          ]
+        ],
+        "confidence": 0.747745478816605,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>వద్ద పుట్టాలు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          974.0,
+          217.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      974.0,
+      217.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/9.png",
+  "relative_input_path": "val/4/69/9.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 31.0508192340003,
+  "raw_text": "ක්‍රියා විශ්වාසයේ සම්බන්ධ ක්‍රියාවන් වන අතර ක්‍රියාවන් විසින් ප්‍රමාණය කිරීම සහ ක්‍රියාවන් විසින් ප්‍රමාණය කිරීම සහ ක්‍රියාවන් විසින් ප්‍රමාණය කි",
+  "text": "‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            407.0,
+            0.0
+          ],
+          [
+            407.0,
+            118.0
+          ],
+          [
+            0.0,
+            118.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<p><b><span>ක්‍රියා</span></b> විශ්වාසයේ සම්බන්ධ ක්‍රියාවන් වන අතර ක්‍රියාවන් විසින් ප්‍රමාණය කිරීම සහ ක්‍රියාවන් විසින් ප්‍රමාණය කිරීම සහ ක්‍රියාවන් විසින් ප්‍රමාණය කි",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          407.0,
+          118.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      407.0,
+      118.0
+    ]
+  }
+}

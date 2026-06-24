@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/53/22.png",
+  "relative_input_path": "test/9/53/22.png",
+  "status": "ok",
+  "raw_text": "గోర దౌ గోరం",
+  "text": "గోర దౌ గోరం",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "elapsed_seconds": 0.5923482469952432,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

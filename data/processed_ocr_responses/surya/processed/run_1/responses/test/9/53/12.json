@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/53/12.png",
+  "relative_input_path": "test/9/53/12.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 32.25800224399427,
+  "raw_text": "హాస్పన్ రెండు కు",
+  "text": "హాస్పన్ రెండు కు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 14,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1094.0,
+            0.0
+          ],
+          [
+            1094.0,
+            231.0
+          ],
+          [
+            0.0,
+            231.0
+          ]
+        ],
+        "confidence": 0.7108958520115806,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>హాస్పన్ రెండు కు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1094.0,
+          231.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1094.0,
+      231.0
+    ]
+  }
+}

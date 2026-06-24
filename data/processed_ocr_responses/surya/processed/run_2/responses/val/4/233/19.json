@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/19.png",
+  "relative_input_path": "val/4/233/19.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 23.18495827699917,
+  "raw_text": "ప్రజ్విత్తోంతి పటి నట్టు",
+  "text": "ప్రజ్విత్తోంతి పటి నట్టు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 22,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1499.0,
+            0.0
+          ],
+          [
+            1499.0,
+            240.0
+          ],
+          [
+            0.0,
+            240.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ప్రజ్విత్తోంతి పటి నట్టు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1499.0,
+          240.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1499.0,
+      240.0
+    ]
+  }
+}

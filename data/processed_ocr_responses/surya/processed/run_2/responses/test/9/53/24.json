@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/24.png",
+  "relative_input_path": "test/9/53/24.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.910349896000298,
+  "raw_text": "പുസ്തകം",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            766.0,
+            0.0
+          ],
+          [
+            766.0,
+            232.0
+          ],
+          [
+            0.0,
+            232.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>പുസ്തകം</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          766.0,
+          232.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      766.0,
+      232.0
+    ]
+  }
+}

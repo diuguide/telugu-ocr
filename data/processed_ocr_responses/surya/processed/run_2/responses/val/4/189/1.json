@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/1.png",
+  "relative_input_path": "val/4/189/1.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 13.166682132999995,
+  "raw_text": "ထိုစီစဉ် သို့မဟုတ်",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1249.0,
+            0.0
+          ],
+          [
+            1249.0,
+            178.0
+          ],
+          [
+            0.0,
+            178.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ထိုစီစဉ် သို့မဟုတ်</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1249.0,
+          178.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1249.0,
+      178.0
+    ]
+  }
+}

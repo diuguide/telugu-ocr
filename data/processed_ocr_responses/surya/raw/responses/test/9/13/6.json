@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/9/13/6.jpg",
+  "relative_input_path": "test/9/13/6.jpg",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 19.970697507000295,
+  "raw_text": "ಮಲನ ಬೆಲ್ಲರ್",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1272.0,
+            0.0
+          ],
+          [
+            1272.0,
+            294.0
+          ],
+          [
+            0.0,
+            294.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಮಲನ ಬೆಲ್ಲರ್</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1272.0,
+          294.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1272.0,
+      294.0
+    ]
+  }
+}

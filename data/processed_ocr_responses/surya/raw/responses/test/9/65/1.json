@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/9/65/1.jpg",
+  "relative_input_path": "test/9/65/1.jpg",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 15.704901881006663,
+  "raw_text": "భౌత్యం",
+  "text": "భౌత్యం",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 6,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            936.0,
+            0.0
+          ],
+          [
+            936.0,
+            289.0
+          ],
+          [
+            0.0,
+            289.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>భౌత్యం</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          936.0,
+          289.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      936.0,
+      289.0
+    ]
+  }
+}

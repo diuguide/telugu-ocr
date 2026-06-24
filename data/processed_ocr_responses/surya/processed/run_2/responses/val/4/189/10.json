@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/10.png",
+  "relative_input_path": "val/4/189/10.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 5.272023006999007,
+  "raw_text": "జనాభా",
+  "text": "జనాభా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 5,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            393.0,
+            0.0
+          ],
+          [
+            393.0,
+            208.0
+          ],
+          [
+            0.0,
+            208.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>జనాభా</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          393.0,
+          208.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      393.0,
+      208.0
+    ]
+  }
+}

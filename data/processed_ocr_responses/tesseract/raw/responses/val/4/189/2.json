@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/val/4/189/2.jpg",
+  "relative_input_path": "val/4/189/2.jpg",
+  "status": "ok",
+  "raw_text": "బెల్టు తొక వీగివరుమే...",
+  "text": "బెల్టు తొక వీగివరుమే",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 18,
+  "elapsed_seconds": 1.1321868090017233,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

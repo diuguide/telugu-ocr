@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/12.png",
+  "relative_input_path": "test/13/24/12.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 11.210767422000572,
+  "raw_text": "సామాజిక",
+  "text": "సామాజిక",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 7,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            772.0,
+            0.0
+          ],
+          [
+            772.0,
+            237.0
+          ],
+          [
+            0.0,
+            237.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>సామాజిక</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          772.0,
+          237.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      772.0,
+      237.0
+    ]
+  }
+}

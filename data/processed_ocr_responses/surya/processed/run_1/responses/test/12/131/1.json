@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/131/1.png",
+  "relative_input_path": "test/12/131/1.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.682496344990795,
+  "raw_text": "මිනිසා ශ්‍රී",
+  "text": "‍",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            634.0,
+            0.0
+          ],
+          [
+            634.0,
+            231.0
+          ],
+          [
+            0.0,
+            231.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>මිනිසා ශ්‍රී</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          634.0,
+          231.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      634.0,
+      231.0
+    ]
+  }
+}

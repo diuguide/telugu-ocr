@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/65/2.png",
+  "relative_input_path": "test/9/65/2.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 48.125709358006134,
+  "raw_text": "పాఠశాల",
+  "text": "పాఠశాల",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 6,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            616.0,
+            0.0
+          ],
+          [
+            616.0,
+            178.0
+          ],
+          [
+            0.0,
+            178.0
+          ]
+        ],
+        "confidence": 0.8570253720367682,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>పాఠశాల</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          616.0,
+          178.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      616.0,
+      178.0
+    ]
+  }
+}

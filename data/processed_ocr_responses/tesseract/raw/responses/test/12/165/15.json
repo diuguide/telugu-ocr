@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/12/165/15.jpg",
+  "relative_input_path": "test/12/165/15.jpg",
+  "status": "ok",
+  "raw_text": "02 నంత.",
+  "text": "నంత",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 3,
+  "elapsed_seconds": 1.075745898007881,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

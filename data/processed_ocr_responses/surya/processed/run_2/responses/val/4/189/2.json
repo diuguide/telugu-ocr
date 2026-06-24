@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/2.png",
+  "relative_input_path": "val/4/189/2.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 28.109096436000982,
+  "raw_text": "రాట్టు ప్రాక పోవడమ్మ",
+  "text": "రాట్టు ప్రాక పోవడమ్మ",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 18,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1409.0,
+            0.0
+          ],
+          [
+            1409.0,
+            333.0
+          ],
+          [
+            0.0,
+            333.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>రాట్టు ప్రాక పోవడమ్మ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1409.0,
+          333.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1409.0,
+      333.0
+    ]
+  }
+}

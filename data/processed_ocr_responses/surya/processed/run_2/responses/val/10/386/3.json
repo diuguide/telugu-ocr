@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/3.png",
+  "relative_input_path": "val/10/386/3.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 10.45352724100303,
+  "raw_text": "సమాచార",
+  "text": "సమాచార",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 6,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            833.0,
+            0.0
+          ],
+          [
+            833.0,
+            228.0
+          ],
+          [
+            0.0,
+            228.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>సమాచార</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          833.0,
+          228.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      833.0,
+      228.0
+    ]
+  }
+}

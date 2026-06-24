@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/6.png",
+  "relative_input_path": "test/9/91/6.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 21.83913174099962,
+  "raw_text": "ముందు సమీప పట్టణమైన కర్ణాటక నుండి సమీప పట్టణమైన ఆదిలాబాద్ నుండి ౨౦ కి. మీ. దూరంలో ఉంది.",
+  "text": "ముందు సమీప పట్టణమైన కర్ణాటక నుండి సమీప పట్టణమైన ఆదిలాబాద్ నుండి ౨౦ కి మీ దూరంలో ఉంది",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 71,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            372.0,
+            0.0
+          ],
+          [
+            372.0,
+            188.0
+          ],
+          [
+            0.0,
+            188.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<p>ముందు సమీప పట్టణమైన కర్ణాటక నుండి సమీప పట్టణమైన ఆదిలాబాద్ నుండి ౨౦ కి. మీ. దూరంలో ఉంది. </p>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          372.0,
+          188.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      372.0,
+      188.0
+    ]
+  }
+}

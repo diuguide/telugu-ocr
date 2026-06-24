@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/12/70/14.jpg",
+  "relative_input_path": "test/12/70/14.jpg",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 22.019570049000322,
+  "raw_text": "రొచ యానో లు",
+  "text": "రొచ యానో లు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1382.0,
+            0.0
+          ],
+          [
+            1382.0,
+            293.0
+          ],
+          [
+            0.0,
+            293.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>రొచ యానో లు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1382.0,
+          293.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1382.0,
+      293.0
+    ]
+  }
+}

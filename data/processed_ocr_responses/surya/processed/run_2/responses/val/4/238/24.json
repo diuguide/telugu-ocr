@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/24.png",
+  "relative_input_path": "val/4/238/24.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 7.535922034998293,
+  "raw_text": "ଶି ଧ୍ୟାନ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            514.0,
+            0.0
+          ],
+          [
+            514.0,
+            210.0
+          ],
+          [
+            0.0,
+            210.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ଶି ଧ୍ୟାନ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          514.0,
+          210.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      514.0,
+      210.0
+    ]
+  }
+}

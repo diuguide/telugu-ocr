@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/14.png",
+  "relative_input_path": "val/10/386/14.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 21.753217898000003,
+  "raw_text": "ಗುಹುಕಾವತಾನ್ ನಿನ್ನಿತ್",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1056.0,
+            0.0
+          ],
+          [
+            1056.0,
+            343.0
+          ],
+          [
+            0.0,
+            343.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಗುಹುಕಾವತಾನ್ ನಿನ್ನಿತ್</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1056.0,
+          343.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1056.0,
+      343.0
+    ]
+  }
+}

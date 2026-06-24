@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/131/14.png",
+  "relative_input_path": "test/12/131/14.png",
+  "status": "ok",
+  "raw_text": "గే ట డుయుంగ్రగా",
+  "text": "గే ట డుయుంగ్రగా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 13,
+  "elapsed_seconds": 0.5912524500017753,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

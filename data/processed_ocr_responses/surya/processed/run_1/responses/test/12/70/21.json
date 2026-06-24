@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/70/21.png",
+  "relative_input_path": "test/12/70/21.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 14.004618055000265,
+  "raw_text": "దేవోత్త్ర వాలి",
+  "text": "దేవోత్త్ర వాలి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 13,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            943.0,
+            0.0
+          ],
+          [
+            943.0,
+            218.0
+          ],
+          [
+            0.0,
+            218.0
+          ]
+        ],
+        "confidence": 0.7452452937222918,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>దేవోత్త్ర వాలి</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          943.0,
+          218.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      943.0,
+      218.0
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/13/5.png",
+  "relative_input_path": "test/9/13/5.png",
+  "status": "ok",
+  "raw_text": "౭రీర టోరి బాల",
+  "text": "౭రీర టోరి బాల",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 11,
+  "elapsed_seconds": 0.5788663499988616,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/70/22.png",
+  "relative_input_path": "test/12/70/22.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.73636489699993,
+  "raw_text": "మనం జైన",
+  "text": "మనం జైన",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 6,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            575.0,
+            0.0
+          ],
+          [
+            575.0,
+            327.0
+          ],
+          [
+            0.0,
+            327.0
+          ]
+        ],
+        "confidence": 0.6264753207366248,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మనం జైన</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          575.0,
+          327.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      575.0,
+      327.0
+    ]
+  }
+}

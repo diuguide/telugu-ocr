@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/12/48/17.jpg",
+  "relative_input_path": "test/12/48/17.jpg",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 20.193776078001974,
+  "raw_text": "ಸಾಹಿತಿಯಾದ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1232.0,
+            0.0
+          ],
+          [
+            1232.0,
+            290.0
+          ],
+          [
+            0.0,
+            290.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಸಾಹಿತಿಯಾದ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1232.0,
+          290.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1232.0,
+      290.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/23.png",
+  "relative_input_path": "test/9/393/23.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 19.698520751000615,
+  "raw_text": "ఎవరి లోనే నా",
+  "text": "ఎవరి లోనే నా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1132.0,
+            0.0
+          ],
+          [
+            1132.0,
+            320.0
+          ],
+          [
+            0.0,
+            320.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ఎవరి లోనే నా</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1132.0,
+          320.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1132.0,
+      320.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/53/17.png",
+  "relative_input_path": "test/9/53/17.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 36.42063095400226,
+  "raw_text": "ශ්‍රී ලංකා පුරාවිද්‍යාව",
+  "text": "‍ ‍",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            990.0,
+            0.0
+          ],
+          [
+            990.0,
+            264.0
+          ],
+          [
+            0.0,
+            264.0
+          ]
+        ],
+        "confidence": 0.7641345210957058,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ශ්‍රී ලංකා පුරාවිද්‍යාව</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          990.0,
+          264.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      990.0,
+      264.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/12/125/6.jpg",
+  "relative_input_path": "test/12/125/6.jpg",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 23.195885625998926,
+  "raw_text": "మాట్లా ని డ్డా ౦",
+  "text": "మాట్లా ని డ్డా ౦",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 13,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1395.0,
+            0.0
+          ],
+          [
+            1395.0,
+            292.0
+          ],
+          [
+            0.0,
+            292.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మాట్లా ని డ్డా ౦</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1395.0,
+          292.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1395.0,
+      292.0
+    ]
+  }
+}

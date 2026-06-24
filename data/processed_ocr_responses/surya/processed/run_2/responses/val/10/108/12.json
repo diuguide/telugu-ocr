@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/12.png",
+  "relative_input_path": "val/10/108/12.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 32.419703280998874,
+  "raw_text": "လီဗိုမိတ်ငယ်သံသယ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1569.0,
+            0.0
+          ],
+          [
+            1569.0,
+            334.0
+          ],
+          [
+            0.0,
+            334.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>လီဗိုမိတ်ငယ်သံသယ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1569.0,
+          334.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1569.0,
+      334.0
+    ]
+  }
+}

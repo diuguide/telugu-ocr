@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/val/10/469/17.png",
+  "relative_input_path": "val/10/469/17.png",
+  "status": "ok",
+  "raw_text": "| నేయు తం",
+  "text": "నేయు తం",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 6,
+  "elapsed_seconds": 0.7611824479972711,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

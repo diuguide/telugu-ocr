@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/3.png",
+  "relative_input_path": "test/12/70/3.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 26.988726826999482,
+  "raw_text": "ପ୍ରବିଧ ୨୦ ସଂସ୍କୃତି",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1314.0,
+            0.0
+          ],
+          [
+            1314.0,
+            357.0
+          ],
+          [
+            0.0,
+            357.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ପ୍ରବିଧ ୨୦ ସଂସ୍କୃତି</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1314.0,
+          357.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1314.0,
+      357.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/6.png",
+  "relative_input_path": "test/13/12/6.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 8.986748739000177,
+  "raw_text": "alat Dev",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            711.0,
+            0.0
+          ],
+          [
+            711.0,
+            201.0
+          ],
+          [
+            0.0,
+            201.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>alat Dev</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          711.0,
+          201.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      711.0,
+      201.0
+    ]
+  }
+}

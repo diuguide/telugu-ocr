@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/13/7/12.png",
+  "relative_input_path": "test/13/7/12.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.562208510993514,
+  "raw_text": "సమీప సమాచారం",
+  "text": "సమీప సమాచారం",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 11,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            989.0,
+            0.0
+          ],
+          [
+            989.0,
+            198.0
+          ],
+          [
+            0.0,
+            198.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>సమీప సమాచారం</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          989.0,
+          198.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      989.0,
+      198.0
+    ]
+  }
+}

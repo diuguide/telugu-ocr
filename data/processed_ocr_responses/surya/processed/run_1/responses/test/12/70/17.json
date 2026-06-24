@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/70/17.png",
+  "relative_input_path": "test/12/70/17.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 11.75532579899982,
+  "raw_text": "రాజకీయం",
+  "text": "రాజకీయం",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 7,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            933.0,
+            0.0
+          ],
+          [
+            933.0,
+            185.0
+          ],
+          [
+            0.0,
+            185.0
+          ]
+        ],
+        "confidence": 0.8668255259726608,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>రాజకీయం</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          933.0,
+          185.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      933.0,
+      185.0
+    ]
+  }
+}

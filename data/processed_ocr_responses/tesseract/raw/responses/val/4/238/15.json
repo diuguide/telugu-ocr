@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/val/4/238/15.jpg",
+  "relative_input_path": "val/4/238/15.jpg",
+  "status": "ok",
+  "raw_text": "గాజటొట..",
+  "text": "గాజటొట",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 6,
+  "elapsed_seconds": 0.7482836080016568,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

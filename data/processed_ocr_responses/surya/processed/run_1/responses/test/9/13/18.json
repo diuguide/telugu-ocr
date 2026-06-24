@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/13/18.png",
+  "relative_input_path": "test/9/13/18.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 14.195051857997896,
+  "raw_text": "ប្រាំ​របស់​០៩​វិញ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            766.0,
+            0.0
+          ],
+          [
+            766.0,
+            227.0
+          ],
+          [
+            0.0,
+            227.0
+          ]
+        ],
+        "confidence": 0.668507913920087,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ប្រាំ​របស់​០៩​វិញ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          766.0,
+          227.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      766.0,
+      227.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/113/20.png",
+  "relative_input_path": "test/12/113/20.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 50.68231627399973,
+  "raw_text": "కుడి (లోయలు)",
+  "text": "కుడి లోయలు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            892.0,
+            0.0
+          ],
+          [
+            892.0,
+            188.0
+          ],
+          [
+            0.0,
+            188.0
+          ]
+        ],
+        "confidence": 0.7211836119888683,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>కుడి (లోయలు)</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          892.0,
+          188.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      892.0,
+      188.0
+    ]
+  }
+}

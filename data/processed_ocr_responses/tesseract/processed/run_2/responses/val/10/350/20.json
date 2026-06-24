@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/20.png",
+  "relative_input_path": "val/10/350/20.png",
+  "status": "ok",
+  "raw_text": "డేలు,",
+  "text": "డేలు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 4,
+  "elapsed_seconds": 0.5681435129999954,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

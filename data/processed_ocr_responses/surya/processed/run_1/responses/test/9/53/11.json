@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/53/11.png",
+  "relative_input_path": "test/9/53/11.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 7.818989669001894,
+  "raw_text": "ముగ్గూరు",
+  "text": "ముగ్గూరు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            373.0,
+            0.0
+          ],
+          [
+            373.0,
+            165.0
+          ],
+          [
+            0.0,
+            165.0
+          ]
+        ],
+        "confidence": 0.7415371265751104,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ముగ్గూరు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          373.0,
+          165.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      373.0,
+      165.0
+    ]
+  }
+}

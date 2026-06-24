@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/91/4.png",
+  "relative_input_path": "test/9/91/4.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 22.54145969199999,
+  "raw_text": "కొం(లూ క్రై ను",
+  "text": "కొం లూ క్రై ను",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 11,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            953.0,
+            0.0
+          ],
+          [
+            953.0,
+            242.0
+          ],
+          [
+            0.0,
+            242.0
+          ]
+        ],
+        "confidence": 0.8105108917182706,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>కొం(లూ క్రై ను</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          953.0,
+          242.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      953.0,
+      242.0
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/val/10/386/1.jpg",
+  "relative_input_path": "val/10/386/1.jpg",
+  "status": "ok",
+  "raw_text": "రాహపొత్తుగర.",
+  "text": "రాహపొత్తుగర",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 11,
+  "elapsed_seconds": 0.9531199949997244,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/19.png",
+  "relative_input_path": "test/13/12/19.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 11.081077271999675,
+  "raw_text": "දිස්ත්‍රික්කය",
+  "text": "‍",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            809.0,
+            0.0
+          ],
+          [
+            809.0,
+            216.0
+          ],
+          [
+            0.0,
+            216.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>දිස්ත්‍රික්කය</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          809.0,
+          216.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      809.0,
+      216.0
+    ]
+  }
+}

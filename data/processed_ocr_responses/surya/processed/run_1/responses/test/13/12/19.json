@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/13/12/19.png",
+  "relative_input_path": "test/13/12/19.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 11.291560074008885,
+  "raw_text": "දිසියි දිස්වෙය",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            779.0,
+            0.0
+          ],
+          [
+            779.0,
+            186.0
+          ],
+          [
+            0.0,
+            186.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>දිසියි දිස්වෙය</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          779.0,
+          186.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      779.0,
+      186.0
+    ]
+  }
+}

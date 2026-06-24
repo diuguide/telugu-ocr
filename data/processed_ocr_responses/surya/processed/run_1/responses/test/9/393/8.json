@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/393/8.png",
+  "relative_input_path": "test/9/393/8.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 11.88163339100015,
+  "raw_text": "କ୍ରମ ସଂଗ୍ରହ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            677.0,
+            0.0
+          ],
+          [
+            677.0,
+            220.0
+          ],
+          [
+            0.0,
+            220.0
+          ]
+        ],
+        "confidence": 0.6645517994737569,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>କ୍ରମ ସଂଗ୍ରହ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          677.0,
+          220.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      677.0,
+      220.0
+    ]
+  }
+}

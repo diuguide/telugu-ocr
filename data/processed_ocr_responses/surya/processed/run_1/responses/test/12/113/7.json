@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/113/7.png",
+  "relative_input_path": "test/12/113/7.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 22.153662250999787,
+  "raw_text": "గెండింపులు పెట్టి",
+  "text": "గెండింపులు పెట్టి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 16,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1509.0,
+            0.0
+          ],
+          [
+            1509.0,
+            212.0
+          ],
+          [
+            0.0,
+            212.0
+          ]
+        ],
+        "confidence": 0.8582008896518817,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>గెండింపులు పెట్టి</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1509.0,
+          212.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1509.0,
+      212.0
+    ]
+  }
+}

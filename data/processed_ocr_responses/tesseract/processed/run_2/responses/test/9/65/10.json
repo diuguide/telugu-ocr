@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/10.png",
+  "relative_input_path": "test/9/65/10.png",
+  "status": "ok",
+  "raw_text": "శుంఠ చూరు",
+  "text": "శుంఠ చూరు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "elapsed_seconds": 0.544483052999567,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

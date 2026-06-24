@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/13/4.png",
+  "relative_input_path": "test/9/13/4.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 11.616988927009515,
+  "raw_text": "మార్కంగాల్",
+  "text": "మార్కంగాల్",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            791.0,
+            0.0
+          ],
+          [
+            791.0,
+            206.0
+          ],
+          [
+            0.0,
+            206.0
+          ]
+        ],
+        "confidence": 0.7228933424184174,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మార్కంగాల్</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          791.0,
+          206.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      791.0,
+      206.0
+    ]
+  }
+}

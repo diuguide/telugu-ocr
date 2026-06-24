@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/val/4/189/1.png",
+  "relative_input_path": "val/4/189/1.png",
+  "status": "ok",
+  "raw_text": "యెంతుండలు కులగనుద",
+  "text": "యెంతుండలు కులగనుద",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 16,
+  "elapsed_seconds": 0.6975354809983401,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

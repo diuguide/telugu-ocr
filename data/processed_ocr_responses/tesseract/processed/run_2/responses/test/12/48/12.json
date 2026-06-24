@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/12.png",
+  "relative_input_path": "test/12/48/12.png",
+  "status": "ok",
+  "raw_text": "అథధిితో",
+  "text": "అథధిితో",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 7,
+  "elapsed_seconds": 0.5633670260003782,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

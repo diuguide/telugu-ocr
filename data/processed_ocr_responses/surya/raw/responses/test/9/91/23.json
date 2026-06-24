@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/9/91/23.jpg",
+  "relative_input_path": "test/9/91/23.jpg",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 25.090198308000254,
+  "raw_text": "ලාබා గుడి మైన",
+  "text": "గుడి మైన",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 7,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1564.0,
+            0.0
+          ],
+          [
+            1564.0,
+            293.0
+          ],
+          [
+            0.0,
+            293.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ලාබා గుడి మైన</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1564.0,
+          293.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1564.0,
+      293.0
+    ]
+  }
+}

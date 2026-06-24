@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/13/7/1.png",
+  "relative_input_path": "test/13/7/1.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 7.246967215993209,
+  "raw_text": "పినితో",
+  "text": "పినితో",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 6,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            517.0,
+            0.0
+          ],
+          [
+            517.0,
+            222.0
+          ],
+          [
+            0.0,
+            222.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>పినితో</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          517.0,
+          222.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      517.0,
+      222.0
+    ]
+  }
+}

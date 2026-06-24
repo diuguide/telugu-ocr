@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/252/10.png",
+  "relative_input_path": "test/9/252/10.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 6.2018599919999815,
+  "raw_text": "निर्माण",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            489.0,
+            0.0
+          ],
+          [
+            489.0,
+            179.0
+          ],
+          [
+            0.0,
+            179.0
+          ]
+        ],
+        "confidence": 0.6801234276346277,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>निर्माण</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          489.0,
+          179.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      489.0,
+      179.0
+    ]
+  }
+}

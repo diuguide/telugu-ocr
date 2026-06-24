@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/8.png",
+  "relative_input_path": "test/9/65/8.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 10.240565141999468,
+  "raw_text": "తోమిరి దా",
+  "text": "తోమిరి దా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            673.0,
+            0.0
+          ],
+          [
+            673.0,
+            249.0
+          ],
+          [
+            0.0,
+            249.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>తోమిరి దా</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          673.0,
+          249.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      673.0,
+      249.0
+    ]
+  }
+}

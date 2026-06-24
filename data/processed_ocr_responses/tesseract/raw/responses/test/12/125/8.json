@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/12/125/8.jpg",
+  "relative_input_path": "test/12/125/8.jpg",
+  "status": "ok",
+  "raw_text": "_మాస్పులకైు.",
+  "text": "మాస్పులకైు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "elapsed_seconds": 0.9862227389967302,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

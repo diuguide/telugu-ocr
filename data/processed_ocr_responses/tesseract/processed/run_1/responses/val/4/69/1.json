@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/val/4/69/1.png",
+  "relative_input_path": "val/4/69/1.png",
+  "status": "ok",
+  "raw_text": "సోరలగ్బా యన్‌",
+  "text": "సోరలగ్బా యన్‌",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 11,
+  "elapsed_seconds": 0.6391886940109544,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

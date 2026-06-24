@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/13/2/20.jpg",
+  "relative_input_path": "test/13/2/20.jpg",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 16.99057439600074,
+  "raw_text": "ఎంఎన్ కే పై",
+  "text": "ఎంఎన్ కే పై",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1076.0,
+            0.0
+          ],
+          [
+            1076.0,
+            294.0
+          ],
+          [
+            0.0,
+            294.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ఎంఎన్ కే పై</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1076.0,
+          294.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1076.0,
+      294.0
+    ]
+  }
+}

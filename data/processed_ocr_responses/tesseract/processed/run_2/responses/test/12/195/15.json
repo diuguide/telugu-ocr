@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/15.png",
+  "relative_input_path": "test/12/195/15.png",
+  "status": "ok",
+  "raw_text": "గుశ నతు నాడ దేం",
+  "text": "గుశ నతు నాడ దేం",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "elapsed_seconds": 0.6065525429994523,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

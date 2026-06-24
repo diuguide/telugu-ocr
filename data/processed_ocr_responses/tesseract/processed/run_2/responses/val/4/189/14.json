@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/14.png",
+  "relative_input_path": "val/4/189/14.png",
+  "status": "ok",
+  "raw_text": "ప్రాతి టదికగో",
+  "text": "ప్రాతి టదికగో",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "elapsed_seconds": 0.517292923000241,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

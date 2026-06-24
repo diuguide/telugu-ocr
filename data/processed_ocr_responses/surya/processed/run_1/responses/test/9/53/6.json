@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/53/6.png",
+  "relative_input_path": "test/9/53/6.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 15.086893561005127,
+  "raw_text": "జయ ను నారంగా",
+  "text": "జయ ను నారంగా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1127.0,
+            0.0
+          ],
+          [
+            1127.0,
+            201.0
+          ],
+          [
+            0.0,
+            201.0
+          ]
+        ],
+        "confidence": 0.7838374329809104,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>జయ ను నారంగా</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1127.0,
+          201.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1127.0,
+      201.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/249/17.png",
+  "relative_input_path": "test/9/249/17.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 50.10902716800001,
+  "raw_text": "ಲಾಹಿತಂತ್",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            773.0,
+            0.0
+          ],
+          [
+            773.0,
+            181.0
+          ],
+          [
+            0.0,
+            181.0
+          ]
+        ],
+        "confidence": 0.7376930865500426,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಲಾಹಿತಂತ್</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          773.0,
+          181.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      773.0,
+      181.0
+    ]
+  }
+}

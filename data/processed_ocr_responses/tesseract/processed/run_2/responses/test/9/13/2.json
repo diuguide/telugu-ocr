@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/2.png",
+  "relative_input_path": "test/9/13/2.png",
+  "status": "ok",
+  "raw_text": "మోతని",
+  "text": "మోతని",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 5,
+  "elapsed_seconds": 0.5665714910001043,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

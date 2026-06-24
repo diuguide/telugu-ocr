@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/70/13.png",
+  "relative_input_path": "test/12/70/13.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 13.959585398999934,
+  "raw_text": "వంగ ముల్లు",
+  "text": "వంగ ముల్లు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            995.0,
+            0.0
+          ],
+          [
+            995.0,
+            222.0
+          ],
+          [
+            0.0,
+            222.0
+          ]
+        ],
+        "confidence": 0.9035636874504903,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>వంగ ముల్లు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          995.0,
+          222.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      995.0,
+      222.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/191/9.png",
+  "relative_input_path": "test/12/191/9.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 10.055232130005606,
+  "raw_text": "ම සිය යි",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            748.0,
+            0.0
+          ],
+          [
+            748.0,
+            230.0
+          ],
+          [
+            0.0,
+            230.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ම සිය යි</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          748.0,
+          230.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      748.0,
+      230.0
+    ]
+  }
+}

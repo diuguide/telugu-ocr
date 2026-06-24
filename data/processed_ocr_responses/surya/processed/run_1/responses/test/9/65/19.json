@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/65/19.png",
+  "relative_input_path": "test/9/65/19.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 16.69133957500003,
+  "raw_text": "తర కిమారు",
+  "text": "తర కిమారు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            790.0,
+            0.0
+          ],
+          [
+            790.0,
+            217.0
+          ],
+          [
+            0.0,
+            217.0
+          ]
+        ],
+        "confidence": 0.4977397105262314,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>తర కిమారు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          790.0,
+          217.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      790.0,
+      217.0
+    ]
+  }
+}

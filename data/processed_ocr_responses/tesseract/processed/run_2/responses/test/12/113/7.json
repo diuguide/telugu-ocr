@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/7.png",
+  "relative_input_path": "test/12/113/7.png",
+  "status": "ok",
+  "raw_text": "రెం డీ౦ంలిలటువపటీ",
+  "text": "రెం డీ౦ంలిలటువపటీ",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 16,
+  "elapsed_seconds": 0.6530465149999145,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

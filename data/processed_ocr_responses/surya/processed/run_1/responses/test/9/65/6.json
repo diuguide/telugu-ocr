@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/65/6.png",
+  "relative_input_path": "test/9/65/6.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 71.89060120900103,
+  "raw_text": "ಹಿನ್ನೆಲೆ ನೆಗೆ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            499.0,
+            0.0
+          ],
+          [
+            499.0,
+            217.0
+          ],
+          [
+            0.0,
+            217.0
+          ]
+        ],
+        "confidence": 0.7276636453389774,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಹಿನ್ನೆಲೆ ನೆಗೆ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          499.0,
+          217.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      499.0,
+      217.0
+    ]
+  }
+}

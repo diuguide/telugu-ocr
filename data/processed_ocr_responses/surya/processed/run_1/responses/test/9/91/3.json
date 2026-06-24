@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/91/3.png",
+  "relative_input_path": "test/9/91/3.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.858300169000017,
+  "raw_text": "രംഗ സൂ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            547.0,
+            0.0
+          ],
+          [
+            547.0,
+            183.0
+          ],
+          [
+            0.0,
+            183.0
+          ]
+        ],
+        "confidence": 0.5901082093953344,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>രംഗ സൂ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          547.0,
+          183.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      547.0,
+      183.0
+    ]
+  }
+}

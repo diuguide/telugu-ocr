@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/16.png",
+  "relative_input_path": "val/4/238/16.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 25.19909226600066,
+  "raw_text": "దూర మార్పు తెుంద నేటి",
+  "text": "దూర మార్పు తెుంద నేటి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 18,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1620.0,
+            0.0
+          ],
+          [
+            1620.0,
+            258.0
+          ],
+          [
+            0.0,
+            258.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>దూర మార్పు తెుంద నేటి</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1620.0,
+          258.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1620.0,
+      258.0
+    ]
+  }
+}

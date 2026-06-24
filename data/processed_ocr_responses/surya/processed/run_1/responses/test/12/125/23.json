@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/125/23.png",
+  "relative_input_path": "test/12/125/23.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 8.997247027000412,
+  "raw_text": "ఉత్పత్తి",
+  "text": "ఉత్పత్తి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            641.0,
+            0.0
+          ],
+          [
+            641.0,
+            195.0
+          ],
+          [
+            0.0,
+            195.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ఉత్పత్తి</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          641.0,
+          195.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      641.0,
+      195.0
+    ]
+  }
+}

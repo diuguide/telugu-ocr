@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/91/25.png",
+  "relative_input_path": "test/9/91/25.png",
+  "status": "ok",
+  "raw_text": "టండబట్ట ద్వా",
+  "text": "టండబట్ట ద్వా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 11,
+  "elapsed_seconds": 0.5531629049946787,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

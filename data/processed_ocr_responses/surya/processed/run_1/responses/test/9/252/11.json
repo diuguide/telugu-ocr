@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/252/11.png",
+  "relative_input_path": "test/9/252/11.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.349723581000035,
+  "raw_text": "මූලාශ්‍ර",
+  "text": "‍",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            565.0,
+            0.0
+          ],
+          [
+            565.0,
+            237.0
+          ],
+          [
+            0.0,
+            237.0
+          ]
+        ],
+        "confidence": 0.8131841790873957,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>මූලාශ්‍ර</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          565.0,
+          237.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      565.0,
+      237.0
+    ]
+  }
+}

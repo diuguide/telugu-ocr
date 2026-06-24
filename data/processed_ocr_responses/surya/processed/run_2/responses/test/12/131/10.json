@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/10.png",
+  "relative_input_path": "test/12/131/10.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 26.82617081100034,
+  "raw_text": "బ్రహంతకుమార్",
+  "text": "బ్రహంతకుమార్",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1381.0,
+            0.0
+          ],
+          [
+            1381.0,
+            324.0
+          ],
+          [
+            0.0,
+            324.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>బ్రహంతకుమార్</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1381.0,
+          324.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1381.0,
+      324.0
+    ]
+  }
+}

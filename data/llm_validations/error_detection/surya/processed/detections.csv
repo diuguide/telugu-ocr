@@ -1,0 +1,217 @@
+page_key,ocr_model,input_kind,region_index,error,correction,reason
+test_9_13,surya,processed,1,బహిరంగ వైనా,బహిరంగ వేదిక,'వైనా' is not a plausible standalone word in Telugu. 'వేదిక' is a common word that fits orthographically.
+test_9_13,surya,processed,3,దూరం లోనిలు,దూరంలో నిలు,'లోనిలు' is not a valid standalone form. 'లో' and 'నిలు' are separate words that fit better orthographically.
+test_9_13,surya,processed,7,చి లికేధలు,చిలుకేధలు,The space in 'చి లికేధలు' is incorrect. 'చిలుకేధలు' is a plausible compound word.
+test_9_13,surya,processed,9,నర్మా రీతి చెల్‌యా దు,నర్మరీతి చేయలేదు,'చెల్‌యా దు' is not a valid form. 'చేయలేదు' is a common word that fits orthographically.
+test_9_13,surya,processed,23,మనో పరిబ్రహ్ం,మనోపరిబ్రహ్మ,'పరిబ్రహ్ం' is not a valid form. 'పరిబ్రహ్మ' is a plausible correction.
+test_9_53,surya,processed,1,స్థానా,స్థానం,'స్థానా' is not a valid standalone word; 'స్థానం' is the correct form.
+test_9_53,surya,processed,2,గళ్ళుపడాలి,గళ్ళు పడాలి,Missing space between 'గళ్ళు' and 'పడాలి'.
+test_9_53,surya,processed,4,శ్రో నటదులు,శ్రోతలు,'శ్రో నటదులు' is not a valid form; 'శ్రోతలు' is the correct word.
+test_9_53,surya,processed,6,గుట్టాను నారంగా,గుట్టాను నారింజ,'నారంగా' is not a standalone word; 'నారింజ' is the correct form.
+test_9_53,surya,processed,8,సుమ్మోలా,సుమ్మగా,'సుమ్మోలా' is not a valid form; 'సుమ్మగా' is the correct word.
+test_9_53,surya,processed,12,హాస్పన్,హాస్పిటల్,'హాస్పన్' is not a valid word; 'హాస్పిటల్' is the correct form.
+test_9_53,surya,processed,13,భాగముక్రి లు,భాగముక్కలు,'భాగముక్రి' is not a valid form; 'భాగముక్కలు' is the correct word.
+test_9_53,surya,processed,19,గాయప్తి,గాయపాటు,'గాయప్తి' is not a valid form; 'గాయపాటు' is the correct word.
+test_9_53,surya,processed,22,గర్భ కొరణం,గర్భకోణం,'గర్భ కొరణం' is not a valid form; 'గర్భకోణం' is the correct word.
+test_9_53,surya,processed,23,ముఖ్యపాత పుట్టు,ముఖ్యపాత్ర పుట్టు,'ముఖ్యపాత' is not a valid form; 'ముఖ్యపాత్ర' is the correct word.
+test_9_65,surya,processed,3,సాగు వై టి,సాగు వైటి,Unnecessary space in the middle of a word.
+test_9_65,surya,processed,8,తోమిరి దా,తోమిరిదా,Unnecessary space in the middle of a word.
+test_9_65,surya,processed,10,సంసిం బాద్రు,సంసింబాద్రు,Unnecessary space in the middle of a word.
+test_9_65,surya,processed,13,నీటి బలంకాను,నీటిబలంకాను,Unnecessary space in the middle of a word.
+test_9_65,surya,processed,20,సేవ లకు,సేవలకు,Unnecessary space in the middle of a word.
+test_9_65,surya,processed,24,కొం టాక్సిక్,కాంటాక్సిక్,Unnecessary space and incorrect segmentation of a loanword.
+test_9_91,surya,processed,4,కొం లూ క్రై ను,కొంక్రైను,The spaces within the word are unlikely; 'కొంక్రైను' is a more plausible single word.
+test_9_91,surya,processed,8,ప్రవేృ,ప్రవేశ,The character sequence 'ేృ' is not a valid combination in Telugu; 'ప్రవేశ' is a common word.
+test_9_91,surya,processed,11,పేర్లు లాణ్‌,పేర్లులైన్,The space and special character are unlikely; 'పేర్లులైన్' is a more plausible single word.
+test_9_91,surya,processed,17,దొన్న యా ప్రవీర,దొన్నప్రవీర,The spaces within the word are unlikely; 'దొన్నప్రవీర' is a more plausible single word.
+test_9_91,surya,processed,23,అనుగుణ మ్తేసి,అనుగుణమ్తేసి,The space within the word is unlikely; 'అనుగుణమ్తేసి' is a more plausible single word.
+test_9_166,surya,processed,8,విద్యుద రాన్సిగ్రీ,విద్యుద్రాన్సిగ్రీ,Unnecessary space in compound word.
+test_9_166,surya,processed,11,మరిగోద్వరిచిక్,మరిగోదావరి,Non-standard suffix 'చిక్' is unlikely in Telugu.
+test_9_166,surya,processed,12,హౌయం పోటీ,హౌసింగ్ పోటీ,'హౌయం' is not a valid Telugu word; likely intended 'హౌసింగ్'.
+test_9_166,surya,processed,15,చౌతు హౌ,చౌక హౌస్,'చౌతు' is not a valid Telugu word; likely intended 'చౌక'.
+test_9_166,surya,processed,19,కొన్ని నీయ నౌస,కొన్నినీ నౌక,'నీయ' is not a valid Telugu word; likely intended 'నీ'.
+test_9_166,surya,processed,21,సముద్రపు భాంవన,సముద్రపు భావన,'భాంవన' is not a valid Telugu word; likely intended 'భావన'.
+test_9_166,surya,processed,23,గుర్తు కొన్నిరు,గుర్తుకొన్నారు,'కొన్నిరు' is not a valid Telugu form; likely intended 'కొన్నారు'.
+test_9_166,surya,processed,24,పచ్చిక దినో,పచ్చిక దినం,'దినో' is not a valid Telugu word; likely intended 'దినం'.
+test_9_166,surya,processed,25,బౌద్య పు్,బౌద్ధ పుట,'బౌద్య' is not a valid Telugu word; likely intended 'బౌద్ధ'.
+test_9_249,surya,processed,8,నీరం కేంద్రం,నీటి కేంద్రం,'నీరం' is not a standalone word in Telugu; 'నీటి' (of water) is more plausible.
+test_9_249,surya,processed,9,విద్యా లింగా,విద్యాలయం,'లింగా' is not a valid suffix here; 'విద్యాలయం' (school) is a common word.
+test_9_249,surya,processed,10,ప్రమాణకిలోదు,ప్రమాణికలోదు,'ప్రమాణకిలోదు' is not a valid form; 'ప్రమాణిక' (standard) is a common prefix.
+test_9_249,surya,processed,14,బాగు వాడుకు,బాగు వాడుక,'వాడుకు' is not a valid form; 'వాడుక' (usage) is a common word.
+test_9_252,surya,processed,5,ఉత్పహ్నా,ఉత్పత్తి,"'ఉత్పహ్నా' is not a valid Telugu word. 'ఉత్పత్తి' is a common word meaning 'production', which fits orthographically."
+test_9_252,surya,processed,12,పెరి బ్రౌంయం,పెరియార్,'పెరి బ్రౌంయం' is not a valid Telugu word. 'పెరియార్' is a known name and fits the orthographic pattern.
+test_9_252,surya,processed,14,పారిశ్రామికోద్యోగ్య,పారిశ్రామికోద్యోగం,'పారిశ్రామికోద్యోగ్య' is not a valid form. 'పారిశ్రామికోద్యోగం' is a valid word meaning 'industrial employment'.
+test_9_252,surya,processed,16,బెన్నెస్కో నాగర్ లిమ్సా,బెంగళూరు నగర లిమిటెడ్,'బెన్నెస్కో నాగర్ లిమ్సా' is not a valid Telugu phrase. 'బెంగళూరు నగర లిమిటెడ్' is a plausible correction based on common usage.
+test_9_252,surya,processed,17,ప్రయోగావకాహారాలన్ని,ప్రయోగావకాశాలన్ని,'ప్రయోగావకాహారాలన్ని' is not a valid word. 'ప్రయోగావకాశాలన్ని' meaning 'all opportunities for experimentation' fits orthographically.
+test_9_393,surya,processed,11,స్వాతాయ కర్మ,స్వాతంత్ర్య కర్మ,'స్వాతాయ' is not a valid Telugu word. 'స్వాతంత్ర్య' is a common prefix meaning 'freedom'.
+test_9_393,surya,processed,16,ప్రాడోనోని యోలా,ప్రాధాన్య యోచన,"'ప్రాడోనోని' is not a valid Telugu word. 'ప్రాధాన్య' means 'importance', which fits orthographically."
+test_9_393,surya,processed,22,దేవుి నందం,దేవుని నందం,'దేవుి' is not valid. 'దేవుని' is a common form referring to 'of God'.
+test_9_393,surya,processed,23,ఎవరి లోనే నా,ఎవరిలోనైనా,'ఎవరి లోనే నా' is fragmented. 'ఎవరిలోనైనా' is a valid compound meaning 'in anyone'.
+test_9_393,surya,processed,24,ప్రశిల పోటీ,ప్రశ్నల పోటీ,"'ప్రశిల' is not valid. 'ప్రశ్నల' means 'questions', which is a common word."
+test_12_48,surya,processed,6,నిరాహార దక్షిణు,నిరాహార దక్షిణ,The word 'దక్షిణు' is likely a truncation or error; 'దక్షిణ' is a more plausible form.
+test_12_48,surya,processed,18,లాభిను ట్రైవా,లాభిని ట్రైబల్,'ట్రైవా' is not a valid form; 'ట్రైబల్' is a more plausible correction.
+test_12_48,surya,processed,20,సంక్ర హ్,సంక్రాంతి,'సంక్ర హ్' is not a valid form; 'సంక్రాంతి' is a more plausible correction.
+test_12_70,surya,processed,9,పాట ఉ,పాట,"The sequence 'ఉ' is likely an OCR artifact or error following 'పాట', which is a complete word."
+test_12_70,surya,processed,10,స్వ స్వ రూపాయ,స్వరూపాయ,"The repetition 'స్వ స్వ' is likely an OCR error, and 'స్వరూపాయ' is a plausible correction."
+test_12_70,surya,processed,13,వంగ ముల్లు,వంగముల్లు,"The space in 'వంగ ముల్లు' is likely an OCR error, as 'వంగముల్లు' is a valid compound word."
+test_12_70,surya,processed,20,బాలా మంది,బాలమంది,"The space in 'బాలా మంది' is likely an OCR error, as 'బాలమంది' is a valid compound word."
+test_12_70,surya,processed,21,దేవాత్మ వాలి,దేవాత్మవాలి,"The space in 'దేవాత్మ వాలి' is likely an OCR error, as 'దేవాత్మవాలి' is a valid compound word."
+test_12_70,surya,processed,22,మాట్ల,మాట్లాడ,'మాట్ల' is incomplete and 'మాట్లాడ' is a more probable complete form.
+test_12_70,surya,processed,23,బి జ్ఞలమ్,విజ్ఞలమ్,"The sequence 'బి జ్ఞలమ్' is likely an OCR error, and 'విజ్ఞలమ్' is a plausible correction."
+test_12_113,surya,processed,2,మౌరా లు,మౌరాలు,Unnecessary space in the middle of a single word.
+test_12_113,surya,processed,5,బక్ష్యం చలేదు,బక్ష్యం,Unnecessary space and additional characters; 'చలేదు' is not part of a single word.
+test_12_113,surya,processed,7,గెండింటలు పెట్టి,గెండింటలు,Unnecessary space and additional characters; 'పెట్టి' is not part of a single word.
+test_12_113,surya,processed,17,బిలి డా టెవె,బిల్డింగ్,Unnecessary spaces and incorrect segmentation; likely intended to be a single word.
+test_12_113,surya,processed,19,ని ర టి,నిరటి,Unnecessary spaces within a single word.
+test_12_113,surya,processed,20,కవ లోయం,కవలయం,Unnecessary space in the middle of a single word.
+test_12_113,surya,processed,22,మారు మూల,మారుమూల,Unnecessary space in the middle of a single word.
+test_12_113,surya,processed,23,పసిల్ గా,పసిల్గా,Unnecessary space in the middle of a single word.
+test_12_113,surya,processed,24,కాస్పెడా,కాస్పెరా,Orthographic error; likely a misreading of similar characters.
+test_12_125,surya,processed,6,మాట్లా ని డ్లా ౦,మాట్లాడడం,"The OCR output contains unnecessary spaces and a numeral, which is not typical in Telugu words."
+test_12_125,surya,processed,10,ప్రాం బెకో వాలో,ప్రాంబెకోవాలో,"The OCR output contains unnecessary spaces, which disrupt the word structure."
+test_12_125,surya,processed,15,కులా సాగా,కులాసాగా,"The OCR output contains an unnecessary space, which disrupts the word structure."
+test_12_125,surya,processed,17,రావ దు,రావదు,"The OCR output contains an unnecessary space, which disrupts the word structure."
+test_12_125,surya,processed,19,మార్గాల న్న,మార్గాలను,"The OCR output contains an unnecessary space and an incorrect suffix, which disrupts the word structure."
+test_12_125,surya,processed,20,విశిష్టుల్తా,విశిష్టులత,"The OCR output contains an incorrect suffix, which disrupts the word structure."
+test_12_125,surya,processed,22,చోరా మదు,చోరమదు,"The OCR output contains an unnecessary space, which disrupts the word structure."
+test_12_131,surya,processed,4,పక్షయ,పక్షి,'పక్షయ' is not a valid Telugu word. 'పక్షి' (meaning bird) is a more plausible correction.
+test_12_131,surya,processed,15,గ్రామ టందటి,గ్రామ పందటి,'టందటి' is not a valid Telugu word. 'పందటి' (meaning fair or festival) is a more plausible correction.
+test_12_131,surya,processed,16,బా కోడ్ లైన్,బార్ కోడ్ లైన్,'బా' is incomplete. 'బార్' (meaning bar) is a more plausible correction.
+test_12_131,surya,processed,18,స్వా ౦ ౮ ఝ,స్వామిజి,The sequence '౦ ౮ ఝ' is not valid. 'స్వామిజి' (a respectful term for a spiritual leader) is a plausible correction.
+test_12_131,surya,processed,20,హౌర్ బు సిం,హౌస్ బిల్డింగ్,'బు సిం' is not valid. 'బిల్డింగ్' (meaning building) is a plausible correction.
+test_12_131,surya,processed,24,శ్రీ స్త్రీ కు ని,శ్రీ స్త్రీకుని,'కు ని' is not a valid separation. 'స్త్రీకుని' (a form of address) is a plausible correction.
+test_12_165,surya,processed,1,ప్రమాణమౌనిదు,ప్రమాణమౌనిది,The ending 'దు' is less common than 'ది' for this form.
+test_12_165,surya,processed,3,త్రిప్రామ సందాంగా,త్రిప్రాసందంగా,The word 'సందాంగా' is likely a misreading of 'సందంగా'.
+test_12_165,surya,processed,4,భక్తు తలుపబాడు,భక్తుడు తలుపబాడు,'భక్తు' is likely a misreading of 'భక్తుడు'.
+test_12_165,surya,processed,7,కయ్యాన్క,కయ్యాంక,The sequence 'యాన్క' is likely a misreading of 'యాంక'.
+test_12_165,surya,processed,11,సింహాసన వేయలతో,సింహాసనమేయలతో,'వేయలతో' is likely a misreading of 'మేయలతో'.
+test_12_165,surya,processed,12,న పువి కు ంటూ,నిప్పు వికుంటూ,The spaces and sequence 'పువి' suggest a misreading of 'నిప్పు'.
+test_12_165,surya,processed,13,ఎండుట నమోగే లో,ఎండుటనమోగేలో,The spaces are likely incorrect in this sequence.
+test_12_165,surya,processed,14,ఎమిడి ప చుట్టుపొ్,ఎమిడిపుచుట్టుపో,The spaces and ending 'పొ్' suggest a misreading of 'పో'.
+test_12_165,surya,processed,18,పోషణ బోస్,పోషణబోస్,The space is likely incorrect in this sequence.
+test_12_191,surya,processed,4,నిజనిర్దౌరణ,నిజనిర్ధారణ,"The word 'నిర్దౌరణ' is not a valid Telugu word. The correct form is 'నిర్ధారణ', which means 'determination' or 'verification'."
+test_12_191,surya,processed,6,వెళుతుంటే గా,వెళుతుంటే,"The word 'గా' is an unnecessary addition, making it implausible as a single word."
+test_12_191,surya,processed,14,కార్పో నుట్టి శివాల్లు,కార్పొరేట్ శివాల్లు,The sequence 'నుట్టి' is not a valid Telugu word. 'కార్పొరేట్' is a more plausible correction.
+test_12_191,surya,processed,16,పాకార్య,పాకార్యం,"'పాకార్య' is not a valid Telugu word. 'పాకార్యం' is a more plausible correction, meaning 'cooking' or 'culinary activity'."
+test_12_191,surya,processed,22,ప్రవాయము,ప్రవాహము,'ప్రవాయము' is not a valid Telugu word. 'ప్రవాహము' means 'flow' or 'stream'.
+test_12_191,surya,processed,23,పరికరా రామన్,పరికరాలు రామన్,'పరికరా' is not a valid standalone word. 'పరికరాలు' means 'tools' or 'equipment'.
+test_12_195,surya,processed,3,కూట్టి వెయండ్,కూటి వెయండి,'కూట్టి' is not a valid standalone word; 'కూటి' is more plausible. 'వెయండ్' is likely a misreading of 'వెయండి'.
+test_12_195,surya,processed,8,హై ను పు ను,హైనుపును,Unnecessary spaces in 'హై ను పు ను'; 'హైనుపును' is a more plausible single word.
+test_12_195,surya,processed,10,కారని లేక,కారణం లేక,'కారని' is not a valid form; 'కారణం' is a common word meaning 'reason'.
+test_12_195,surya,processed,11,స్వాత్రీ దాయకత్వం,స్వాతంత్ర్య దాయకత్వం,'స్వాత్రీ' is not a valid form; 'స్వాతంత్ర్య' is a common prefix meaning 'freedom'.
+test_12_195,surya,processed,15,పుత్రు నాడి నుం,పుత్రునాడినుంచి,Unnecessary spaces and incorrect form; 'పుత్రునాడినుంచి' is a more plausible single word.
+test_12_195,surya,processed,19,కావి లి,కావాలి,'కావి లి' is not a valid form; 'కావాలి' is a common word meaning 'want' or 'need'.
+test_12_195,surya,processed,21,గణీయునా,గణనీయునా,'గణీయునా' is not a valid form; 'గణనీయునా' is a more plausible word.
+test_12_195,surya,processed,23,విశ్వ దక్షుం దై,విశ్వదక్షుడు,Unnecessary spaces and incorrect form; 'విశ్వదక్షుడు' is a more plausible single word.
+test_12_195,surya,processed,24,బంకేత్రవ్రకు,బంకేత్రవరకు,'బంకేత్రవ్రకు' is not a valid form; 'బంకేత్రవరకు' is a more plausible word.
+test_13_2,surya,processed,7,ర్వ ధీరాకి,ధీరాకి,The sequence 'ర్వ' is unlikely to precede 'ధీరాకి' as a valid Telugu word.
+test_13_2,surya,processed,9,గోగు పుల్లల్లి,గోకుల్లి,'గోగు పుల్లల్లి' is not a plausible Telugu word. 'గోకుల్లి' is a more probable correction.
+test_13_2,surya,processed,10,విశేషాల్యం కు,విశేషాలకు,'విశేషాల్యం కు' is not a valid form. 'విశేషాలకు' is a more plausible correction.
+test_13_2,surya,processed,14,బా లేందుకు,బాలేందుకు,The space in 'బా లేందుకు' is likely an OCR error. 'బాలేందుకు' is a valid form.
+test_13_2,surya,processed,21,ప్రభుత్వంలు,ప్రభుత్వాలు,'ప్రభుత్వంలు' is not a valid plural form. 'ప్రభుత్వాలు' is the correct plural form.
+test_13_2,surya,processed,24,వర్ణనున,వర్ణనను,'వర్ణనున' is not a valid form. 'వర్ణనను' is the correct accusative form.
+test_13_7,surya,processed,8,కామరిప్త లే,కామరిప్తలే,Unnecessary space in the middle of a compound word.
+test_13_7,surya,processed,9,మాట ప్రవృద్ధి,మాట ప్రవర్తి,'ప్రవృద్ధి' is not a valid standalone word; 'ప్రవర్తి' is a more plausible correction.
+test_13_7,surya,processed,19,హారి హౌయక వేత్తలను,హారిహౌక వేత్తలను,Unnecessary space in the middle of a compound word.
+test_13_9,surya,processed,1,ఏ తే రాజు యంది,ఏదే రాజు యంది,The sequence 'ఏ తే' is unlikely; 'ఏదే' is a more plausible Telugu word.
+test_13_9,surya,processed,3,ఎన్ డి కౌంటర్ ఎబ్జెట్,ఎన్ డి కౌంటర్ ఆబ్జెక్ట్,'ఎబ్జెట్' is not a valid Telugu transliteration; 'ఆబ్జెక్ట్' is a common transliteration for 'object'.
+test_13_9,surya,processed,10,సమీప రాష్ట్ర వి,సమీప రాష్ట్రవి,The space before 'వి' is unnecessary; 'రాష్ట్రవి' is a more coherent form.
+test_13_9,surya,processed,14,గుపరిపాలన,గుడ్ పాలన,'గుపరిపాలన' is not a valid word; 'గుడ్ పాలన' (good governance) is a plausible correction.
+test_13_12,surya,processed,18,మార్కాన్,మార్కం,"'మార్కాన్' is not a plausible Telugu word. 'మార్కం' is a more likely correction, as it is a common Telugu word meaning 'mark' or 'stamp'."
+test_13_13,surya,processed,9,సక్షితం,సాక్ష్యం,"The word 'సక్షితం' is not a valid Telugu word. The correct form 'సాక్ష్యం' means 'evidence' or 'proof', which is a common word."
+test_13_13,surya,processed,16,వట్టిన,వాటిని,'వట్టిన' is not a valid standalone word. 'వాటిని' is a common pronoun form meaning 'them'.
+test_13_13,surya,processed,23,మార్కెటింగు,మార్కెటింగ్,"The word 'మార్కెటింగు' is an incorrect form of the loanword 'మార్కెటింగ్', which is the Telugu adaptation of 'marketing'."
+test_13_23,surya,processed,7,తన్ని ఉపరిహ్,తన్ని ఉపహారం,'ఉపరిహ్' is not a valid Telugu word. 'ఉపహారం' (offering) is a plausible correction.
+test_13_23,surya,processed,14,బీ సు కోవ డమ్,బీసుకోడం,The spaces suggest incorrect segmentation. 'బీసుకోడం' (to sweep) is a plausible correction.
+test_13_23,surya,processed,17,మెలిగ పెట్టి గారి,మెలిగపెట్టిగారి,The spaces suggest incorrect segmentation. 'మెలిగపెట్టిగారి' (a name or title) is a plausible correction.
+test_13_23,surya,processed,23,హౌస్టేషన్,హౌస్‌స్టేషన్,'హౌస్టేషన్' is not a valid compound. 'హౌస్‌స్టేషన్' (house station) is a plausible correction.
+test_13_24,surya,processed,2,బాతూ క్రీస్తు శాస్త్రాలే,బైబిల్ క్రీస్తు శాస్త్రాలే,'బాతూ' is not a plausible Telugu word. 'బైబిల్' is a more likely term related to 'క్రీస్తు' (Christ).
+test_13_24,surya,processed,11,కూడ యౌరిట,కూడా యూరిట్,'యౌరిట' is not a valid Telugu word. 'యూరిట్' is a more plausible correction.
+test_13_24,surya,processed,15,శిష్యు వెట్టి,శిష్యుల వెట్టి,'శిష్యు' is incomplete; 'శిష్యుల' (plural form) is more plausible.
+test_13_24,surya,processed,21,వినియోగంటారా,వినియోగం అంటారా,'వినియోగంటారా' is not a valid compound. 'వినియోగం అంటారా' is a more plausible separation.
+test_13_32,surya,processed,1,లోని వర్తా డు,లోనివర్తాడు,Unnecessary space in the middle of a compound word.
+test_13_32,surya,processed,6,సీహాసంప్,సింహాసనం,Phonetically similar but incorrect; likely intended word is 'సింహాసనం' (throne).
+test_13_32,surya,processed,7,కల పు లింద,కల్పులింద,Unnecessary spaces and incorrect segmentation in a single word.
+test_13_32,surya,processed,9,సంవత్రారాన్ని,సంవత్సరాన్ని,Typographical error; 'సంవత్సరాన్ని' is the correct form.
+test_13_32,surya,processed,14,వివర,వివరాలు,Incomplete word; 'వివరాలు' is a more complete form.
+test_13_32,surya,processed,18,వరిరచిలా,విరచిలా,Unnecessary initial consonant; 'విరచిలా' is more plausible.
+test_13_32,surya,processed,20,కొద్దిమలి,కొద్దిమంది,Phonetically similar but incorrect; 'కొద్దిమంది' (few people) is more plausible.
+test_13_32,surya,processed,24,విహం బాలు,విహంగాలు,Incorrect segmentation and phonetic error; 'విహంగాలు' (birds) is more plausible.
+val_4_69,surya,processed,1,పారలున్నెయినీ,పారలున్నవనీ,The sequence 'నెయినీ' is unlikely; 'నవనీ' is a more plausible morphological form.
+val_4_69,surya,processed,4,కొర భినేయనీ,కొర భినవనీ,The sequence 'భినేయనీ' is unlikely; 'భినవనీ' is a more plausible morphological form.
+val_4_69,surya,processed,6,రూయినిక,రాయినిక,'రూయినిక' is not a valid form; 'రాయినిక' is a more plausible orthographic correction.
+val_4_69,surya,processed,15,బాటానన్న టానా,బాటానంటానా,The sequence 'నన్న టానా' is unlikely; 'నంటానా' is a more plausible morphological form.
+val_4_69,surya,processed,18,చేసింటివయ్య,చేసినటివయ్య,'చేసింటివయ్య' is not a valid form; 'చేసినటివయ్య' is a more plausible morphological correction.
+val_4_69,surya,processed,19,హారాడు,హారత,'హారాడు' is not a valid form; 'హారత' is a more plausible orthographic correction.
+val_4_69,surya,processed,28,అటాయిక్,అటాక్ట్,'అటాయిక్' is not a valid form; 'అటాక్ట్' is a more plausible orthographic correction.
+val_4_149,surya,processed,2,మెనుక ట్రానాల్స్,మెనుక ట్రైనింగ్,'ట్రానాల్స్' is not a plausible Telugu word. 'ట్రైనింగ్' is a more likely correction given the context of training.
+val_4_149,surya,processed,3,ముస్తో రింవింపుగా,ముస్తాబుగా,'రింవింపుగా' is not a valid Telugu word. 'ముస్తాబుగా' is a more plausible correction.
+val_4_149,surya,processed,4,స న్మి ధైరాద్,సన్మిధిరాద,'స న్మి ధైరాద్' contains spaces and unlikely letter combinations. 'సన్మిధిరాద' is a more plausible correction.
+val_4_149,surya,processed,8,పెరిగాంటు,పెరిగినట్లు,'పెరిగాంటు' is not a valid Telugu word. 'పెరిగినట్లు' is a more plausible correction.
+val_4_149,surya,processed,9,కవరా పండు,కవరపండు,'కవరా పండు' contains an unnecessary space. 'కవరపండు' is a more plausible correction.
+val_4_149,surya,processed,10,హ సై కా,హస్కా,'హ సై కా' contains spaces and unlikely letter combinations. 'హస్కా' is a more plausible correction.
+val_4_149,surya,processed,11,ఎక,ఏక,'ఎక' is not a valid Telugu word. 'ఏక' is a more plausible correction.
+val_4_149,surya,processed,12,పురిడ్డి వారు,పురిట్టివారు,'పురిడ్డి' is not a valid Telugu word. 'పురిట్టివారు' is a more plausible correction.
+val_4_149,surya,processed,18,ప్రపంచకాంకేతులు,ప్రపంచాంకేతులు,'కాంకేతులు' is not a valid Telugu word. 'ప్రపంచాంకేతులు' is a more plausible correction.
+val_4_149,surya,processed,19,సాఫీల్చకులు,సాఫ్ట్‌వేర్,'సాఫీల్చకులు' is not a valid Telugu word. 'సాఫ్ట్‌వేర్' is a more plausible correction.
+val_4_149,surya,processed,20,మాస్కోడ్,మాస్కో,'మాస్కోడ్' is not a valid Telugu word. 'మాస్కో' is a more plausible correction.
+val_4_155,surya,processed,2,ఉదయక్రుడి రి టుంన్న ట్టు,ఉదయకిరణ్,"The sequence contains spaces and non-standard characters, suggesting a misrecognition of a name."
+val_4_155,surya,processed,5,వెంక టూవ్,వెంకటేశ్,"The sequence contains spaces and non-standard characters, suggesting a misrecognition of a common name."
+val_4_155,surya,processed,22,హేందు వ్యాస్ను,హిందూ వ్యాసం,"The sequence contains spaces and non-standard characters, suggesting a misrecognition of a common phrase."
+val_4_189,surya,processed,2,రాట్టు ప్రాక పోవడమ్మ,రాత్రి ప్రాకటించడము,'రాట్టు' and 'ప్రాక' are not valid Telugu words. Likely intended 'రాత్రి' (night) and 'ప్రాకటించడము' (announcement).
+val_4_189,surya,processed,7,మంచిర మే,మంచిరం,'మంచిర మే' is not a valid word. Likely intended 'మంచిరం' (a proper noun or place name).
+val_4_189,surya,processed,9,మినరలాగి,మినరలాజి,'మినరలాగి' is not a valid word. Likely intended 'మినరలాజి' (mineralogy).
+val_4_189,surya,processed,12,పాఠవిశ్రం ఆది,పాఠవిశ్రాంతి,'పాఠవిశ్రం' is not valid. Likely intended 'పాఠవిశ్రాంతి' (recess).
+val_4_189,surya,processed,15,సమావేశమైనద్వటికికి,సమావేశమైనది,'సమావేశమైనద్వటికికి' is not valid. Likely intended 'సమావేశమైనది' (meeting happened).
+val_4_189,surya,processed,16,ప్రకాశవ ట్రాక్రాన్,ప్రకాశం,'ప్రకాశవ ట్రాక్రాన్' is not valid. Likely intended 'ప్రకాశం' (light or a name).
+val_4_189,surya,processed,20,షో రూ క్సు,షోరూం,'షో రూ క్సు' is not valid. Likely intended 'షోరూం' (showroom).
+val_4_189,surya,processed,21,బెంయాన్ల రత్న,బెంగాల్ రత్న,'బెంయాన్ల' is not valid. Likely intended 'బెంగాల్' (Bengal).
+val_4_206,surya,processed,1,నోరా డి నా లు,నోరాదినాలు,The spaces in 'నోరా డి నా లు' suggest a segmentation error. 'నోరాదినాలు' is a plausible compound word.
+val_4_206,surya,processed,3,దేవి చరిత్రాన్,దేవి చరిత్రం,'చరిత్రాన్' is not a valid Telugu word form. 'చరిత్రం' is the correct form for 'history'.
+val_4_206,surya,processed,4,‍ రాజ కు,రాజుకు,The space and extra character in '‍ రాజ కు' suggest an OCR artifact. 'రాజుకు' is a valid dative form.
+val_4_206,surya,processed,8,దూ పి లు,దూపులు,The spaces in 'దూ పి లు' suggest a segmentation error. 'దూపులు' is a valid word meaning 'incense sticks'.
+val_4_206,surya,processed,10,కన్నె దం మీ నుండు,కన్నెదమ్మినుండు,The spaces in 'కన్నె దం మీ నుండు' suggest a segmentation error. 'కన్నెదమ్మినుండు' is a plausible compound word.
+val_4_206,surya,processed,12,సాధు బారిన్,సాధుబారి,'బారిన్' is not a valid Telugu suffix. 'సాధుబారి' is a plausible correction.
+val_4_206,surya,processed,16,సావ దౌవంగా,సావధానంగా,'దౌవంగా' is not a valid form. 'సావధానంగా' means 'carefully'.
+val_4_206,surya,processed,17,ర్యావ స్మేలను,వ్యాస్మేలను,'ర్యావ' is not a valid prefix. 'వ్యాస్మేలను' is a plausible correction.
+val_4_206,surya,processed,21,కు ముద్రి లాడులు,కుముద్రిలాడులు,The spaces in 'కు ముద్రి లాడులు' suggest a segmentation error. 'కుముద్రిలాడులు' is a plausible compound word.
+val_4_206,surya,processed,23,దైరి ట్రాస్ నూరి,డైరీ ట్రాన్స్ నూరి,'దైరి' is likely a misreading of 'డైరీ'. 'డైరీ ట్రాన్స్ నూరి' is a plausible correction.
+val_4_206,surya,processed,25,దహంబాల్,దహంబాద్,"'దహంబాల్' is not a valid Telugu word. 'దహంబాద్' is a plausible correction, possibly a place name."
+val_4_219,surya,processed,3,ద్రుడి ఒం ఒం గా,దృఢంగా,"The sequence 'ద్రుడి ఒం ఒం గా' is unlikely as a standalone word. 'దృఢంగా' is a valid Telugu word meaning 'firmly', and the repetition of 'ఒం' suggests an OCR error."
+val_4_219,surya,processed,4,నిర్మూ ప్రి బా నీ,నిర్మాణానికి,"The sequence 'నిర్మూ ప్రి బా నీ' is not a plausible Telugu word. 'నిర్మాణానికి' is a valid word meaning 'for construction', and the fragmented nature suggests OCR errors."
+val_4_219,surya,processed,13,సార్వ బౌ మతాన్ని,సార్వభౌమతాన్ని,"The sequence 'సార్వ బౌ మతాన్ని' is unlikely as a standalone word. 'సార్వభౌమతాన్ని' is a valid Telugu word meaning 'sovereignty', and the spacing suggests an OCR error."
+val_4_219,surya,processed,14,పల్లెల బహుకుంటూ,పల్లెల్లో బహుకుతూ,"The sequence 'పల్లెల బహుకుంటూ' is unlikely as a standalone word. 'పల్లెల్లో బహుకుతూ' is a valid phrase meaning 'distributing in villages', and the spacing suggests an OCR error."
+val_4_233,surya,processed,1,సాగరం కేరు,సాగరంకేరు,Unnecessary space in a compound word.
+val_4_233,surya,processed,2,శ్రీ ర్గీ రి,శ్రీ రామగిరి,Unlikely consonant cluster 'ర్గీ' suggests a misreading.
+val_4_233,surya,processed,3,హే ల్లా లి స్తు న్మాటు,హేళ్లాలిస్తున్నమాట,Unnecessary spaces and incorrect segmentation in a compound word.
+val_4_233,surya,processed,4,రా జిల్లా మళ్ళిం,రాజిల్లామళ్ళి,Unnecessary space and truncation in a compound word.
+val_4_233,surya,processed,9,సిన్సే సంరక్షణ,సంసే సంరక్షణ,Unlikely initial consonant cluster 'సిన్సే' suggests a misreading.
+val_4_233,surya,processed,15,స కూల,స్కూల్,Unnecessary space in a common loanword.
+val_4_233,surya,processed,19,ప్రజ్విత్తోంతి పటి నట్టు,ప్రజ్వలితంతో పటినట్టు,Unlikely consonant cluster 'జ్విత్తోంతి' suggests a misreading.
+val_4_233,surya,processed,20,ం,అం,Isolated diacritic 'ం' is incomplete without a base character.
+val_4_238,surya,processed,10,సురి పూ ద్వే ంగా,సురిపుద్వేంగా,Unusual spacing and character separation in a probable compound word.
+val_4_238,surya,processed,15,గా హౌకు,గాహౌకు,Unusual spacing in a probable single word.
+val_4_238,surya,processed,16,దూర మార్పు తెుంద నేటి,దూరమార్పుతెందనేటి,Unusual spacing in a probable compound word.
+val_4_238,surya,processed,18,ప్రాంత పుట్టడ,ప్రాంతపుట్టడ,Unusual spacing in a probable single word.
+val_4_238,surya,processed,19,త పో యోగాల,తపోయోగాల,Unusual spacing in a probable single word.
+val_4_238,surya,processed,20,విజ్ఞేత్తర్‌,విజ్ఞేత్తర్,Unusual character at the end of a probable name or title.
+val_4_238,surya,processed,23,దుశా బ్హి లోని,దుశాభిలోని,Unusual spacing in a probable single word.
+val_10_53,surya,processed,7,క్షణ ం,క్షణం,Unnecessary space between the word and the suffix 'ం' which is a common Telugu word ending.
+val_10_53,surya,processed,9,మా ౬౬,మా,The sequence '౬౬' is not a valid Telugu word component and appears to be a misrecognition.
+val_10_89,surya,processed,5,అప్పార్లీనాటూరి,అప్పార్లీనగరి,The word 'నాటూరి' is not a plausible Telugu word. 'నగరి' is a more likely suffix for a place name.
+val_10_108,surya,processed,11,వౌడకూరుడు,వౌడకూర్చు,The sequence 'కూరుడు' is unlikely; 'కూర్చు' is a more common form.
+val_10_179,surya,processed,25,వైద్య ల,వైద్యులు,"The space in 'వైద్య ల' suggests a split in the word. 'వైద్యులు' is a common Telugu word meaning 'doctors', which fits the orthographic pattern."
+val_10_350,surya,processed,21,వే బూనే లే నాని,వేబూనేలేని,"The OCR output contains unnecessary spaces and a probable segmentation error, suggesting a more plausible compound word."
+val_10_386,surya,processed,1,రాహ లెగ్గిగికో,రాహులెగ్గికో,The space in 'రాహ లెగ్గిగికో' is unlikely in a single word. 'రాహులెగ్గికో' is a more plausible compound.
+val_10_386,surya,processed,6,డో ౮ యం వున్నా,డోయం వున్నా,The numeral '౮' is unlikely in a word. 'డోయం వున్నా' is a more plausible correction.
+val_10_386,surya,processed,12,అన్నా రీలకు,అన్నారీలకు,The space in 'అన్నా రీలకు' is unlikely in a single word. 'అన్నారీలకు' is a more plausible compound.
+val_10_386,surya,processed,18,వ్రౌరసుడులయిరారు,వ్రౌరసులు యిరారు,The sequence 'వ్రౌరసుడులయిరారు' is unlikely. 'వ్రౌరసులు యిరారు' separates into plausible components.
+val_10_386,surya,processed,19,మి తీపకొల్లెపైన,మీ తీపకొల్లెపైన,The space in 'మి తీపకొల్లెపైన' is unlikely. 'మీ తీపకొల్లెపైన' is a more plausible compound.
+val_10_386,surya,processed,23,బ్రిడ్జి సేక్షిక,బ్రిడ్జి సెక్షన్,'సేక్షిక' is unlikely. 'సెక్షన్' is a more plausible correction.
+val_10_469,surya,processed,1,ప్రశ్నిపెయినిన్నట్లు,ప్రశ్నించినట్లు,The word 'ప్రశ్నిపెయినిన్నట్లు' is not a valid Telugu word. The probable correction 'ప్రశ్నించినట్లు' is a valid form meaning 'as questioned'.
+val_10_469,surya,processed,13,మంతోమిశ్రదేవేలు,మండలమిశ్రదేవేలు,"The sequence 'మంతోమిశ్రదేవేలు' is not a valid Telugu word. 'మండలమిశ్రదేవేలు' is a more plausible correction, possibly referring to a name."
+val_10_469,surya,processed,15,స్థానితం,స్థానికం,The word 'స్థానితం' is not a standard Telugu word. 'స్థానికం' meaning 'local' is a more probable correction.
+val_10_469,surya,processed,21,ఎిపెమెంటు,ఎంప్లిమెంటు,"The sequence 'ఎిపెమెంటు' is not a valid Telugu word. 'ఎంప్లిమెంటు' is a more plausible correction, likely a transliteration of 'implement'."
+val_10_480,surya,processed,6,సాధ్యపెంగుల,సాధ్యపెట్టులు,'సాధ్యపెంగుల' is not a valid Telugu word. The correction 'సాధ్యపెట్టులు' is a plausible word meaning 'possible tasks'.
+val_10_480,surya,processed,11,గుర్తులేని ాయి,గుర్తులేని నాయి,The sequence 'ాయి' is not valid. 'నాయి' (dog) is a plausible correction.
+val_10_480,surya,processed,20,ఎన్నాడూపంగు ఆఫ్లం,ఎన్నాడూ పంగు ఆఫీసు,'ఎన్నాడూపంగు ఆఫ్లం' is not valid. 'ఎన్నాడూ పంగు ఆఫీసు' (office) is a plausible correction.

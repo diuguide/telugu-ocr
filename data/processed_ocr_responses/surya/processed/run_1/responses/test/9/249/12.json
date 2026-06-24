@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/249/12.png",
+  "relative_input_path": "test/9/249/12.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 44.83671364199995,
+  "raw_text": "Window 63",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            776.0,
+            0.0
+          ],
+          [
+            776.0,
+            283.0
+          ],
+          [
+            0.0,
+            283.0
+          ]
+        ],
+        "confidence": 0.5758340264474378,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>Window 63</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          776.0,
+          283.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      776.0,
+      283.0
+    ]
+  }
+}

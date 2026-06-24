@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/65/3.png",
+  "relative_input_path": "test/9/65/3.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 66.64302395000414,
+  "raw_text": "సాగు కొడవీ",
+  "text": "సాగు కొడవీ",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            659.0,
+            0.0
+          ],
+          [
+            659.0,
+            269.0
+          ],
+          [
+            0.0,
+            269.0
+          ]
+        ],
+        "confidence": 0.7492075929585791,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>సాగు కొడవీ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          659.0,
+          269.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      659.0,
+      269.0
+    ]
+  }
+}

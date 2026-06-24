@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/9/166/19.jpg",
+  "relative_input_path": "test/9/166/19.jpg",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 27.076630457002466,
+  "raw_text": "కొన్ని నీయ నౌస",
+  "text": "కొన్ని నీయ నౌస",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1532.0,
+            0.0
+          ],
+          [
+            1532.0,
+            293.0
+          ],
+          [
+            0.0,
+            293.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>కొన్ని నీయ నౌస</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1532.0,
+          293.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1532.0,
+      293.0
+    ]
+  }
+}

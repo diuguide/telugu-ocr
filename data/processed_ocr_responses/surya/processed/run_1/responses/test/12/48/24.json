@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/48/24.png",
+  "relative_input_path": "test/12/48/24.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 8.014175397000145,
+  "raw_text": "పాలయి",
+  "text": "పాలయి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 5,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            666.0,
+            0.0
+          ],
+          [
+            666.0,
+            168.0
+          ],
+          [
+            0.0,
+            168.0
+          ]
+        ],
+        "confidence": 0.7464250276806745,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>పాలయి</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          666.0,
+          168.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      666.0,
+      168.0
+    ]
+  }
+}

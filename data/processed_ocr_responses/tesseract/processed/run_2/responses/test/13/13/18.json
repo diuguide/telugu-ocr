@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/18.png",
+  "relative_input_path": "test/13/13/18.png",
+  "status": "ok",
+  "raw_text": "మునల్ల నా",
+  "text": "మునల్ల నా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "elapsed_seconds": 0.5737934989992937,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/17.png",
+  "relative_input_path": "val/4/233/17.png",
+  "status": "ok",
+  "raw_text": "ఆపద",
+  "text": "ఆపద",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 3,
+  "elapsed_seconds": 0.5978429050001068,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

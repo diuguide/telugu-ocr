@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/113/23.png",
+  "relative_input_path": "test/12/113/23.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 39.17225046300018,
+  "raw_text": "పసిల్ గా",
+  "text": "పసిల్ గా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 7,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            639.0,
+            0.0
+          ],
+          [
+            639.0,
+            259.0
+          ],
+          [
+            0.0,
+            259.0
+          ]
+        ],
+        "confidence": 0.6155862025623964,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>పసిల్ గా</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          639.0,
+          259.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      639.0,
+      259.0
+    ]
+  }
+}

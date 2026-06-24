@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/195/22.png",
+  "relative_input_path": "test/12/195/22.png",
+  "status": "ok",
+  "raw_text": "కొ ద్రీ450)",
+  "text": "కొ ద్రీ",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 6,
+  "elapsed_seconds": 0.620894716004841,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

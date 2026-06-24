@@ -1,0 +1,125 @@
+CER/WER VALIDATION REPORT
+Results root: /home/tom/telugu_data/bin/data/processed_ocr_responses
+Ground-truth manifest: /home/tom/telugu_data/data/ground_truth/manifests/ground_truth_manifest.csv
+Configurations evaluated: 6
+
+CONFIGURATION 1: surya/processed/run_1
+Input path: /home/tom/telugu_data/bin/data/processed_ocr_responses/surya/processed/run_1/results.jsonl
+Model: surya
+Input kind: processed
+Run: run_1
+CER: 0.868445
+WER: 1.385230
+Coverage: 501/961 (0.521332)
+Complete pages: 20
+Partial pages: 1
+Empty outputs: 243
+Exact matches: 7
+Exact accuracy: 0.013972
+Mean word CER: 0.890261
+Mean word WER: 1.385230
+Mean page CER: 0.722694
+Mean page WER: 1.091874
+Error records skipped: 0
+Unmapped records skipped: 1
+
+CONFIGURATION 2: surya/processed/run_2
+Input path: /home/tom/telugu_data/bin/data/processed_ocr_responses/surya/processed/run_2/results.jsonl
+Model: surya
+Input kind: processed
+Run: run_2
+CER: 0.834889
+WER: 1.312175
+Coverage: 961/961 (1.000000)
+Complete pages: 40
+Partial pages: 0
+Empty outputs: 483
+Exact matches: 27
+Exact accuracy: 0.028096
+Mean word CER: 0.876889
+Mean word WER: 1.312175
+Mean page CER: 0.705466
+Mean page WER: 1.058004
+Error records skipped: 0
+Unmapped records skipped: 1
+
+CONFIGURATION 3: surya/raw
+Input path: /home/tom/telugu_data/bin/data/processed_ocr_responses/surya/raw/results.jsonl
+Model: surya
+Input kind: raw
+Run: raw
+CER: 0.786748
+WER: 1.296875
+Coverage: 512/961 (0.532778)
+Complete pages: 21
+Partial pages: 1
+Empty outputs: 256
+Exact matches: 13
+Exact accuracy: 0.025391
+Mean word CER: 0.808241
+Mean word WER: 1.296875
+Mean page CER: 0.694370
+Mean page WER: 1.039255
+Error records skipped: 0
+Unmapped records skipped: 1
+
+CONFIGURATION 4: tesseract/processed/run_1
+Input path: /home/tom/telugu_data/bin/data/processed_ocr_responses/tesseract/processed/run_1/results.jsonl
+Model: tesseract
+Input kind: processed
+Run: run_1
+CER: 0.863256
+WER: 1.417274
+Coverage: 961/961 (1.000000)
+Complete pages: 40
+Partial pages: 0
+Empty outputs: 414
+Exact matches: 1
+Exact accuracy: 0.001041
+Mean word CER: 0.874343
+Mean word WER: 1.417274
+Mean page CER: 0.779458
+Mean page WER: 1.246459
+Error records skipped: 0
+Unmapped records skipped: 1
+
+CONFIGURATION 5: tesseract/processed/run_2
+Input path: /home/tom/telugu_data/bin/data/processed_ocr_responses/tesseract/processed/run_2/results.jsonl
+Model: tesseract
+Input kind: processed
+Run: run_2
+CER: 0.783246
+WER: 1.396462
+Coverage: 961/961 (1.000000)
+Complete pages: 40
+Partial pages: 0
+Empty outputs: 280
+Exact matches: 10
+Exact accuracy: 0.010406
+Mean word CER: 0.795149
+Mean word WER: 1.396462
+Mean page CER: 0.697432
+Mean page WER: 1.266618
+Error records skipped: 0
+Unmapped records skipped: 1
+
+CONFIGURATION 6: tesseract/raw
+Input path: /home/tom/telugu_data/bin/data/processed_ocr_responses/tesseract/raw/results.jsonl
+Model: tesseract
+Input kind: raw
+Run: raw
+CER: 0.898897
+WER: 1.034339
+Coverage: 961/961 (1.000000)
+Complete pages: 40
+Partial pages: 0
+Empty outputs: 730
+Exact matches: 9
+Exact accuracy: 0.009365
+Mean word CER: 0.907722
+Mean word WER: 1.034339
+Mean page CER: 0.853795
+Mean page WER: 0.990503
+Error records skipped: 0
+Unmapped records skipped: 1
+

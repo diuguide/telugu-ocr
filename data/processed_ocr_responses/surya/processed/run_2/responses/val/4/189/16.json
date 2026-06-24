@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/16.png",
+  "relative_input_path": "val/4/189/16.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.879199179998977,
+  "raw_text": "ప్రకాశవ ట్రాక్రాన్",
+  "text": "ప్రకాశవ ట్రాక్రాన్",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 17,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1003.0,
+            0.0
+          ],
+          [
+            1003.0,
+            206.0
+          ],
+          [
+            0.0,
+            206.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ప్రకాశవ ట్రాక్రాన్</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1003.0,
+          206.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1003.0,
+      206.0
+    ]
+  }
+}

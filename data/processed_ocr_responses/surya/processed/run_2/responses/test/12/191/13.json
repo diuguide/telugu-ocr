@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/13.png",
+  "relative_input_path": "test/12/191/13.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 19.838348936998955,
+  "raw_text": "ಜಿನು ಸುಲ್ತೊಂಡೆ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1189.0,
+            0.0
+          ],
+          [
+            1189.0,
+            284.0
+          ],
+          [
+            0.0,
+            284.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಜಿನು ಸುಲ್ತೊಂಡೆ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1189.0,
+          284.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1189.0,
+      284.0
+    ]
+  }
+}

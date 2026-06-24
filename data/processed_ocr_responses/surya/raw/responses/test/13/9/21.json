@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/13/9/21.jpg",
+  "relative_input_path": "test/13/9/21.jpg",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.549974015000771,
+  "raw_text": "వీహి",
+  "text": "వీహి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 4,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            652.0,
+            0.0
+          ],
+          [
+            652.0,
+            292.0
+          ],
+          [
+            0.0,
+            292.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "వీహి",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          652.0,
+          292.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      652.0,
+      292.0
+    ]
+  }
+}

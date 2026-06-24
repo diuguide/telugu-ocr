@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/252/20.png",
+  "relative_input_path": "test/9/252/20.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 10.782346380000035,
+  "raw_text": "పంటల ను",
+  "text": "పంటల ను",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 6,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            856.0,
+            0.0
+          ],
+          [
+            856.0,
+            183.0
+          ],
+          [
+            0.0,
+            183.0
+          ]
+        ],
+        "confidence": 0.830463568704243,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>పంటల ను</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          856.0,
+          183.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      856.0,
+      183.0
+    ]
+  }
+}

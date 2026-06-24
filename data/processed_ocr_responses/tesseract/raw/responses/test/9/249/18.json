@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/9/249/18.jpg",
+  "relative_input_path": "test/9/249/18.jpg",
+  "status": "ok",
+  "raw_text": "డజగయాల్ల",
+  "text": "డజగయాల్ల",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "elapsed_seconds": 1.1513619270117488,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/22.png",
+  "relative_input_path": "val/4/238/22.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 7.902387018999434,
+  "raw_text": "చెప్పుటకు",
+  "text": "చెప్పుటకు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            729.0,
+            0.0
+          ],
+          [
+            729.0,
+            171.0
+          ],
+          [
+            0.0,
+            171.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>చెప్పుటకు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          729.0,
+          171.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      729.0,
+      171.0
+    ]
+  }
+}

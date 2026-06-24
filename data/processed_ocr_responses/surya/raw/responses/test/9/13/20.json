@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/9/13/20.jpg",
+  "relative_input_path": "test/9/13/20.jpg",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 27.696026302000973,
+  "raw_text": "చెన్నంపుడారులు",
+  "text": "చెన్నంపుడారులు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 14,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1713.0,
+            0.0
+          ],
+          [
+            1713.0,
+            292.0
+          ],
+          [
+            0.0,
+            292.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>చెన్నంపుడారులు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1713.0,
+          292.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1713.0,
+      292.0
+    ]
+  }
+}

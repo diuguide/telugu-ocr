@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/16.png",
+  "relative_input_path": "test/12/131/16.png",
+  "status": "ok",
+  "raw_text": "తారిచేణ్షిను",
+  "text": "తారిచేణ్షిను",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "elapsed_seconds": 0.5999452139994901,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

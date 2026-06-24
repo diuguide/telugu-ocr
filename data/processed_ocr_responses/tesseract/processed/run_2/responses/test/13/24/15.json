@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/15.png",
+  "relative_input_path": "test/13/24/15.png",
+  "status": "ok",
+  "raw_text": "'ఘమువెడ్టూ",
+  "text": "ఘమువెడ్టూ",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "elapsed_seconds": 0.5855220460007331,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

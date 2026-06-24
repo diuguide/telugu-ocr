@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/53/24.png",
+  "relative_input_path": "test/9/53/24.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 72.27618262800388,
+  "raw_text": "പാട്ടും പൗരി",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            736.0,
+            0.0
+          ],
+          [
+            736.0,
+            202.0
+          ],
+          [
+            0.0,
+            202.0
+          ]
+        ],
+        "confidence": 0.6518863928059986,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>പാട്ടും പൗരി</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          736.0,
+          202.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      736.0,
+      202.0
+    ]
+  }
+}

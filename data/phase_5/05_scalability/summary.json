@@ -1,0 +1,48 @@
+{
+  "full_corpus_inventory": {
+    "page_directories": 5368,
+    "word_images": 126539
+  },
+  "local_ocr_cost_policy": "OCR monetary cost is reported as zero API cost; hardware, electricity, and labor are not monetized without measured rates.",
+  "practical_parallelism": {
+    "utilization": 0.75,
+    "workers": 4
+  },
+  "pricing": {
+    "as_of_date": "2026-06-23",
+    "cached_input_usd_per_million_tokens": 1.25,
+    "currency": "USD",
+    "input_usd_per_million_tokens": 2.5,
+    "model": "gpt-4o",
+    "note": "Standard text-token rates. Recheck the official source before a new production run.",
+    "output_usd_per_million_tokens": 10.0,
+    "source": "https://developers.openai.com/api/docs/models/gpt-4o"
+  },
+  "runtime_basis": "elapsed_seconds from canonical OCR JSONL and Phase 4 validation JSONL",
+  "scenarios": [
+    {
+      "api_calls": 400,
+      "estimated_input_tokens": 245015,
+      "estimated_output_tokens": 102140,
+      "estimated_standard_api_cost_usd": 1.6339375,
+      "models": 2,
+      "pages_per_configuration": 100,
+      "pricing_as_of": "2026-06-23",
+      "scenario": "sampled_100_pages",
+      "serial_validation_hours": 0.396799479333332,
+      "validation_methods": 2
+    },
+    {
+      "api_calls": 21472,
+      "estimated_input_tokens": 13152405,
+      "estimated_output_tokens": 5482875,
+      "estimated_standard_api_cost_usd": 87.709765,
+      "models": 2,
+      "pages_per_configuration": 5368,
+      "pricing_as_of": "2026-06-23",
+      "scenario": "full_5368_pages",
+      "serial_validation_hours": 21.30019605061326,
+      "validation_methods": 2
+    }
+  ]
+}

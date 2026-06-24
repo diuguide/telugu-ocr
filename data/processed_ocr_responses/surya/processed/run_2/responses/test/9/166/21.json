@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/21.png",
+  "relative_input_path": "test/9/166/21.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 13.461765464000564,
+  "raw_text": "సముద్రపు భాంవన",
+  "text": "సముద్రపు భాంవన",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 13,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            969.0,
+            0.0
+          ],
+          [
+            969.0,
+            229.0
+          ],
+          [
+            0.0,
+            229.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>సముద్రపు భాంవన</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          969.0,
+          229.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      969.0,
+      229.0
+    ]
+  }
+}

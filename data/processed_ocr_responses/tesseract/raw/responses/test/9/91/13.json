@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/9/91/13.jpg",
+  "relative_input_path": "test/9/91/13.jpg",
+  "status": "ok",
+  "raw_text": "_ యావింబండి.",
+  "text": "యావింబండి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "elapsed_seconds": 1.0914815089927288,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

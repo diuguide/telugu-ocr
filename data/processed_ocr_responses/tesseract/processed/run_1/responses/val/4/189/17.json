@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/val/4/189/17.png",
+  "relative_input_path": "val/4/189/17.png",
+  "status": "ok",
+  "raw_text": "ముగ వాళ్లను",
+  "text": "ముగ వాళ్లను",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "elapsed_seconds": 0.5572634039999684,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

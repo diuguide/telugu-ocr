@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/12/48/19.jpg",
+  "relative_input_path": "test/12/48/19.jpg",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.784573586999613,
+  "raw_text": "abo",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            634.0,
+            0.0
+          ],
+          [
+            634.0,
+            293.0
+          ],
+          [
+            0.0,
+            293.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>abo</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          634.0,
+          293.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      634.0,
+      293.0
+    ]
+  }
+}

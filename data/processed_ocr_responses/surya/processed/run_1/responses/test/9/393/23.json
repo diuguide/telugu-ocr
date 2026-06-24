@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/393/23.png",
+  "relative_input_path": "test/9/393/23.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 19.73577102199988,
+  "raw_text": "බාහිර ලිපිය දැනුම",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1102.0,
+            0.0
+          ],
+          [
+            1102.0,
+            290.0
+          ],
+          [
+            0.0,
+            290.0
+          ]
+        ],
+        "confidence": 0.6449110304393946,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>බාහිර ලිපිය දැනුම</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1102.0,
+          290.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1102.0,
+      290.0
+    ]
+  }
+}

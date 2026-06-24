@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/18.png",
+  "relative_input_path": "test/13/12/18.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 7.418079494000267,
+  "raw_text": "మార్కాన్",
+  "text": "మార్కాన్",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            589.0,
+            0.0
+          ],
+          [
+            589.0,
+            203.0
+          ],
+          [
+            0.0,
+            203.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మార్కాన్</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          589.0,
+          203.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      589.0,
+      203.0
+    ]
+  }
+}

@@ -1,0 +1,939 @@
+input_kind,page_key,image_index,source_image_path,model_a,model_b,model_a_status,model_b_status,model_a_text,model_b_text,agreement_score,disagreement_score,human_review,review_reason
+processed,test_9_13,1,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/1.png,surya,tesseract,ok,ok,బహిరంగ వైనా,టా,0.153846,0.846154,true,agreement_below_threshold
+processed,test_9_13,2,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/2.png,surya,tesseract,empty_output,ok,,మోతని,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_13,3,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/3.png,surya,tesseract,ok,ok,దూరం లోనిలు,ఉ ు ట్వాలు,0.285714,0.714286,true,agreement_below_threshold
+processed,test_9_13,4,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/4.png,surya,tesseract,ok,ok,మౌర్యాలు,వేగ్రగా లో,0.333333,0.666667,true,agreement_below_threshold
+processed,test_9_13,5,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/5.png,surya,tesseract,empty_output,ok,,౭ ర లీరి బూల్సీ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_13,6,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/6.png,surya,tesseract,empty_output,ok,,వేఆనే లా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_13,7,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/7.png,surya,tesseract,ok,ok,చి లికేధలు,ల గులు,0.375000,0.625000,true,agreement_below_threshold
+processed,test_9_13,8,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/8.png,surya,tesseract,empty_output,ok,,న,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_13,9,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/9.png,surya,tesseract,ok,ok,నర్మా రీతి చెల్‌యా దు,నిర్దారీం వయా రు,0.378378,0.621622,true,agreement_below_threshold
+processed,test_9_13,10,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/10.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_13,11,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/11.png,surya,tesseract,ok,ok,‍,ఉీపాంచరీ,0.000000,1.000000,true,agreement_below_threshold
+processed,test_9_13,12,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/12.png,surya,tesseract,ok,ok,నిర్ణయంలో,నిర్వ యంఆ,0.666667,0.333333,true,agreement_below_threshold
+processed,test_9_13,13,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/13.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_13,14,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/14.png,surya,tesseract,empty_output,ok,,గాల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_13,15,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/15.png,surya,tesseract,empty_output,ok,,నంబరు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_13,16,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/16.png,surya,tesseract,empty_output,ok,,న్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_13,17,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/17.png,surya,tesseract,ok,ok,మనము,మేన్‌,0.444444,0.555556,true,agreement_below_threshold
+processed,test_9_13,18,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/18.png,surya,tesseract,ok,ok,రాసు కుంటి,గొసు ఖం,0.470588,0.529412,true,agreement_below_threshold
+processed,test_9_13,19,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/19.png,surya,tesseract,empty_output,ok,,గాలు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_13,20,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/20.png,surya,tesseract,ok,ok,చెన్నంపు దాదులు,వేల్లంస్రదొరు అ,0.266667,0.733333,true,agreement_below_threshold
+processed,test_9_13,21,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/21.png,surya,tesseract,ok,ok,మూడో వారం లో,మోూటడోఠార౦ర లొ,0.615385,0.384615,true,agreement_below_threshold
+processed,test_9_13,22,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/22.png,surya,tesseract,ok,ok,కొత్తగిరియుకూ,డొదోదెయువొ,0.260870,0.739130,true,agreement_below_threshold
+processed,test_9_13,23,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/23.png,surya,tesseract,ok,ok,మనో పరిబ్రహ్ం,యేనో శేరి గా,0.400000,0.600000,true,agreement_below_threshold
+processed,test_9_13,24,/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/24.png,surya,tesseract,empty_output,ok,,డోల్మారోసిండ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_53,1,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/1.png,surya,tesseract,ok,ok,విజయవాడ స్థానా,బీజము,0.105263,0.894737,true,agreement_below_threshold
+processed,test_9_53,2,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/2.png,surya,tesseract,ok,ok,సి గళ్ళుపడాలి,నగల దు థడౌల్‌,0.153846,0.846154,true,agreement_below_threshold
+processed,test_9_53,3,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/3.png,surya,tesseract,ok,empty_output,భీష్మరూపంలో ది,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_9_53,4,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/4.png,surya,tesseract,ok,ok,శ్రో నటదులు,జ్లొనవము౦,0.300000,0.700000,true,agreement_below_threshold
+processed,test_9_53,5,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/5.png,surya,tesseract,ok,ok,ప్రారంభించిన వివాహం,వ్రీరనిబానం,0.266667,0.733333,true,agreement_below_threshold
+processed,test_9_53,6,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/6.png,surya,tesseract,ok,ok,గుట్టాను నారంగా,బల్లను సారంగా,0.642857,0.357143,true,agreement_below_threshold
+processed,test_9_53,7,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/7.png,surya,tesseract,ok,ok,పిల్లలారు,లెడ్నియోరు,0.315789,0.684211,true,agreement_below_threshold
+processed,test_9_53,8,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/8.png,surya,tesseract,ok,ok,సుమ్మోలా,నుబలా,0.461538,0.538462,true,agreement_below_threshold
+processed,test_9_53,9,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/9.png,surya,tesseract,empty_output,ok,,గుడ్డిగా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_53,10,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/10.png,surya,tesseract,ok,ok,వారికేటు,దోరవేడు,0.400000,0.600000,true,agreement_below_threshold
+processed,test_9_53,11,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/11.png,surya,tesseract,ok,ok,ముగ్గూరు,మేలా,0.166667,0.833333,true,agreement_below_threshold
+processed,test_9_53,12,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/12.png,surya,tesseract,ok,ok,హాస్పన్ రెండు కు,మహోర్లు సౌంయుము,0.322581,0.677419,true,agreement_below_threshold
+processed,test_9_53,13,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/13.png,surya,tesseract,ok,ok,భాగముక్రి లు,య్య లు,0.444444,0.555556,true,agreement_below_threshold
+processed,test_9_53,14,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/14.png,surya,tesseract,empty_output,ok,,యలొర్బే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_53,15,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/15.png,surya,tesseract,ok,ok,‌,మ,0.000000,1.000000,true,agreement_below_threshold
+processed,test_9_53,16,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/16.png,surya,tesseract,empty_output,ok,,కౌలురైతు అ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_53,17,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/17.png,surya,tesseract,ok,empty_output,‍,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_9_53,18,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/18.png,surya,tesseract,empty_output,ok,,టం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_53,19,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/19.png,surya,tesseract,ok,ok,గాయప్తి,గ,0.250000,0.750000,true,agreement_below_threshold
+processed,test_9_53,20,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/20.png,surya,tesseract,ok,ok,గుడి లాంటి,గరా అ,0.266667,0.733333,true,agreement_below_threshold
+processed,test_9_53,21,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/21.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_53,22,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/22.png,surya,tesseract,ok,ok,గర్భ కొరణం,గోర్ల దౌర్రోస్రం,0.461538,0.538462,true,agreement_below_threshold
+processed,test_9_53,23,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/23.png,surya,tesseract,ok,ok,ముఖ్యపాత పుట్టు,మక్సీపోో మా,0.307692,0.692308,true,agreement_below_threshold
+processed,test_9_53,24,/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/24.png,surya,tesseract,empty_output,ok,,ఫో సారి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_65,1,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/1.png,surya,tesseract,empty_output,ok,,రోర్లుల్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_65,2,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/2.png,surya,tesseract,ok,ok,సారిరాళి,విదర్‌,0.142857,0.857143,true,agreement_below_threshold
+processed,test_9_65,3,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/3.png,surya,tesseract,ok,ok,సాగు వై టి,సాగునటే,0.588235,0.411765,true,agreement_below_threshold
+processed,test_9_65,4,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/4.png,surya,tesseract,ok,ok,తెనుక్కెంటి,త్రెమ్మ ంటి,0.545455,0.454545,true,agreement_below_threshold
+processed,test_9_65,5,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/5.png,surya,tesseract,empty_output,ok,,పం టలో డు జంతా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_65,6,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/6.png,surya,tesseract,empty_output,ok,,పాన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_65,7,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/7.png,surya,tesseract,ok,ok,కథలుగా,క్షేగ్రుయిగో,0.333333,0.666667,true,agreement_below_threshold
+processed,test_9_65,8,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/8.png,surya,tesseract,ok,ok,తోమిరి దా,ల్‌చ్ట్స్‌ందా,0.181818,0.818182,true,agreement_below_threshold
+processed,test_9_65,9,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/9.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_65,10,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/10.png,surya,tesseract,ok,ok,సంసిం బాద్రు,శుంఠ చూరు,0.380952,0.619048,true,agreement_below_threshold
+processed,test_9_65,11,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/11.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_65,12,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/12.png,surya,tesseract,empty_output,ok,,న్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_65,13,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/13.png,surya,tesseract,ok,ok,నీటి బలంకాను,గోర్లో ౭౮,0.095238,0.904762,true,agreement_below_threshold
+processed,test_9_65,14,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/14.png,surya,tesseract,empty_output,ok,,౧ రి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_65,15,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/15.png,surya,tesseract,empty_output,ok,,హ ివడే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_65,16,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/16.png,surya,tesseract,empty_output,ok,,్బందానత్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_65,18,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/18.png,surya,tesseract,ok,ok,విషయాలు,వెయ అబల,0.428571,0.571429,true,agreement_below_threshold
+processed,test_9_65,19,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/19.png,surya,tesseract,empty_output,ok,,లర లర్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_65,21,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/21.png,surya,tesseract,ok,ok,కొనుగోళ్ళపై,తిను గళదై,0.500000,0.500000,true,agreement_below_threshold
+processed,test_9_65,22,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/22.png,surya,tesseract,ok,ok,చిత్రాలు,ర సోంగ్రే,0.235294,0.764706,true,agreement_below_threshold
+processed,test_9_65,23,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/23.png,surya,tesseract,empty_output,ok,,వీల్షులు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_65,24,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/24.png,surya,tesseract,ok,ok,కొం టాక్సిక్,కౌంటర్‌,0.421053,0.578947,true,agreement_below_threshold
+processed,test_9_65,25,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/25.png,surya,tesseract,ok,ok,కొల్లూరి,ద్‌,0.181818,0.818182,true,agreement_below_threshold
+processed,test_9_65,26,/home/tom/telugu_data/ground_truth_processed_0622/test/9/65/26.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_91,1_1,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/1_1.png,surya,tesseract,ok,ok,మౌంట్,షూ,0.000000,1.000000,true,agreement_below_threshold
+processed,test_9_91,2,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/2.png,surya,tesseract,ok,ok,విద్యా స్తంభాలు,నొల్డేశిన్తున యి,0.258065,0.741935,true,agreement_below_threshold
+processed,test_9_91,3,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/3.png,surya,tesseract,empty_output,ok,,అలర మే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_91,4,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/4.png,surya,tesseract,ok,ok,కొం లూ క్రై ను,తంి లూర్షను,0.560000,0.440000,true,agreement_below_threshold
+processed,test_9_91,5,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_91,6,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/6.png,surya,tesseract,ok,ok,ముందు సమీప పట్టణమైన కర్ణాటక నుండి సమీప పట్టణమైన ఆదిలాబాద్ నుండి ౨౦ కి మీ దూరంలో ఉంది,షూత,0.022989,0.977011,true,agreement_below_threshold
+processed,test_9_91,7,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/7.png,surya,tesseract,empty_output,ok,,గాన లే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_91,8,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/8.png,surya,tesseract,ok,ok,ప్రవేృ,వఉదడివ్నొ,0.133333,0.866667,true,agreement_below_threshold
+processed,test_9_91,9,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/9.png,surya,tesseract,empty_output,ok,,చేనీ వెంక,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_91,10,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/10.png,surya,tesseract,empty_output,ok,,లెదోరింజర డం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_91,11,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/11.png,surya,tesseract,ok,ok,పేర్లు లాణ్‌,మశ్పి తాన,0.285714,0.714286,true,agreement_below_threshold
+processed,test_9_91,12,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/12.png,surya,tesseract,empty_output,ok,,లన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_91,13,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/13.png,surya,tesseract,empty_output,ok,,దూ జర౦డి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_91,14,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/14.png,surya,tesseract,ok,ok,దుర్జనామమైన,ఎత నాయకుల,0.200000,0.800000,true,agreement_below_threshold
+processed,test_9_91,15,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/15.png,surya,tesseract,empty_output,ok,,బజారు నమయే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_91,16,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/16.png,surya,tesseract,empty_output,ok,,చెసోర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_91,17,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/17.png,surya,tesseract,ok,ok,దొన్న యా ప్రవీర,డఢౌొగ్సుయాస్రరో,0.466667,0.533333,true,agreement_below_threshold
+processed,test_9_91,18,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/18.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_91,19,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/19.png,surya,tesseract,empty_output,ok,,సైవయైనా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_91,20,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/20.png,surya,tesseract,ok,ok,మరియాన,మంచాన,0.545455,0.454545,true,agreement_below_threshold
+processed,test_9_91,21,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/21.png,surya,tesseract,empty_output,ok,,అభాసు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_91,22,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/22.png,surya,tesseract,empty_output,ok,,గులు మగా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_91,23,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/23.png,surya,tesseract,ok,ok,అనుగుణ మ్తేసి,టునుగువుటిన,0.416667,0.583333,true,agreement_below_threshold
+processed,test_9_91,24,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/24.png,surya,tesseract,ok,ok,పుష్కా,మైస్రని,0.153846,0.846154,true,agreement_below_threshold
+processed,test_9_91,25,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/25.png,surya,tesseract,ok,ok,కుర్తి ప్రకారం,టేండబట్ట ద్వా,0.296296,0.703704,true,agreement_below_threshold
+processed,test_9_91,26,/home/tom/telugu_data/ground_truth_processed_0622/test/9/91/26.png,surya,tesseract,ok,ok,విద్యా సౌకర్యాలు,వచ్చ్రొస్తా ను,0.333333,0.666667,true,agreement_below_threshold
+processed,test_9_166,1,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/1.png,surya,tesseract,empty_output,ok,,ర్లస్‌న్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_166,2,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/2.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_166,3,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/3.png,surya,tesseract,ok,ok,మాండ్సం,మాందం,0.666667,0.333333,true,agreement_below_threshold
+processed,test_9_166,4,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/4.png,surya,tesseract,ok,ok,మార్ఛమాలు,టూథ్చ మూల,0.222222,0.777778,true,agreement_below_threshold
+processed,test_9_166,5,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_166,6,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/6.png,surya,tesseract,ok,ok,దండిపోయినాడు,డేండపోొమునాయ,0.500000,0.500000,true,agreement_below_threshold
+processed,test_9_166,7,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/7.png,surya,tesseract,empty_output,ok,,ల్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_166,8,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/8.png,surya,tesseract,ok,ok,విద్యుద రాన్సిగ్రీ,ఏర్పడ డాన్‌,0.344828,0.655172,true,agreement_below_threshold
+processed,test_9_166,9,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/9.png,surya,tesseract,empty_output,ok,,రుం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_166,10,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/10.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_166,11,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/11.png,surya,tesseract,ok,empty_output,మరిగోద్వరిచిక్,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_9_166,12,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/12.png,surya,tesseract,ok,ok,హౌయం పోటీ,యంద టు,0.533333,0.466667,true,agreement_below_threshold
+processed,test_9_166,13,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/13.png,surya,tesseract,empty_output,ok,,రల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_166,14,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/14.png,surya,tesseract,ok,ok,దేవీ స్థానిలో,బెట్టీ పొల లా,0.230769,0.769231,true,agreement_below_threshold
+processed,test_9_166,15,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/15.png,surya,tesseract,ok,ok,చౌతు హౌ,చైయల,0.181818,0.818182,true,agreement_below_threshold
+processed,test_9_166,16,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/16.png,surya,tesseract,ok,ok,తాలువ,ల్‌,0.250000,0.750000,true,agreement_below_threshold
+processed,test_9_166,17,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/17.png,surya,tesseract,empty_output,ok,,స్య,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_166,18,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/18.png,surya,tesseract,empty_output,ok,,శ్తె యూరు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_166,19,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/19.png,surya,tesseract,ok,empty_output,కొన్ని నీయ నౌస,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_9_166,20,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/20.png,surya,tesseract,ok,ok,వర్షపత్రిక,వోట్‌,0.266667,0.733333,true,agreement_below_threshold
+processed,test_9_166,21,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/21.png,surya,tesseract,ok,ok,సముద్రపు భాంవన,నయే త్తు భావన,0.518519,0.481481,true,agreement_below_threshold
+processed,test_9_166,22,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/22.png,surya,tesseract,empty_output,ok,,టేర్గింలా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_166,23,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/23.png,surya,tesseract,ok,ok,గుర్తు కొన్నిరు,గుర్తు ఠస్వారు,0.689655,0.310345,true,agreement_below_threshold
+processed,test_9_166,24,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/24.png,surya,tesseract,ok,ok,పచ్చిక దినో,యడ,0.000000,1.000000,true,agreement_below_threshold
+processed,test_9_166,25,/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/25.png,surya,tesseract,ok,ok,బౌద్య పు్,ఖు,0.181818,0.818182,true,agreement_below_threshold
+processed,test_9_249,1,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/1.png,surya,tesseract,empty_output,ok,,డ్‌యో తల్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_249,2,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/2.png,surya,tesseract,ok,ok,వేశ్యాలందరూ,యే థోఫలంటరూ,0.454545,0.545455,true,agreement_below_threshold
+processed,test_9_249,3,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/3.png,surya,tesseract,empty_output,ok,,రసోమలత్మన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_249,4,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/4.png,surya,tesseract,ok,ok,‍,పేయో రడ,0.000000,1.000000,true,agreement_below_threshold
+processed,test_9_249,5,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/5.png,surya,tesseract,ok,ok,ము,మ,0.666667,0.333333,true,agreement_below_threshold
+processed,test_9_249,6,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/6.png,surya,tesseract,ok,ok,నాన్మను,గౌనును,0.307692,0.692308,true,agreement_below_threshold
+processed,test_9_249,7,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/7.png,surya,tesseract,ok,ok,చరిమిని,చేంటు సి,0.266667,0.733333,true,agreement_below_threshold
+processed,test_9_249,8,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/8.png,surya,tesseract,ok,ok,నీరం కేంద్రం,రంకు,0.375000,0.625000,true,agreement_below_threshold
+processed,test_9_249,9,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/9.png,surya,tesseract,ok,ok,విద్యా లింగా,వదా ల్‌,0.526316,0.473684,true,agreement_below_threshold
+processed,test_9_249,10,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/10.png,surya,tesseract,ok,ok,ప్రమాణకిలోదు,గ్రమానికి లోడు,0.692308,0.307692,true,agreement_below_threshold
+processed,test_9_249,11,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/11.png,surya,tesseract,empty_output,ok,,లెట్ట్స్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_249,12,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/12.png,surya,tesseract,empty_output,ok,,బోష్కంటొ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_249,13,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/13.png,surya,tesseract,empty_output,ok,,లౌరిశ్షన్నా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_249,14,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/14.png,surya,tesseract,ok,ok,బాగు వాడుకు,ఇళ తయును,0.210526,0.789474,true,agreement_below_threshold
+processed,test_9_249,15,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/15.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_249,16,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/16.png,surya,tesseract,empty_output,ok,,జైల బి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_249,17,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/17.png,surya,tesseract,empty_output,ok,,గడ య౦దో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_249,18,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/18.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_249,19,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/19.png,surya,tesseract,empty_output,ok,,ఇర కౌోనీర్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_249,20,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/20.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_249,21,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/21.png,surya,tesseract,empty_output,ok,,గు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_249,22,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/22.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_249,23,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/23.png,surya,tesseract,empty_output,ok,,వటంటి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_249,24,/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/24.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_252,1,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/1.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_252,2,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/2.png,surya,tesseract,ok,ok,పంటరోపో,పంటర్వవ,0.571429,0.428571,true,agreement_below_threshold
+processed,test_9_252,3,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/3.png,surya,tesseract,ok,ok,తత్త్వవిచ్ఛారిణి,తపఘ్వు యంది,0.296296,0.703704,true,agreement_below_threshold
+processed,test_9_252,4,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/4.png,surya,tesseract,empty_output,ok,,ందె,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_252,5,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/5.png,surya,tesseract,ok,ok,ఉత్పహ్నా నిర్మాణ,ధిత్తమాఃరిరులే,0.333333,0.666667,true,agreement_below_threshold
+processed,test_9_252,6,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/6.png,surya,tesseract,ok,ok,సమాచారం,సమూాలూరం౦,0.625000,0.375000,true,agreement_below_threshold
+processed,test_9_252,7,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/7.png,surya,tesseract,empty_output,ok,,లీ టల స్మ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_252,8,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/8.png,surya,tesseract,ok,ok,సమీకృతంగా,సమే క్వాం ధథ,0.380952,0.619048,true,agreement_below_threshold
+processed,test_9_252,9,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/9.png,surya,tesseract,ok,ok,మార్కెటింగు,ఫైండ్‌,0.117647,0.882353,true,agreement_below_threshold
+processed,test_9_252,10,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/10.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_252,11,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/11.png,surya,tesseract,ok,ok,నీరారకు,నోర్లారథ,0.533333,0.466667,true,agreement_below_threshold
+processed,test_9_252,12,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/12.png,surya,tesseract,ok,ok,పెరి బ్రౌంయం,అ ను సరంతిండుం,0.307692,0.692308,true,agreement_below_threshold
+processed,test_9_252,13,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/13.png,surya,tesseract,ok,ok,‍,ల్రపఏక అ సౌలు,0.000000,1.000000,true,agreement_below_threshold
+processed,test_9_252,14,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/14.png,surya,tesseract,ok,ok,పారిశ్రామికోద్యోగ్య,జారిన,0.250000,0.750000,true,agreement_below_threshold
+processed,test_9_252,15,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/15.png,surya,tesseract,empty_output,ok,,పిచ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_252,16,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/16.png,surya,tesseract,ok,ok,బెన్నెస్కో నాగర్ లిమ్సా,రిన్తే స్మర ౦ లో,0.358974,0.641026,true,agreement_below_threshold
+processed,test_9_252,17,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/17.png,surya,tesseract,ok,ok,ప్రయోగావకాహారాలన్ని,డియో ావోరొఫ్యాన్న,0.444444,0.555556,true,agreement_below_threshold
+processed,test_9_252,18,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/18.png,surya,tesseract,empty_output,ok,,శ్ర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_252,19,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/19.png,surya,tesseract,empty_output,ok,,శవపాం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_252,20,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/20.png,surya,tesseract,ok,ok,పంటలను,మేయయలను,0.461538,0.538462,true,agreement_below_threshold
+processed,test_9_252,21,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/21.png,surya,tesseract,empty_output,ok,,సెనుతో్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_252,22,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/22.png,surya,tesseract,empty_output,ok,,నదీ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_252,23,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/23.png,surya,tesseract,empty_output,ok,,డెంగ వల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_252,24,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/24.png,surya,tesseract,empty_output,ok,,నో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_252,25,/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/25.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_393,1,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/1.png,surya,tesseract,empty_output,ok,,శస్రేటల ను,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_393,3,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/3.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_393,4,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/4.png,surya,tesseract,empty_output,ok,,య్య,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_393,5,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/5.png,surya,tesseract,ok,ok,కాళిష్వరరావు,రొ ఖేచూరరాం్ర,0.240000,0.760000,true,agreement_below_threshold
+processed,test_9_393,6,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/6.png,surya,tesseract,empty_output,ok,,సల వే రొరి ర దం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_393,7,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/7.png,surya,tesseract,ok,ok,మహా,యన,0.000000,1.000000,true,agreement_below_threshold
+processed,test_9_393,8,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/8.png,surya,tesseract,ok,ok,వరిష్టకి,ఏరిడ్లరిన,0.470588,0.529412,true,agreement_below_threshold
+processed,test_9_393,9,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/9.png,surya,tesseract,empty_output,ok,,నోలుయ్రగో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_393,10,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/10.png,surya,tesseract,empty_output,ok,,లయ దిథ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_393,11,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/11.png,surya,tesseract,ok,ok,స్వాతాయ కర్మ,ను రాయ ళర,0.380952,0.619048,true,agreement_below_threshold
+processed,test_9_393,12,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/12.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_9_393,13,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/13.png,surya,tesseract,ok,ok,వాటి,గౌట్‌,0.222222,0.777778,true,agreement_below_threshold
+processed,test_9_393,14,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/14.png,surya,tesseract,empty_output,ok,,లేరా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_393,15,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/15.png,surya,tesseract,ok,ok,‍,లెల్లారాత,0.000000,1.000000,true,agreement_below_threshold
+processed,test_9_393,16,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/16.png,surya,tesseract,ok,ok,ప్రాడోనోని యోలా,గుదనగు యో ల్‌,0.357143,0.642857,true,agreement_below_threshold
+processed,test_9_393,17,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/17.png,surya,tesseract,ok,ok,‍,దేరృ౦గా,0.000000,1.000000,true,agreement_below_threshold
+processed,test_9_393,18,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/18.png,surya,tesseract,empty_output,ok,,మానని అ లా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_393,19,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/19.png,surya,tesseract,empty_output,ok,,ప్రారపనల్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_393,20,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/20.png,surya,tesseract,empty_output,ok,,గా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_9_393,21,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/21.png,surya,tesseract,ok,ok,‌,ఫృంరు టతోను,0.000000,1.000000,true,agreement_below_threshold
+processed,test_9_393,22,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/22.png,surya,tesseract,ok,ok,దేవుి నందం,బయో గోండద౦,0.100000,0.900000,true,agreement_below_threshold
+processed,test_9_393,24,/home/tom/telugu_data/ground_truth_processed_0622/test/9/393/24.png,surya,tesseract,ok,ok,ప్రశిల పోటీ,గభ్ర్రలుయో ర,0.347826,0.652174,true,agreement_below_threshold
+processed,test_12_48,1,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/1.png,surya,tesseract,empty_output,ok,,నీ య్యా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_48,2,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/2.png,surya,tesseract,empty_output,ok,,సాం స నా ం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_48,3,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/3.png,surya,tesseract,ok,ok,బౌద్ధ సంఘ,లను,0.000000,1.000000,true,agreement_below_threshold
+processed,test_12_48,4,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/4.png,surya,tesseract,ok,ok,‍,అ్రస్లేయా,0.000000,1.000000,true,agreement_below_threshold
+processed,test_12_48,5,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_48,7,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/7.png,surya,tesseract,empty_output,ok,,అనుమేడీంి రదేంపైగో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_48,8,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_48,9,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/9.png,surya,tesseract,empty_output,ok,,లేలరోణసామన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_48,10,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/10.png,surya,tesseract,empty_output,ok,,వా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_48,11,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/11.png,surya,tesseract,ok,ok,మరికొండలి,మశికోయేం,0.470588,0.529412,true,agreement_below_threshold
+processed,test_12_48,12,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/12.png,surya,tesseract,empty_output,ok,,అథధిితో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_48,13,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/13.png,surya,tesseract,empty_output,ok,,దీని్వైనా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_48,14,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/14.png,surya,tesseract,ok,ok,పాల్లు దంత్రా,పోల ణేంశ్రో,0.500000,0.500000,true,agreement_below_threshold
+processed,test_12_48,15,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/15.png,surya,tesseract,empty_output,ok,,శాండీ భ బతలను,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_48,16,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/16.png,surya,tesseract,empty_output,ok,,ని ర్సీక్షవనో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_48,17,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/17.png,surya,tesseract,empty_output,ok,,గౌదియాన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_48,18,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/18.png,surya,tesseract,ok,ok,లాభిను ట్రైవా,లో,0.133333,0.866667,true,agreement_below_threshold
+processed,test_12_48,19,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/19.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_48,20,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/20.png,surya,tesseract,ok,ok,సంక్ర హ్,స౦ం క యంచు,0.444444,0.555556,true,agreement_below_threshold
+processed,test_12_48,21,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/21.png,surya,tesseract,ok,ok,పునరాల్పు,దయా లడై,0.250000,0.750000,true,agreement_below_threshold
+processed,test_12_48,22,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/22.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_48,23,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/23.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_48,24,/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/24.png,surya,tesseract,ok,ok,పారిశ్రామి,జహొాలించే,0.210526,0.789474,true,agreement_below_threshold
+processed,test_12_70,1,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/1.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_70,2,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/2.png,surya,tesseract,ok,empty_output,మధ్యలు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_70,3,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/3.png,surya,tesseract,empty_output,ok,,అడు ఖంధ్గాలో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_70,4,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/4.png,surya,tesseract,empty_output,ok,,హయ రమని,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_70,5,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/5.png,surya,tesseract,empty_output,ok,,దాగే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_70,6,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/6.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_70,7,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/7.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_70,8,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/8.png,surya,tesseract,empty_output,ok,,సరగేల ద్రా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_70,9,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/9.png,surya,tesseract,ok,ok,పాట ఉ,హాల,0.250000,0.750000,true,agreement_below_threshold
+processed,test_12_70,10,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/10.png,surya,tesseract,ok,ok,స్వ స్వ రూపాయ,గస రూపార్ర,0.521739,0.478261,true,agreement_below_threshold
+processed,test_12_70,11,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/11.png,surya,tesseract,empty_output,ok,,గల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_70,12,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/12.png,surya,tesseract,empty_output,ok,,రత గక నష ని,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_70,13,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/13.png,surya,tesseract,ok,empty_output,వంగ ముల్లు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_70,14,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/14.png,surya,tesseract,empty_output,ok,,రేంగ యహ ౦,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_70,16,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/16.png,surya,tesseract,empty_output,ok,,ర్వ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_70,17,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/17.png,surya,tesseract,ok,ok,‍,రాజవేజర ౦,0.000000,1.000000,true,agreement_below_threshold
+processed,test_12_70,18,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/18.png,surya,tesseract,empty_output,ok,,మయ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_70,19,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/19.png,surya,tesseract,ok,ok,ప్రయత్నం,నుంది,0.307692,0.692308,true,agreement_below_threshold
+processed,test_12_70,20,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/20.png,surya,tesseract,ok,ok,బాలా మంది,రౌలా యే లది,0.500000,0.500000,true,agreement_below_threshold
+processed,test_12_70,21,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/21.png,surya,tesseract,ok,ok,దేవాత్మ వాలి,దీనోత్స లాల,0.521739,0.478261,true,agreement_below_threshold
+processed,test_12_70,22,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/22.png,surya,tesseract,ok,ok,మాట్ల,స,0.000000,1.000000,true,agreement_below_threshold
+processed,test_12_70,23,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/23.png,surya,tesseract,ok,ok,బి జ్ఞలమ్,ఖండే,0.000000,1.000000,true,agreement_below_threshold
+processed,test_12_70,25,/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/25.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_113,1,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/1.png,surya,tesseract,empty_output,ok,,సయథరా తమాడా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_113,2,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/2.png,surya,tesseract,ok,ok,మౌరా లు,మీౌరాయి,0.571429,0.428571,true,agreement_below_threshold
+processed,test_12_113,3,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/3.png,surya,tesseract,empty_output,ok,,అ గనేతీలను,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_113,4,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/4.png,surya,tesseract,empty_output,ok,,ఆ రేఇ ఇుుఆ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_113,5,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/5.png,surya,tesseract,ok,ok,బక్ష్యం చలేదు,ధీం లేదు,0.571429,0.428571,true,agreement_below_threshold
+processed,test_12_113,6,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/6.png,surya,tesseract,ok,ok,ప్రతిపాదనకు,పీపొదినను,0.400000,0.600000,true,agreement_below_threshold
+processed,test_12_113,7,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/7.png,surya,tesseract,ok,ok,గెండింటలు పెట్టి,రెం డీ౦ంలిలటువపటీ,0.484848,0.515152,true,agreement_below_threshold
+processed,test_12_113,8,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_113,9,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/9.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_113,10,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/10.png,surya,tesseract,ok,ok,మహా పనికి,మహా ద వున,0.555556,0.444444,true,agreement_below_threshold
+processed,test_12_113,11,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/11.png,surya,tesseract,empty_output,ok,,టనసొతీ నీ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_113,12,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/12.png,surya,tesseract,empty_output,ok,,నా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_113,13,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/13.png,surya,tesseract,empty_output,ok,,టో చనా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_113,14,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/14.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_113,15,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/15.png,surya,tesseract,ok,ok,సమాధానము,సహో రట,0.142857,0.857143,true,agreement_below_threshold
+processed,test_12_113,16,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/16.png,surya,tesseract,empty_output,ok,,మీవహి యాన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_113,17,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/17.png,surya,tesseract,ok,ok,బిలి డా టెవె,్రలివాటుథునీన,0.320000,0.680000,true,agreement_below_threshold
+processed,test_12_113,18,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/18.png,surya,tesseract,empty_output,ok,,క్ష్‌గ్సే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_113,19,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/19.png,surya,tesseract,ok,ok,ని ర టి,వన్నీ ంటి,0.500000,0.500000,true,agreement_below_threshold
+processed,test_12_113,21,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/21.png,surya,tesseract,empty_output,ok,,భేోవంత్ర న,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_113,23,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/23.png,surya,tesseract,ok,ok,పసిల్ గా,ప్రసితీగ,0.500000,0.500000,true,agreement_below_threshold
+processed,test_12_113,24,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/24.png,surya,tesseract,ok,ok,కాస్పెడా,చౌనువా,0.142857,0.857143,true,agreement_below_threshold
+processed,test_12_113,25,/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/25.png,surya,tesseract,ok,empty_output,మౌలి,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_125,1,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/1.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_125,2,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/2.png,surya,tesseract,ok,empty_output,మునుగెండు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_125,3,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/3.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_125,4,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/4.png,surya,tesseract,empty_output,ok,,శగరిగీసు ౦ దగ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_125,5,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/5.png,surya,tesseract,empty_output,ok,,వ్రళ్హింటిన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_125,6,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/6.png,surya,tesseract,ok,ok,మాట్లా ని డ్లా ౦,యాట్లానీ డ్ధాం,0.666667,0.333333,true,agreement_below_threshold
+processed,test_12_125,7,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/7.png,surya,tesseract,ok,empty_output,కుమార్తె,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_125,8,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/8.png,surya,tesseract,empty_output,ok,,హౌ క్స్ర బ్ర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_125,9,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/9.png,surya,tesseract,ok,ok,మంచి చేతిక,ముంల౦,0.266667,0.733333,true,agreement_below_threshold
+processed,test_12_125,10,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/10.png,surya,tesseract,ok,ok,ప్రాం బెకో వాలో,నం కోవాలో,0.666667,0.333333,true,agreement_below_threshold
+processed,test_12_125,11,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/11.png,surya,tesseract,ok,ok,‌,బీబారినుగ్నా౦,0.000000,1.000000,true,agreement_below_threshold
+processed,test_12_125,12,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/12.png,surya,tesseract,empty_output,ok,,డ్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_125,13,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/13.png,surya,tesseract,ok,ok,‌ ‌,బౌన్సు,0.000000,1.000000,true,agreement_below_threshold
+processed,test_12_125,14,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/14.png,surya,tesseract,empty_output,ok,,బయ శుక,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_125,16,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/16.png,surya,tesseract,empty_output,ok,,మన్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_125,17,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/17.png,surya,tesseract,ok,ok,రావ దు,రు,0.500000,0.500000,true,agreement_below_threshold
+processed,test_12_125,18,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/18.png,surya,tesseract,ok,ok,చెన్నుకుంటే,గోటు లం,0.222222,0.777778,true,agreement_below_threshold
+processed,test_12_125,19,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/19.png,surya,tesseract,ok,ok,మార్గాల న్న,మాను,0.400000,0.600000,true,agreement_below_threshold
+processed,test_12_125,20,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/20.png,surya,tesseract,ok,ok,విశిష్టుల్తా,నయా,0.133333,0.866667,true,agreement_below_threshold
+processed,test_12_125,21,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/21.png,surya,tesseract,empty_output,ok,,బర హైౌరుగు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_125,23,/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/23.png,surya,tesseract,ok,empty_output,ఉత్పత్తి,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_131,1,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/1.png,surya,tesseract,empty_output,ok,,లెకాం శ్రీ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_131,2,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/2.png,surya,tesseract,empty_output,ok,,సేయగ లిగా అ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_131,3,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/3.png,surya,tesseract,empty_output,ok,,నొక ణీ ౮,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_131,4,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/4.png,surya,tesseract,ok,ok,పక్షయ,సన్నము,0.181818,0.818182,true,agreement_below_threshold
+processed,test_12_131,5,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/5.png,surya,tesseract,ok,ok,పచ్చలను,సశ లను,0.461538,0.538462,true,agreement_below_threshold
+processed,test_12_131,6,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/6.png,surya,tesseract,empty_output,ok,,ము లన్తా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_131,7,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/7.png,surya,tesseract,ok,ok,డ్రూంసనియమని,దళ౦సనోయయన,0.380952,0.619048,true,agreement_below_threshold
+processed,test_12_131,8,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_131,9,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/9.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_131,10,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/10.png,surya,tesseract,ok,ok,బ్రహంతకుమార్,అనం తమునూ రీ,0.083333,0.916667,true,agreement_below_threshold
+processed,test_12_131,11,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/11.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_131,12,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/12.png,surya,tesseract,empty_output,ok,,గిర్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_131,13,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/13.png,surya,tesseract,empty_output,ok,,సి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_131,14,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/14.png,surya,tesseract,empty_output,ok,,లిగీటడుయుంగ్రగో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_131,15,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/15.png,surya,tesseract,ok,ok,గ్రామ టందటి,శాదీటరిదీగ,0.095238,0.904762,true,agreement_below_threshold
+processed,test_12_131,16,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/16.png,surya,tesseract,ok,ok,బా కోడ్ లైన్,తారిచేణ్షిను,0.250000,0.750000,true,agreement_below_threshold
+processed,test_12_131,17,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/17.png,surya,tesseract,empty_output,ok,,స దర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_131,18,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/18.png,surya,tesseract,ok,ok,స్వా ౦ ౮ ఝ,సూరి ఇరా రు,0.285714,0.714286,true,agreement_below_threshold
+processed,test_12_131,19,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/19.png,surya,tesseract,ok,ok,బాలికలకు,ొధిక లమ,0.400000,0.600000,true,agreement_below_threshold
+processed,test_12_131,20,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/20.png,surya,tesseract,ok,ok,హౌర్ బు సిం,హై పం,0.375000,0.625000,true,agreement_below_threshold
+processed,test_12_131,21,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/21.png,surya,tesseract,empty_output,ok,,లడౌంధి ధయ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_131,22,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/22.png,surya,tesseract,empty_output,ok,,లఖీశుాగ౦,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_131,23,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/23.png,surya,tesseract,empty_output,ok,,చనం దట,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_131,24,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/24.png,surya,tesseract,ok,ok,శ్రీ స్త్రీ కు ని,ఫే అనే,0.173913,0.826087,true,agreement_below_threshold
+processed,test_12_131,25,/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/25.png,surya,tesseract,empty_output,ok,,ణ్ద్వ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_165,1,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/1.png,surya,tesseract,ok,ok,ప్రమాణమౌనిదు,లియా శయన దు,0.347826,0.652174,true,agreement_below_threshold
+processed,test_12_165,2,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/2.png,surya,tesseract,ok,empty_output,‌,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_165,3,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/3.png,surya,tesseract,ok,ok,త్రిప్రామ సందాంగా,ఆ దొనుగురాంగో,0.266667,0.733333,true,agreement_below_threshold
+processed,test_12_165,4,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/4.png,surya,tesseract,ok,ok,భక్తు తలుపబాడు,భట థీయిసయా దీ,0.222222,0.777778,true,agreement_below_threshold
+processed,test_12_165,5,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/5.png,surya,tesseract,empty_output,ok,,సం ర గంత,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_165,6,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/6.png,surya,tesseract,empty_output,ok,,కోడు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_165,7,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/7.png,surya,tesseract,ok,ok,కయ్యాన్క,కయ్య్న్గ్య్రాా,0.545455,0.454545,true,agreement_below_threshold
+processed,test_12_165,8,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/8.png,surya,tesseract,empty_output,ok,,టయనే ట్వ్న ము,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_165,9,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/9.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_165,10,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/10.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_165,11,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/11.png,surya,tesseract,ok,ok,సింహాసన వేయలతో,సింహోసనీయుతో,0.692308,0.307692,true,agreement_below_threshold
+processed,test_12_165,12,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/12.png,surya,tesseract,ok,ok,న పువి కు ంటూ,నేథ్ర ముం,0.363636,0.636364,true,agreement_below_threshold
+processed,test_12_165,13,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/13.png,surya,tesseract,ok,ok,ఎండుట నమోగే లో,ఎఏందుటనమహా ర,0.538462,0.461538,true,agreement_below_threshold
+processed,test_12_165,14,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/14.png,surya,tesseract,ok,empty_output,ఎమిడి ప చుట్టుపొ్,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_165,15,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/15.png,surya,tesseract,ok,empty_output,‍,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_165,16,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/16.png,surya,tesseract,ok,ok,కనీరి చిహ్నాలు,రీ హూ,0.315789,0.684211,true,agreement_below_threshold
+processed,test_12_165,17,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/17.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_165,18,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/18.png,surya,tesseract,ok,ok,పోషణ బోస్,వసూ భు,0.133333,0.866667,true,agreement_below_threshold
+processed,test_12_165,19,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/19.png,surya,tesseract,empty_output,ok,,ఆటంటో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_165,20,/home/tom/telugu_data/ground_truth_processed_0622/test/12/165/20.png,surya,tesseract,empty_output,ok,,త్రీష,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_191,1,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/1.png,surya,tesseract,ok,empty_output,బాధల్లో,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_191,2,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/2.png,surya,tesseract,empty_output,ok,,గా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_191,3,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/3.png,surya,tesseract,ok,ok,తగిలిను,లగి రము,0.428571,0.571429,true,agreement_below_threshold
+processed,test_12_191,4,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/4.png,surya,tesseract,ok,ok,నిజనిర్దౌరణ,నిజన రర,0.666667,0.333333,true,agreement_below_threshold
+processed,test_12_191,5,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_191,6,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/6.png,surya,tesseract,ok,ok,వెళుతుంటే గా,బేలీతుం గగ,0.454545,0.545455,true,agreement_below_threshold
+processed,test_12_191,7,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/7.png,surya,tesseract,ok,ok,స్వంతి,ణా ౦,0.000000,1.000000,true,agreement_below_threshold
+processed,test_12_191,8,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_191,9,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/9.png,surya,tesseract,empty_output,ok,,అణ్వాాన్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_191,10,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/10.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_191,11,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/11.png,surya,tesseract,empty_output,ok,,గ్రాము ట్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_191,12,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/12.png,surya,tesseract,empty_output,ok,,నేవ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_191,13,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/13.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_191,14,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/14.png,surya,tesseract,ok,ok,కార్పో నుట్టి శివాల్లు,కిరిసున్మూ శుబ్న,0.315789,0.684211,true,agreement_below_threshold
+processed,test_12_191,15,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/15.png,surya,tesseract,empty_output,ok,,శోటమ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_191,16,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/16.png,surya,tesseract,ok,ok,పాకార్య,నము,0.000000,1.000000,true,agreement_below_threshold
+processed,test_12_191,17,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/17.png,surya,tesseract,empty_output,ok,,గుర్‌్సను,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_191,18,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/18.png,surya,tesseract,ok,ok,సంధనకు,౧౦ న,0.200000,0.800000,true,agreement_below_threshold
+processed,test_12_191,19,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/19.png,surya,tesseract,empty_output,ok,,కాగ యులుల టీటం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_191,20,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/20.png,surya,tesseract,empty_output,ok,,నక్ష తొలు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_191,21,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/21.png,surya,tesseract,empty_output,ok,,ఆనంటెనో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_191,22,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/22.png,surya,tesseract,ok,ok,ప్రవాయము,బవొఠుసు,0.266667,0.733333,true,agreement_below_threshold
+processed,test_12_191,23,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/23.png,surya,tesseract,ok,ok,పరికరా రామన్,సలటరామున్‌,0.454545,0.545455,true,agreement_below_threshold
+processed,test_12_191,24,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/24.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_191,25,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/25.png,surya,tesseract,empty_output,ok,,గా బా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_191,26,/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/26.png,surya,tesseract,empty_output,ok,,పనితనం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_195,1,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/1.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_195,2,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/2.png,surya,tesseract,empty_output,ok,,ఒలక ను న్న,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_195,3,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/3.png,surya,tesseract,ok,ok,కూట్టి వెయండ్,కూలీ దౌయం గ్రీ,0.444444,0.555556,true,agreement_below_threshold
+processed,test_12_195,4,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/4.png,surya,tesseract,ok,empty_output,గ్రామాలకథ,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_195,5,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/5.png,surya,tesseract,ok,ok,తప్పుకొ,స్‌,0.200000,0.800000,true,agreement_below_threshold
+processed,test_12_195,6,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/6.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_12_195,7,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/7.png,surya,tesseract,ok,ok,‌,డీయోపు డ్రా,0.000000,1.000000,true,agreement_below_threshold
+processed,test_12_195,8,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/8.png,surya,tesseract,ok,ok,హై ను పు ను,జు మీఖను,0.315789,0.684211,true,agreement_below_threshold
+processed,test_12_195,9,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/9.png,surya,tesseract,empty_output,ok,,నీస్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_195,10,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/10.png,surya,tesseract,ok,empty_output,కారని లేక,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_195,11,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/11.png,surya,tesseract,ok,ok,స్వాత్రీ దాయకత్వం,సన దాయ క్ష,0.518519,0.481481,true,agreement_below_threshold
+processed,test_12_195,12,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/12.png,surya,tesseract,empty_output,ok,,దీర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_195,13,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/13.png,surya,tesseract,ok,empty_output,పేట పునర్వ్యవస్థీకరణలో ముఖ్య సంఘం,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_195,14,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/14.png,surya,tesseract,empty_output,ok,,బేటీ గలక్చు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_195,15,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/15.png,surya,tesseract,ok,ok,పుత్రు నాడి నుం,గుశ నతు నాడ దేం,0.600000,0.400000,true,agreement_below_threshold
+processed,test_12_195,16,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/16.png,surya,tesseract,empty_output,ok,,దీరాతో ఇరనత్ర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_12_195,17,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/17.png,surya,tesseract,ok,ok,మవూరిటి,య వఏవబభారతీ,0.222222,0.777778,true,agreement_below_threshold
+processed,test_12_195,18,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/18.png,surya,tesseract,ok,ok,పంటనిస్తారు,గయనీస్తారు,0.666667,0.333333,true,agreement_below_threshold
+processed,test_12_195,19,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/19.png,surya,tesseract,ok,empty_output,కావి లి,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_12_195,20,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/20.png,surya,tesseract,ok,ok,పనిపాటా లేనివాడు,గనోపొటా రేనేవాడు,0.625000,0.375000,true,agreement_below_threshold
+processed,test_12_195,21,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/21.png,surya,tesseract,ok,ok,గణీయునా,గ సిటీనో,0.400000,0.600000,true,agreement_below_threshold
+processed,test_12_195,23,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/23.png,surya,tesseract,ok,ok,విశ్వ దక్షుం దై,ఏళ్ల దీరండ్రా,0.285714,0.714286,true,agreement_below_threshold
+processed,test_12_195,24,/home/tom/telugu_data/ground_truth_processed_0622/test/12/195/24.png,surya,tesseract,ok,empty_output,బంకేత్రవ్రకు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_2,1,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/1.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_2,2,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/2.png,surya,tesseract,empty_output,ok,,సో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_2,3,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/3.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_2,4,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/4.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_2,5,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_2,6,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/6.png,surya,tesseract,ok,empty_output,వేరుంది,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_2,7,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/7.png,surya,tesseract,ok,ok,ర్వ ధీరాకి,నరో ధీం,0.470588,0.529412,true,agreement_below_threshold
+processed,test_13_2,8,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/8.png,surya,tesseract,empty_output,ok,,లా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_2,9,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/9.png,surya,tesseract,ok,empty_output,గోగు పుల్లల్లి,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_2,10,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/10.png,surya,tesseract,ok,empty_output,విశేషాల్యం కు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_2,11,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/11.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_2,12,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/12.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_2,13,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/13.png,surya,tesseract,ok,empty_output,నిడువడిగలవాయి,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_2,14,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/14.png,surya,tesseract,ok,ok,బా లేందుకు,బోలోంనుర,0.444444,0.555556,true,agreement_below_threshold
+processed,test_13_2,15,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/15.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_2,16,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/16.png,surya,tesseract,ok,ok,వర్గాలు,ర్‌,0.400000,0.600000,true,agreement_below_threshold
+processed,test_13_2,17,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/17.png,surya,tesseract,empty_output,ok,,రా టన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_2,18,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/18.png,surya,tesseract,ok,ok,పెద్దూల్లు,బడల,0.153846,0.846154,true,agreement_below_threshold
+processed,test_13_2,19,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/19.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_2,20,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/20.png,surya,tesseract,ok,ok,ఎంఎన్ కోడ్,బం క,0.428571,0.571429,true,agreement_below_threshold
+processed,test_13_2,21,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/21.png,surya,tesseract,ok,empty_output,ప్రభుత్వంలు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_2,22,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/22.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_2,23,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/23.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_2,24,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/24.png,surya,tesseract,ok,empty_output,వర్ణనున,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_2,25,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/25.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_2,26,/home/tom/telugu_data/ground_truth_processed_0622/test/13/2/26.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_7,1,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/1.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_7,2,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/2.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_7,3,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/3.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_7,4,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/4.png,surya,tesseract,ok,empty_output,సామాన్యం,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_7,5,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_7,6,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/6.png,surya,tesseract,ok,ok,కనుకోయ్యాడు,కనుక,0.533333,0.466667,true,agreement_below_threshold
+processed,test_13_7,7,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/7.png,surya,tesseract,ok,empty_output,స్వీయం ప్రాంతాల రాధాకులు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_7,8,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/8.png,surya,tesseract,ok,ok,కామరిప్త లే,కామ్రీలమే లో,0.521739,0.478261,true,agreement_below_threshold
+processed,test_13_7,9,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/9.png,surya,tesseract,ok,ok,మాట ప్రవృద్ధి,నూటా చేర మడు,0.080000,0.920000,true,agreement_below_threshold
+processed,test_13_7,10,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/10.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_7,11,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/11.png,surya,tesseract,empty_output,ok,,సారస ద,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_7,12,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/12.png,surya,tesseract,ok,empty_output,సమీప గ్రామాలు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_7,13,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/13.png,surya,tesseract,empty_output,ok,,రు ఢ్రం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_7,14,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/14.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_7,15,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/15.png,surya,tesseract,ok,empty_output,‌,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_7,16,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/16.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_7,17,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/17.png,surya,tesseract,empty_output,ok,,యే డ్ముకా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_7,18,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/18.png,surya,tesseract,empty_output,ok,,మారకం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_7,19,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/19.png,surya,tesseract,ok,empty_output,హారి హౌయక వేత్తలను,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_7,20,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/20.png,surya,tesseract,ok,empty_output,గూడెంలో,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_7,21,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/21.png,surya,tesseract,empty_output,ok,,ుండబ్‌రా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_7,22,/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/22.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_9,1,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/1.png,surya,tesseract,ok,empty_output,ఏ తే రాజు యంది,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_9,2,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/2.png,surya,tesseract,ok,empty_output,సుభారం భాస్కర చిత్ర,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_9,3,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/3.png,surya,tesseract,ok,empty_output,ఎన్ డి కౌంటర్ ఎబ్జెట్,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_9,4,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/4.png,surya,tesseract,ok,empty_output,‍,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_9,5,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_9,6,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/6.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_9,7,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/7.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_9,8,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/8.png,surya,tesseract,ok,empty_output,కలగ పేసుకుంటే,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_9,9,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/9.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_9,10,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/10.png,surya,tesseract,ok,ok,సమీప రాష్ట్ర వి,౧,0.000000,1.000000,true,agreement_below_threshold
+processed,test_13_9,11,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/11.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_9,12,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/12.png,surya,tesseract,empty_output,ok,,లూ టన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_9,13,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/13.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_9,14,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/14.png,surya,tesseract,ok,empty_output,గుపరిపాలన,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_9,15,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/15.png,surya,tesseract,ok,ok,నారాయణ్,నాలాలు ల్‌,0.470588,0.529412,true,agreement_below_threshold
+processed,test_13_9,16,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/16.png,surya,tesseract,empty_output,ok,,యండ్రుందై,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_9,17,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/17.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_9,18,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/18.png,surya,tesseract,ok,empty_output,సంస్థానాలు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_9,19,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/19.png,surya,tesseract,ok,ok,వారసమాధాలు,నౌ తోద పా చాల,0.260870,0.739130,true,agreement_below_threshold
+processed,test_13_9,20,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/20.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_9,21,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/21.png,surya,tesseract,ok,empty_output,విద్యా,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_9,22,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/22.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_9,23,/home/tom/telugu_data/ground_truth_processed_0622/test/13/9/23.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_12,1,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/1.png,surya,tesseract,ok,empty_output,‍,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_12,2,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/2.png,surya,tesseract,empty_output,ok,,ణక భలం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_12,3,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/3.png,surya,tesseract,ok,ok,ఆ మార్కాం,ర్యా,0.461538,0.538462,true,agreement_below_threshold
+processed,test_13_12,4,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/4.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_12,5,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_12,6,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/6.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_12,7,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/7.png,surya,tesseract,ok,ok,సమాఖ్య,నూ,0.000000,1.000000,true,agreement_below_threshold
+processed,test_13_12,8,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_12,9,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/9.png,surya,tesseract,ok,empty_output,సినిమాలయం,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_12,10,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/10.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_12,11,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/11.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_12,12,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/12.png,surya,tesseract,empty_output,ok,,జరీ్‌ ు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_12,13,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/13.png,surya,tesseract,empty_output,ok,,క,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_12,14,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/14.png,surya,tesseract,ok,empty_output,మౌలిక మార్కెట్,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_12,15,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/15.png,surya,tesseract,empty_output,ok,,బాం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_12,16,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/16.png,surya,tesseract,ok,empty_output,మార్కెటింగు సహాయక బృందం,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_12,17,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/17.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_12,18,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/18.png,surya,tesseract,ok,ok,మార్కాన్,మూ,0.200000,0.800000,true,agreement_below_threshold
+processed,test_13_12,19,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/19.png,surya,tesseract,ok,empty_output,‍,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_12,20,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/20.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_12,21,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/21.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_12,22,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/22.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_12,23,/home/tom/telugu_data/ground_truth_processed_0622/test/13/12/23.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,1,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/1.png,surya,tesseract,ok,empty_output,సమీప రాజుగారు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_13,2,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/2.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,3,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/3.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,4,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/4.png,surya,tesseract,empty_output,ok,,లీ జరడణగా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_13,5,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,6,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/6.png,surya,tesseract,empty_output,ok,,నుల ల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_13,7,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/7.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,8,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/8.png,surya,tesseract,empty_output,ok,,గో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_13,9,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/9.png,surya,tesseract,ok,empty_output,సక్షితం,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_13,10,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/10.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,11,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/11.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,12,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/12.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,13,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/13.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,14,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/14.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,15,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/15.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,16,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/16.png,surya,tesseract,ok,empty_output,వట్టిన,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_13,17,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/17.png,surya,tesseract,empty_output,ok,,ర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_13,18,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/18.png,surya,tesseract,empty_output,ok,,మునల్ల నా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_13,19,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/19.png,surya,tesseract,empty_output,ok,,ల్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_13,20,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/20.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,21,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/21.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_13,22,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/22.png,surya,tesseract,empty_output,ok,,లొిర ం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_13,23,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/23.png,surya,tesseract,ok,ok,మార్కెటింగు,యారో,0.266667,0.733333,true,agreement_below_threshold
+processed,test_13_13,24,/home/tom/telugu_data/ground_truth_processed_0622/test/13/13/24.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_23,1,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/1.png,surya,tesseract,ok,empty_output,ఎన్నో యోగవాదులు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_23,2,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/2.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_23,3,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/3.png,surya,tesseract,empty_output,ok,,ముగ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_23,4,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/4.png,surya,tesseract,ok,ok,మేంగిల కోడ్,సుం ఢీ క,0.315789,0.684211,true,agreement_below_threshold
+processed,test_13_23,5,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/5.png,surya,tesseract,ok,empty_output,పాటలు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_23,6,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/6.png,surya,tesseract,empty_output,ok,,లన లా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_23,7,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/7.png,surya,tesseract,ok,empty_output,తన్ని ఉపరిహ్,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_23,8,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_23,9,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/9.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_23,10,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/10.png,surya,tesseract,ok,ok,మునికుమారుడొకడు,౧ న కుపూడిడాక డు,0.451613,0.548387,true,agreement_below_threshold
+processed,test_13_23,11,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/11.png,surya,tesseract,empty_output,ok,,లీ ఖాన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_23,12,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/12.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_23,13,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/13.png,surya,tesseract,ok,empty_output,సంతరించుకోవాలి,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_23,14,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/14.png,surya,tesseract,ok,empty_output,బీ సు కోవ డమ్,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_23,15,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/15.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_23,16,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/16.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_23,17,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/17.png,surya,tesseract,ok,ok,మెలిగ పెట్టి గారి,పగ,0.105263,0.894737,true,agreement_below_threshold
+processed,test_13_23,18,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/18.png,surya,tesseract,ok,empty_output,సరికుల,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_23,19,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/19.png,surya,tesseract,empty_output,ok,,ఆతౌల్హ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_23,20,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/20.png,surya,tesseract,empty_output,ok,,జూడు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_23,21,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/21.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_23,22,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/22.png,surya,tesseract,ok,empty_output,వేశాలు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_23,23,/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/23.png,surya,tesseract,ok,ok,హౌస్టేషన్,నాళ,0.166667,0.833333,true,agreement_below_threshold
+processed,test_13_24,1,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/1.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_24,2,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/2.png,surya,tesseract,ok,ok,బాతూ క్రీస్తు శాస్త్రాలే,లూ బీ సోలో,0.294118,0.705882,true,agreement_below_threshold
+processed,test_13_24,3,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/3.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_24,4,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/4.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_24,5,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_24,6,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/6.png,surya,tesseract,ok,ok,నవమార్చి ప్రక్కన,్ర శ్రపుముగో,0.214286,0.785714,true,agreement_below_threshold
+processed,test_13_24,7,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/7.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_24,8,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_24,9,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/9.png,surya,tesseract,empty_output,ok,,రుం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_24,10,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/10.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_24,11,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/11.png,surya,tesseract,ok,ok,కూడ యౌరిట,కేరట్‌ యర,0.444444,0.555556,true,agreement_below_threshold
+processed,test_13_24,12,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/12.png,surya,tesseract,ok,empty_output,సామాజిక,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_24,13,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/13.png,surya,tesseract,empty_output,ok,,అమ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_24,14,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/14.png,surya,tesseract,empty_output,ok,,ఎ్రాగగన్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_24,15,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/15.png,surya,tesseract,ok,ok,శిష్యు వెట్టి,ఘమువెడ్టూ,0.454545,0.545455,true,agreement_below_threshold
+processed,test_13_24,16,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/16.png,surya,tesseract,empty_output,ok,,డ్రొసే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_24,17,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/17.png,surya,tesseract,ok,empty_output,‍,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_24,18,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/18.png,surya,tesseract,empty_output,ok,,నూన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_24,19,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/19.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_24,20,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/20.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_24,21,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/21.png,surya,tesseract,ok,empty_output,వినియోగంటారా,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_24,22,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/22.png,surya,tesseract,ok,empty_output,పరిశీలి,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_24,23,/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/23.png,surya,tesseract,empty_output,ok,,కార,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_32,1,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/1.png,surya,tesseract,ok,ok,లోని వర్తా డు,లూ డు,0.444444,0.555556,true,agreement_below_threshold
+processed,test_13_32,2,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/2.png,surya,tesseract,empty_output,ok,,ఆగం నా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_32,3,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/3.png,surya,tesseract,ok,empty_output,ఉపనిర,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_32,4,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/4.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_32,5,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_32,6,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/6.png,surya,tesseract,ok,empty_output,సీహాసంప్,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_32,7,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/7.png,surya,tesseract,ok,empty_output,కల పు లింద,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_32,8,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_32,9,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/9.png,surya,tesseract,ok,empty_output,సంవత్రారాన్ని,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_32,10,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/10.png,surya,tesseract,empty_output,ok,,ళ్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_32,11,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/11.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_32,12,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/12.png,surya,tesseract,empty_output,ok,,రం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_32,13,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/13.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_32,14,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/14.png,surya,tesseract,ok,empty_output,వివర,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_32,15,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/15.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_32,16,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/16.png,surya,tesseract,ok,ok,హ,౨ రకము,0.000000,1.000000,true,agreement_below_threshold
+processed,test_13_32,17,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/17.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_32,18,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/18.png,surya,tesseract,ok,empty_output,వరిరచిలా,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,test_13_32,19,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/19.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,test_13_32,20,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/20.png,surya,tesseract,ok,ok,కొద్దిమలి,కొదమ,0.615385,0.384615,true,agreement_below_threshold
+processed,test_13_32,21,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/21.png,surya,tesseract,ok,ok,‌,ర శాసనాల రా,0.000000,1.000000,true,agreement_below_threshold
+processed,test_13_32,22,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/22.png,surya,tesseract,empty_output,ok,,గ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_32,23,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/23.png,surya,tesseract,ok,ok,రాజవంశపురంగా,లొడ్రరునేంగా,0.416667,0.583333,true,agreement_below_threshold
+processed,test_13_32,24,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/24.png,surya,tesseract,ok,ok,విహం బాలు,ాాంశరాధదు,0.333333,0.666667,true,agreement_below_threshold
+processed,test_13_32,25,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/25.png,surya,tesseract,empty_output,ok,,ము,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,test_13_32,26,/home/tom/telugu_data/ground_truth_processed_0622/test/13/32/26.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_4_69,1,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/1.png,surya,tesseract,ok,ok,పారలున్నెయినీ,సోరలన్దొ యథ,0.416667,0.583333,true,agreement_below_threshold
+processed,val_4_69,2,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/2.png,surya,tesseract,empty_output,ok,,ఏఎంఫ్లోయాన్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_69,3,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/3.png,surya,tesseract,ok,ok,వన్యరూరు,ఆ గ్గీటారు,0.333333,0.666667,true,agreement_below_threshold
+processed,val_4_69,4,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/4.png,surya,tesseract,ok,ok,కొర భినేయనీ,తెర కుయన,0.421053,0.578947,true,agreement_below_threshold
+processed,val_4_69,5,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/5.png,surya,tesseract,empty_output,ok,,శభ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_69,6,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/6.png,surya,tesseract,ok,ok,రూయినిక,రగు,0.200000,0.800000,true,agreement_below_threshold
+processed,val_4_69,7,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/7.png,surya,tesseract,ok,ok,వుండెం,వ్ర,0.222222,0.777778,true,agreement_below_threshold
+processed,val_4_69,8,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/8.png,surya,tesseract,ok,ok,ప్రదేశాలు,హ్‌ందుక,0.375000,0.625000,true,agreement_below_threshold
+processed,val_4_69,9,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/9.png,surya,tesseract,ok,ok,‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍,యొ,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_69,10,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/10.png,surya,tesseract,empty_output,ok,,టల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_69,11,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/11.png,surya,tesseract,empty_output,ok,,జన్మ ఓదం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_69,12,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/12.png,surya,tesseract,empty_output,ok,,లకర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_69,13,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/13.png,surya,tesseract,empty_output,ok,,రర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_69,14,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/14.png,surya,tesseract,ok,ok,వివిధి,బా,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_69,15,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/15.png,surya,tesseract,ok,ok,బాటానన్న టానా,హాటోనగ్నో టన,0.640000,0.360000,true,agreement_below_threshold
+processed,val_4_69,16,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/16.png,surya,tesseract,ok,ok,చేతిలోని,దళ,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_69,17,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/17.png,surya,tesseract,empty_output,ok,,తమన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_69,18,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/18.png,surya,tesseract,ok,ok,చేసింటివయ్య,చనిలవయా,0.444444,0.555556,true,agreement_below_threshold
+processed,val_4_69,19,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/19.png,surya,tesseract,ok,ok,హారాడు,హార్‌,0.545455,0.454545,true,agreement_below_threshold
+processed,val_4_69,20,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/20.png,surya,tesseract,empty_output,ok,,రయి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_69,21,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/21.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_4_69,22,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/22.png,surya,tesseract,empty_output,ok,,రర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_69,23,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/23.png,surya,tesseract,ok,empty_output,వాటికు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_4_69,24,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/24.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_4_69,25,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/25.png,surya,tesseract,empty_output,ok,,నం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_69,26,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/26.png,surya,tesseract,ok,ok,ఎనుకొన్ని,ంరణలొ క్ల,0.222222,0.777778,true,agreement_below_threshold
+processed,val_4_69,27,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/27.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_4_69,28,/home/tom/telugu_data/ground_truth_processed_0622/val/4/69/28.png,surya,tesseract,ok,ok,అటాయిక్,అుటీమున,0.285714,0.714286,true,agreement_below_threshold
+processed,val_4_149,1,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/1.png,surya,tesseract,ok,ok,ప్రాంతమై,ూదుతు,0.153846,0.846154,true,agreement_below_threshold
+processed,val_4_149,2,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/2.png,surya,tesseract,ok,ok,మెనుక ట్రానాల్స్,ఆను టూగాణ్చి,0.357143,0.642857,true,agreement_below_threshold
+processed,val_4_149,3,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/3.png,surya,tesseract,ok,ok,ముస్తో రింవింపుగా,కుకై రుం పగా,0.482759,0.517241,true,agreement_below_threshold
+processed,val_4_149,4,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/4.png,surya,tesseract,ok,ok,స న్మి ధైరాద్,సన్నుథో,0.300000,0.700000,true,agreement_below_threshold
+processed,val_4_149,5,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/5.png,surya,tesseract,empty_output,ok,,ఆశింఒరరు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_149,6,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/6.png,surya,tesseract,empty_output,ok,,రం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_149,7,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/7.png,surya,tesseract,ok,ok,కలగిస్తుంటాయి,ఆసీనం టో యం,0.333333,0.666667,true,agreement_below_threshold
+processed,val_4_149,8,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/8.png,surya,tesseract,ok,ok,పెరిగాంటు,అంత గాందు,0.444444,0.555556,true,agreement_below_threshold
+processed,val_4_149,9,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/9.png,surya,tesseract,ok,ok,కవరా పండు,ఓమఆాఫపండఠు,0.526316,0.473684,true,agreement_below_threshold
+processed,val_4_149,10,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/10.png,surya,tesseract,ok,ok,హ సై కా,కానా,0.363636,0.636364,true,agreement_below_threshold
+processed,val_4_149,11,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/11.png,surya,tesseract,ok,ok,ఎక,ఎన,0.500000,0.500000,true,agreement_below_threshold
+processed,val_4_149,12,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/12.png,surya,tesseract,ok,ok,పురిడ్డి వారు,వుంటవారు,0.476190,0.523810,true,agreement_below_threshold
+processed,val_4_149,13,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/13.png,surya,tesseract,ok,ok,ఉప విశేషాలు,ఊవి పాయా,0.315789,0.684211,true,agreement_below_threshold
+processed,val_4_149,14,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/14.png,surya,tesseract,empty_output,ok,,నోతక్‌నాం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_149,15,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/15.png,surya,tesseract,empty_output,ok,,నిత్బి ప,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_149,16,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/16.png,surya,tesseract,empty_output,ok,,వ్రీిపాయ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_149,17,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/17.png,surya,tesseract,ok,ok,మనవడి,మనరడరు,0.545455,0.454545,true,agreement_below_threshold
+processed,val_4_149,18,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/18.png,surya,tesseract,ok,ok,ప్రపంచకాంకేతులు,చనంంరాం తుంలు,0.500000,0.500000,true,agreement_below_threshold
+processed,val_4_149,19,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/19.png,surya,tesseract,ok,ok,సాఫీల్చకులు,పకల తుం,0.222222,0.777778,true,agreement_below_threshold
+processed,val_4_149,20,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/20.png,surya,tesseract,ok,ok,మాస్కోడ్,బుర త,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_149,21,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/21.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_4_149,22,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/22.png,surya,tesseract,empty_output,ok,,లంబిగిది,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_149,23,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/23.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_4_149,24,/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/24.png,surya,tesseract,empty_output,ok,,నే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_155,1,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/1.png,surya,tesseract,ok,ok,‍,ఆఅ ముడ తాం ౬ుంఠా,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_155,2,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/2.png,surya,tesseract,ok,ok,ఉదయక్రుడి రి టుంన్న ట్టు,యెలూకురింటున్న బ్బ,0.571429,0.428571,true,agreement_below_threshold
+processed,val_4_155,3,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/3.png,surya,tesseract,ok,ok,హా వరాలతో,నా మాలతి,0.588235,0.411765,true,agreement_below_threshold
+processed,val_4_155,4,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/4.png,surya,tesseract,ok,ok,స్మారణం,గా అర,0.333333,0.666667,true,agreement_below_threshold
+processed,val_4_155,5,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/5.png,surya,tesseract,ok,ok,వెంక టూవ్,పంక టావ్‌,0.666667,0.333333,true,agreement_below_threshold
+processed,val_4_155,6,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/6.png,surya,tesseract,ok,ok,ప్రమాణ,దా,0.250000,0.750000,true,agreement_below_threshold
+processed,val_4_155,7,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/7.png,surya,tesseract,empty_output,ok,,చాన జల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_155,8,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/8.png,surya,tesseract,empty_output,ok,,ఆకారం అం౦లఅ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_155,9,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/9.png,surya,tesseract,ok,ok,పలు చరణ,వుం,0.200000,0.800000,true,agreement_below_threshold
+processed,val_4_155,10,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/10.png,surya,tesseract,ok,ok,ప్రవాదికాకులంతా,ఓకోనీశాదులం తా,0.482759,0.517241,true,agreement_below_threshold
+processed,val_4_155,11,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/11.png,surya,tesseract,empty_output,ok,,ట్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_155,12,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/12.png,surya,tesseract,empty_output,ok,,ఎక్షిష లాల తో,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_155,13,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/13.png,surya,tesseract,ok,ok,సినిమాలు,సలాం,0.333333,0.666667,true,agreement_below_threshold
+processed,val_4_155,14,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/14.png,surya,tesseract,empty_output,ok,,డన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_155,15,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/15.png,surya,tesseract,ok,ok,పాత్రికే,హెంనీ,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_155,16,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/16.png,surya,tesseract,empty_output,ok,,రేఉటీలన్ప,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_155,17,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/17.png,surya,tesseract,empty_output,ok,,ఉత్తీ జొన్న,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_155,18,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/18.png,surya,tesseract,empty_output,ok,,ట్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_155,19,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/19.png,surya,tesseract,ok,ok,పద్య మైదానం,వక్రటు,0.117647,0.882353,true,agreement_below_threshold
+processed,val_4_155,20,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/20.png,surya,tesseract,ok,ok,కూర్పులు,ఓనిఫినుం ట,0.111111,0.888889,true,agreement_below_threshold
+processed,val_4_155,21,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/21.png,surya,tesseract,empty_output,ok,,౨దశ్ష,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_155,22,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/22.png,surya,tesseract,ok,ok,హేందు వ్యాస్ను,కింటుత్వోన్ని,0.370370,0.629630,true,agreement_below_threshold
+processed,val_4_155,23,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/23.png,surya,tesseract,ok,ok,మొహందా,ొకాంలా,0.500000,0.500000,true,agreement_below_threshold
+processed,val_4_155,24,/home/tom/telugu_data/ground_truth_processed_0622/val/4/155/24.png,surya,tesseract,empty_output,ok,,తోజంలొనే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_189,1,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/1.png,surya,tesseract,empty_output,ok,,యమం కులనన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_189,2,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/2.png,surya,tesseract,ok,ok,రాట్టు ప్రాక పోవడమ్మ,ట్టు తొక ఏప్ర,0.484848,0.515152,true,agreement_below_threshold
+processed,val_4_189,3,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/3.png,surya,tesseract,empty_output,ok,,సనౌగింి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_189,4,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/4.png,surya,tesseract,empty_output,ok,,ఆఉయోకి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_189,5,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/5.png,surya,tesseract,ok,ok,‍,ఆ చాక క్‌,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_189,6,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/6.png,surya,tesseract,ok,ok,‍,ఆర్యా,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_189,7,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/7.png,surya,tesseract,ok,ok,మంచిర మే,ముంందిరత వు,0.526316,0.473684,true,agreement_below_threshold
+processed,val_4_189,8,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/8.png,surya,tesseract,empty_output,ok,,జొపి డీలు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_189,9,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/9.png,surya,tesseract,ok,ok,మినరలాగి,బున రలో,0.400000,0.600000,true,agreement_below_threshold
+processed,val_4_189,10,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/10.png,surya,tesseract,ok,ok,జనాభా,తిర,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_189,11,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/11.png,surya,tesseract,empty_output,ok,,టత్య్బు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_189,12,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/12.png,surya,tesseract,ok,ok,పాఠవిశ్రం ఆది,బోరవజ్హం్వం,0.250000,0.750000,true,agreement_below_threshold
+processed,val_4_189,13,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/13.png,surya,tesseract,empty_output,ok,,మంగా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_189,14,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/14.png,surya,tesseract,ok,ok,ప్రాతిపాదనా,ప్రాతి టదికగో,0.583333,0.416667,true,agreement_below_threshold
+processed,val_4_189,15,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/15.png,surya,tesseract,ok,ok,సమావేశమైనద్వటికికి,సమా వహేక్చైనబ్ప ఆక,0.500000,0.500000,true,agreement_below_threshold
+processed,val_4_189,16,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/16.png,surya,tesseract,ok,ok,ప్రకాశవ ట్రాక్రాన్,౨రానవ టౌతి కి,0.387097,0.612903,true,agreement_below_threshold
+processed,val_4_189,18,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/18.png,surya,tesseract,ok,ok,న్యాయంకా,నో ంరుంగా,0.235294,0.764706,true,agreement_below_threshold
+processed,val_4_189,19,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/19.png,surya,tesseract,empty_output,ok,,వొుంమఘత్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_189,20,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/20.png,surya,tesseract,ok,ok,షో రూ క్సు,షోతూమ్స్స్‌,0.476190,0.523810,true,agreement_below_threshold
+processed,val_4_189,21,/home/tom/telugu_data/ground_truth_processed_0622/val/4/189/21.png,surya,tesseract,ok,ok,బెంయాన్ల రత్న,లుయ్సారల,0.285714,0.714286,true,agreement_below_threshold
+processed,val_4_206,1,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/1.png,surya,tesseract,ok,ok,నోరా డి నా లు,నీరాతనాయి,0.454545,0.545455,true,agreement_below_threshold
+processed,val_4_206,2,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/2.png,surya,tesseract,ok,ok,రాజ కీర్తి రహస్యాలు,రాజు దీంరూనా పీ,0.411765,0.588235,true,agreement_below_threshold
+processed,val_4_206,3,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/3.png,surya,tesseract,ok,ok,దేవి చరిత్రాన్,ఊుం ఒం లా,0.173913,0.826087,true,agreement_below_threshold
+processed,val_4_206,4,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/4.png,surya,tesseract,ok,ok,‍ రాజ కు,తీరాల కు,0.625000,0.375000,true,agreement_below_threshold
+processed,val_4_206,6,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/6.png,surya,tesseract,empty_output,ok,,ఆఫీసుకి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_206,7,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/7.png,surya,tesseract,empty_output,ok,,స్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_206,8,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/8.png,surya,tesseract,ok,ok,దూ పి లు,టాప్‌,0.153846,0.846154,true,agreement_below_threshold
+processed,val_4_206,9,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/9.png,surya,tesseract,empty_output,ok,,పెలపౌతాతైనాయము,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_206,10,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/10.png,surya,tesseract,ok,ok,కన్నె దం మీ నుండు,ఫే దుందు ముండదు,0.562500,0.437500,true,agreement_below_threshold
+processed,val_4_206,11,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/11.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_4_206,12,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/12.png,surya,tesseract,ok,ok,సాధు బారిన్,గొ,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_206,13,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/13.png,surya,tesseract,empty_output,ok,,సహా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_206,14,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/14.png,surya,tesseract,empty_output,ok,,ఇంలు నీర్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_206,15,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/15.png,surya,tesseract,empty_output,ok,,ప తన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_206,16,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/16.png,surya,tesseract,ok,ok,సావ దౌవంగా,నావ సోనంగో,0.500000,0.500000,true,agreement_below_threshold
+processed,val_4_206,17,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/17.png,surya,tesseract,ok,ok,ర్యావ స్మేలను,ృవ స్తృలను,0.608696,0.391304,true,agreement_below_threshold
+processed,val_4_206,18,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/18.png,surya,tesseract,empty_output,ok,,అఅఆతా౭,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_206,19,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/19.png,surya,tesseract,ok,ok,ప్రధాన గ్రంథాలయం,ెిరా౩శ క,0.250000,0.750000,true,agreement_below_threshold
+processed,val_4_206,20,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/20.png,surya,tesseract,empty_output,ok,,తౌ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_206,21,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/21.png,surya,tesseract,ok,ok,కు ముద్రి లాడులు,కుక్ము ఆటల,0.461538,0.538462,true,agreement_below_threshold
+processed,val_4_206,23,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/23.png,surya,tesseract,ok,ok,దైరి ట్రాస్ నూరి,ఇం టన,0.285714,0.714286,true,agreement_below_threshold
+processed,val_4_206,24,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/24.png,surya,tesseract,ok,ok,ఉద్యమం,ఉర్భ్ఫుమం,0.533333,0.466667,true,agreement_below_threshold
+processed,val_4_206,25,/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/25.png,surya,tesseract,ok,ok,దహంబాల్,వాంచ,0.181818,0.818182,true,agreement_below_threshold
+processed,val_4_219,1,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/1.png,surya,tesseract,ok,ok,‍,చేరేడంరతె,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_219,2,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/2.png,surya,tesseract,empty_output,ok,,వౌయక్తి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_219,3,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/3.png,surya,tesseract,ok,ok,ద్రుడి ఒం ఒం గా,కుతి మిం రుంగా,0.344828,0.655172,true,agreement_below_threshold
+processed,val_4_219,4,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/4.png,surya,tesseract,ok,ok,నిర్మూ ప్రి బా నీ,గసుోరూమవురి బశూడదు,0.342857,0.657143,true,agreement_below_threshold
+processed,val_4_219,5,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/5.png,surya,tesseract,empty_output,ok,,గ తరం కి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_219,6,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/6.png,surya,tesseract,ok,ok,పరమ పవిత్ర,వర చురువి త,0.476190,0.523810,true,agreement_below_threshold
+processed,val_4_219,7,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/7.png,surya,tesseract,ok,ok,విడుదలైన,ఎయు అరం,0.133333,0.866667,true,agreement_below_threshold
+processed,val_4_219,8,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/8.png,surya,tesseract,empty_output,ok,,రెంటి నా గ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_219,9,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/9.png,surya,tesseract,empty_output,ok,,తెలటను కవ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_219,10,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/10.png,surya,tesseract,empty_output,ok,,అశ్చీ ఖిన్బీకావ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_219,11,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/11.png,surya,tesseract,empty_output,ok,,ముండేనొకీ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_219,12,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/12.png,surya,tesseract,ok,ok,ప్రస్తుత కాలానికి,వేసఎ లోనే,0.307692,0.692308,true,agreement_below_threshold
+processed,val_4_219,13,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/13.png,surya,tesseract,ok,ok,సార్వ బౌ మతాన్ని,సౌ భో మత,0.416667,0.583333,true,agreement_below_threshold
+processed,val_4_219,14,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/14.png,surya,tesseract,ok,ok,పల్లెల బహుకుంటూ,వర్షించు ంయో,0.222222,0.777778,true,agreement_below_threshold
+processed,val_4_219,16,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/16.png,surya,tesseract,ok,ok,రావు బాల రథయ్యి,రా కుం యం రుయు,0.482759,0.517241,true,agreement_below_threshold
+processed,val_4_219,18,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/18.png,surya,tesseract,ok,ok,ప్రాంతాలు,డొలధించూారు,0.200000,0.800000,true,agreement_below_threshold
+processed,val_4_219,19,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/19.png,surya,tesseract,ok,ok,వివిధ స్త్రీ,౩ బ స్పీ,0.400000,0.600000,true,agreement_below_threshold
+processed,val_4_219,20,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/20.png,surya,tesseract,ok,ok,పారిశ్రామిక,వాలొనున్న,0.200000,0.800000,true,agreement_below_threshold
+processed,val_4_219,21,/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/21.png,surya,tesseract,empty_output,ok,,చాట కాలను,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_233,1,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/1.png,surya,tesseract,ok,ok,సాగరం కేరు,సాగరుం తోము,0.666667,0.333333,true,agreement_below_threshold
+processed,val_4_233,2,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/2.png,surya,tesseract,ok,ok,‍ శ్రీ ర్గీ రి నుంచి,ఆశ్చృర ముం,0.400000,0.600000,true,agreement_below_threshold
+processed,val_4_233,3,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/3.png,surya,tesseract,ok,ok,హే ల్లా లి స్తు న్మాటు,హపొాల్సురిను నారు,0.461538,0.538462,true,agreement_below_threshold
+processed,val_4_233,4,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/4.png,surya,tesseract,ok,ok,రా జిల్లా మళ్ళిం,అటూ తక,0.090909,0.909091,true,agreement_below_threshold
+processed,val_4_233,5,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/5.png,surya,tesseract,empty_output,ok,,టు దు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_233,6,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/6.png,surya,tesseract,ok,ok,తలకన్నా,అగ్ని ౦ తలకన్నా,0.636364,0.363636,true,agreement_below_threshold
+processed,val_4_233,7,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/7.png,surya,tesseract,ok,ok,వాసుదేవం,౨ానుషపీవ,0.125000,0.875000,true,agreement_below_threshold
+processed,val_4_233,8,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/8.png,surya,tesseract,ok,ok,సంబంధాలు,గుంటింథ్యార్థి,0.272727,0.727273,true,agreement_below_threshold
+processed,val_4_233,9,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/9.png,surya,tesseract,ok,ok,సిన్సే సంరక్షణ,సస్న నంద కం,0.400000,0.600000,true,agreement_below_threshold
+processed,val_4_233,10,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/10.png,surya,tesseract,ok,ok,వారి సంస్థ,చాక్‌,0.266667,0.733333,true,agreement_below_threshold
+processed,val_4_233,11,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/11.png,surya,tesseract,ok,ok,‍ ‍,అవనాగ నరిరరుం,0.125000,0.875000,true,agreement_below_threshold
+processed,val_4_233,12,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/12.png,surya,tesseract,empty_output,ok,,ఉంచాలనే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_233,13,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/13.png,surya,tesseract,empty_output,ok,,టామ్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_233,14,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/14.png,surya,tesseract,empty_output,ok,,ళ్లయిు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_233,15,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/15.png,surya,tesseract,ok,ok,స కూల,ఆఅణశుం కూల,0.533333,0.466667,true,agreement_below_threshold
+processed,val_4_233,17,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/17.png,surya,tesseract,empty_output,ok,,ఆపద,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_233,18,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/18.png,surya,tesseract,ok,ok,‍,ఆజుకిద,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_233,19,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/19.png,surya,tesseract,ok,ok,ప్రజ్విత్తోంతి పటి నట్టు,ఆ౭ పొయువమే నట్లా,0.300000,0.700000,true,agreement_below_threshold
+processed,val_4_233,20,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/20.png,surya,tesseract,ok,ok,ూం,రం లం క్ర,0.181818,0.818182,true,agreement_below_threshold
+processed,val_4_233,21,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/21.png,surya,tesseract,ok,ok,కాలం,కోర్‌,0.222222,0.777778,true,agreement_below_threshold
+processed,val_4_233,22,/home/tom/telugu_data/ground_truth_processed_0622/val/4/233/22.png,surya,tesseract,empty_output,ok,,వెళ్ల గానా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_238,1,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/1.png,surya,tesseract,ok,ok,ప్రభుత్వ బాధ్యత,అుయులింబిన,0.160000,0.840000,true,agreement_below_threshold
+processed,val_4_238,2,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/2.png,surya,tesseract,ok,ok,కోరుకునో,చోటమటనే,0.266667,0.733333,true,agreement_below_threshold
+processed,val_4_238,4,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/4.png,surya,tesseract,ok,ok,పాటలు,శోభి,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_238,6,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/6.png,surya,tesseract,empty_output,ok,,మేడఉలకా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_238,7,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/7.png,surya,tesseract,ok,ok,విద్యా సౌకర్యాలు,అట్లా,0.190476,0.809524,true,agreement_below_threshold
+processed,val_4_238,8,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_4_238,9,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/9.png,surya,tesseract,empty_output,ok,,మత వాడ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_238,10,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/10.png,surya,tesseract,ok,ok,సురి పూ ద్వే ంగా,సంపూ రంగా,0.560000,0.440000,true,agreement_below_threshold
+processed,val_4_238,11,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/11.png,surya,tesseract,ok,ok,భూమి వినియోగం,ఇనూతుంలూ ర,0.173913,0.826087,true,agreement_below_threshold
+processed,val_4_238,12,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/12.png,surya,tesseract,ok,ok,విస్తృత పరిచరులు,ఎతుత మరలరుం,0.444444,0.555556,true,agreement_below_threshold
+processed,val_4_238,13,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/13.png,surya,tesseract,ok,ok,వ్రాతలు,అఖ ౨తలం,0.285714,0.714286,true,agreement_below_threshold
+processed,val_4_238,14,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/14.png,surya,tesseract,ok,ok,మైతా,తా,0.666667,0.333333,true,agreement_below_threshold
+processed,val_4_238,15,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/15.png,surya,tesseract,ok,ok,గా హౌకు,గాబ్రౌాటడు,0.470588,0.529412,true,agreement_below_threshold
+processed,val_4_238,16,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/16.png,surya,tesseract,ok,ok,దూర మార్పు తెుంద నేటి,ఉర బంవ్చృ తంంద నోడు,0.450000,0.550000,true,agreement_below_threshold
+processed,val_4_238,17,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/17.png,surya,tesseract,empty_output,ok,,౭,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_238,18,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/18.png,surya,tesseract,ok,ok,ప్రాంత పుట్టడ,లో,0.000000,1.000000,true,agreement_below_threshold
+processed,val_4_238,19,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/19.png,surya,tesseract,ok,ok,త పో యోగాల,తవ యో గాం,0.631579,0.368421,true,agreement_below_threshold
+processed,val_4_238,20,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/20.png,surya,tesseract,ok,ok,విజ్ఞేత్తర్‌,ఎ౨కుతతే,0.105263,0.894737,true,agreement_below_threshold
+processed,val_4_238,21,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/21.png,surya,tesseract,empty_output,ok,,బెళ్ళి పోతుంది,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_4_238,23,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/23.png,surya,tesseract,ok,ok,దుశా బ్హి లోని,గుశౌరిర్లి ఆ,0.384615,0.615385,true,agreement_below_threshold
+processed,val_4_238,24,/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/24.png,surya,tesseract,empty_output,ok,,ఆనాడఢ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_53,1,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/1.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_53,2,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/2.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_53,3,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/3.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_53,4,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/4.png,surya,tesseract,ok,empty_output,ప్రత్యేక,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_53,5,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/5.png,surya,tesseract,empty_output,ok,,డగు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_53,6,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/6.png,surya,tesseract,ok,ok,గ్రామాలు,గారా,0.500000,0.500000,true,agreement_below_threshold
+processed,val_10_53,7,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/7.png,surya,tesseract,ok,empty_output,క్షణ ం,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_53,8,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_53,9,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/9.png,surya,tesseract,ok,empty_output,మా ౬౬,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_53,10,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/10.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_53,11,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/11.png,surya,tesseract,empty_output,ok,,కారే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_53,12,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/12.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_53,13,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/13.png,surya,tesseract,empty_output,ok,,దంల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_53,14,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/14.png,surya,tesseract,empty_output,ok,,ంరే,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_53,15,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/15.png,surya,tesseract,empty_output,ok,,లా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_53,16,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/16.png,surya,tesseract,empty_output,ok,,గులా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_53,17,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/17.png,surya,tesseract,empty_output,ok,,స,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_53,18,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/18.png,surya,tesseract,empty_output,ok,,రం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_53,19,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/19.png,surya,tesseract,empty_output,ok,,౯,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_53,20,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/20.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_53,21,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/21.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_53,22,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/22.png,surya,tesseract,ok,ok,‍ ‍,మంపైరొలుువ,0.000000,1.000000,true,agreement_below_threshold
+processed,val_10_53,23,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/23.png,surya,tesseract,ok,ok,ఎక్కువ,లా,0.000000,1.000000,true,agreement_below_threshold
+processed,val_10_53,24,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/24.png,surya,tesseract,empty_output,ok,,రంగులు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_53,25,/home/tom/telugu_data/ground_truth_processed_0622/val/10/53/25.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_89,1,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/1.png,surya,tesseract,ok,empty_output,నిన్నెరు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_89,2,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/2.png,surya,tesseract,ok,empty_output,విద్యా కేంద్రాలు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_89,3,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/3.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_89,4,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/4.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_89,5,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/5.png,surya,tesseract,ok,ok,అప్పార్లీనాటూరి,అత్తల,0.300000,0.700000,true,agreement_below_threshold
+processed,val_10_89,6,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/6.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_89,7,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/7.png,surya,tesseract,ok,ok,విద్యాసౌకర్యాలు,దు దు,0.200000,0.800000,true,agreement_below_threshold
+processed,val_10_89,8,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_89,9,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/9.png,surya,tesseract,ok,empty_output,‍,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_89,10,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/10.png,surya,tesseract,empty_output,ok,,రా౭రరడన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_89,11,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/11.png,surya,tesseract,empty_output,ok,,౧,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_89,12,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/12.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_89,13,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/13.png,surya,tesseract,empty_output,ok,,వయం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_89,14,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/14.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_89,15,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/15.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_89,16,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/16.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_89,17,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/17.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_89,18,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/18.png,surya,tesseract,ok,ok,గ్రామం,్‌గ,0.222222,0.777778,true,agreement_below_threshold
+processed,val_10_89,19,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/19.png,surya,tesseract,empty_output,ok,,మగు త గాం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_89,20,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/20.png,surya,tesseract,ok,empty_output,చెప్పుదు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_89,21,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/21.png,surya,tesseract,ok,empty_output,‌,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_89,22,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/22.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_89,23,/home/tom/telugu_data/ground_truth_processed_0622/val/10/89/23.png,surya,tesseract,empty_output,ok,,గా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_108,1,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/1.png,surya,tesseract,ok,ok,మొడ్కంలకగలదు,మెడం గలరు,0.571429,0.428571,true,agreement_below_threshold
+processed,val_10_108,2,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/2.png,surya,tesseract,ok,ok,దక్షిణాత్యాలు,రాం,0.125000,0.875000,true,agreement_below_threshold
+processed,val_10_108,3,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/3.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_108,4,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/4.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_108,5,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/5.png,surya,tesseract,ok,ok,కూడ,నయతి,0.000000,1.000000,true,agreement_below_threshold
+processed,val_10_108,6,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/6.png,surya,tesseract,empty_output,ok,,ే ోణ ి,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_108,7,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/7.png,surya,tesseract,empty_output,ok,,చరద,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_108,8,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_108,9,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/9.png,surya,tesseract,empty_output,ok,,౧,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_108,10,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/10.png,surya,tesseract,ok,empty_output,ఎర్రి శర్మాలు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_108,11,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/11.png,surya,tesseract,ok,ok,వౌడకూరుడు,యూ య,0.153846,0.846154,true,agreement_below_threshold
+processed,val_10_108,12,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/12.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_108,13,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/13.png,surya,tesseract,empty_output,ok,,ళా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_108,14,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/14.png,surya,tesseract,ok,empty_output,పర్యాంటున్నాడు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_108,15,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/15.png,surya,tesseract,empty_output,ok,,రక,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_108,16,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/16.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_108,17,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/17.png,surya,tesseract,ok,ok,బాగుండేటికలా,గుంతు రా,0.400000,0.600000,true,agreement_below_threshold
+processed,val_10_108,18,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/18.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_108,19,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/19.png,surya,tesseract,ok,ok,‍,రుయలాయిస్తాయు,0.000000,1.000000,true,agreement_below_threshold
+processed,val_10_108,20,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/20.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_108,21,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/21.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_108,22,/home/tom/telugu_data/ground_truth_processed_0622/val/10/108/22.png,surya,tesseract,ok,ok,వేడుకలను,వెరు,0.333333,0.666667,true,agreement_below_threshold
+processed,val_10_179,1,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/1.png,surya,tesseract,empty_output,ok,,ఇంతగ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_179,2,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/2.png,surya,tesseract,ok,empty_output,పార్టీ కేంద్రాలు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_179,3,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/3.png,surya,tesseract,empty_output,ok,,యూన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_179,4,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/4.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_179,5,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_179,6,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/6.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_179,7,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/7.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_179,8,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/8.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_179,10,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/10.png,surya,tesseract,empty_output,ok,,గా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_179,11,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/11.png,surya,tesseract,empty_output,ok,,ఎడణెనా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_179,12,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/12.png,surya,tesseract,ok,ok,గణాంకాలు,ల్‌లొంకాం,0.352941,0.647059,true,agreement_below_threshold
+processed,val_10_179,13,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/13.png,surya,tesseract,empty_output,ok,,తుసౌ్‌ల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_179,14,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/14.png,surya,tesseract,empty_output,ok,,ఆరం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_179,15,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/15.png,surya,tesseract,ok,empty_output,స్థానాలను,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_179,16,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/16.png,surya,tesseract,ok,ok,బాధపడినా,ఒభభయతేనొ,0.125000,0.875000,true,agreement_below_threshold
+processed,val_10_179,17,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/17.png,surya,tesseract,ok,ok,కూర్పాల,ర్‌ం,0.363636,0.636364,true,agreement_below_threshold
+processed,val_10_179,18,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/18.png,surya,tesseract,empty_output,ok,,రెతంలతౌ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_179,19,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/19.png,surya,tesseract,ok,empty_output,బకరు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_179,20,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/20.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_179,21,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/21.png,surya,tesseract,empty_output,ok,,ల్‌,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_179,22,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/22.png,surya,tesseract,empty_output,ok,,రో ౧౦ుగల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_179,23,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/23.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_179,24,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/24.png,surya,tesseract,empty_output,ok,,చరం శాందదలీ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_179,25,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/25.png,surya,tesseract,ok,empty_output,వైద్య ల,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_179,26,/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/26.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_350,1,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/1.png,surya,tesseract,ok,ok,పుట్టుకొమ్మన,సటుకొబుం,0.400000,0.600000,true,agreement_below_threshold
+processed,val_10_350,2,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/2.png,surya,tesseract,empty_output,ok,,రంల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_350,3,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/3.png,surya,tesseract,ok,empty_output,కొందరికో,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_350,4,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/4.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_350,5,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_350,6,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/6.png,surya,tesseract,ok,ok,పారిశుధ్యం,పహొాదగోరి,0.421053,0.578947,true,agreement_below_threshold
+processed,val_10_350,7,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/7.png,surya,tesseract,empty_output,ok,,యర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_350,8,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/8.png,surya,tesseract,empty_output,ok,,శరం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_350,9,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/9.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_350,11,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/11.png,surya,tesseract,empty_output,ok,,ఖణుదంయులదానా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_350,12,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/12.png,surya,tesseract,empty_output,ok,,రంగాల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_350,13,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/13.png,surya,tesseract,ok,ok,ప్రకారం,శతకంలో,0.307692,0.692308,true,agreement_below_threshold
+processed,val_10_350,14,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/14.png,surya,tesseract,empty_output,ok,,గులా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_350,15,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/15.png,surya,tesseract,ok,ok,దర్శకురాలు,గా,0.166667,0.833333,true,agreement_below_threshold
+processed,val_10_350,16,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/16.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_350,17,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/17.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_350,18,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/18.png,surya,tesseract,ok,ok,కార్యమం,రొరయం,0.500000,0.500000,true,agreement_below_threshold
+processed,val_10_350,19,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/19.png,surya,tesseract,ok,ok,‍ ‍,ఆగతీరాంంలోను,0.000000,1.000000,true,agreement_below_threshold
+processed,val_10_350,20,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/20.png,surya,tesseract,empty_output,ok,,డేలు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_350,21,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/21.png,surya,tesseract,ok,empty_output,వే బూనే లే నాని,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_350,22,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/22.png,surya,tesseract,ok,empty_output,మరణి,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_350,23,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/23.png,surya,tesseract,ok,ok,కాపింపుతానికి,రా్‌్‌ుతడాణో,0.320000,0.680000,true,agreement_below_threshold
+processed,val_10_350,24,/home/tom/telugu_data/ground_truth_processed_0622/val/10/350/24.png,surya,tesseract,empty_output,ok,,లూ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_386,1,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/1.png,surya,tesseract,ok,ok,రాహ లెగ్గిగికో,రహా త్తం,0.363636,0.636364,true,agreement_below_threshold
+processed,val_10_386,2,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/2.png,surya,tesseract,ok,ok,‍,అఆగయర్నంతు,0.000000,1.000000,true,agreement_below_threshold
+processed,val_10_386,3,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/3.png,surya,tesseract,ok,ok,సమాచార,గనేయాజదరా,0.266667,0.733333,true,agreement_below_threshold
+processed,val_10_386,4,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/4.png,surya,tesseract,empty_output,ok,,థుంచేతారగా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_386,5,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/5.png,surya,tesseract,empty_output,ok,,రులు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_386,6,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/6.png,surya,tesseract,ok,ok,డో ౮ యం వున్నా,బుకొయుం టు,0.333333,0.666667,true,agreement_below_threshold
+processed,val_10_386,7,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/7.png,surya,tesseract,ok,ok,ఎండకో,మరల,0.000000,1.000000,true,agreement_below_threshold
+processed,val_10_386,8,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/8.png,surya,tesseract,ok,ok,మౌల్,యుత,0.000000,1.000000,true,agreement_below_threshold
+processed,val_10_386,9,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/9.png,surya,tesseract,ok,ok,మందులకు,౧ుంయులతు,0.533333,0.466667,true,agreement_below_threshold
+processed,val_10_386,10,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/10.png,surya,tesseract,empty_output,ok,,రర,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_386,11,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/11.png,surya,tesseract,empty_output,ok,,గల,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_386,12,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/12.png,surya,tesseract,ok,ok,అన్నా రీలకు,అగ్ట్రేర్‌ుత్రు,0.307692,0.692308,true,agreement_below_threshold
+processed,val_10_386,13,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/13.png,surya,tesseract,ok,ok,‌,౭లీ్న తనంలో,0.000000,1.000000,true,agreement_below_threshold
+processed,val_10_386,14,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/14.png,surya,tesseract,empty_output,ok,,గమ్య,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_386,15,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/15.png,surya,tesseract,empty_output,ok,,ఆతయూరాలు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_386,16,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/16.png,surya,tesseract,ok,ok,లాంటి వారు,టంటవాడు,0.588235,0.411765,true,agreement_below_threshold
+processed,val_10_386,17,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/17.png,surya,tesseract,ok,ok,మార్కెటింగు బ్యాంకింగు,త్‌పోయింటి,0.187500,0.812500,true,agreement_below_threshold
+processed,val_10_386,18,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/18.png,surya,tesseract,ok,ok,వ్రౌరసుడులయిరారు,వౌరనవథడంతుంటూతు,0.322581,0.677419,true,agreement_below_threshold
+processed,val_10_386,19,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/19.png,surya,tesseract,ok,ok,మి తీపకొల్లెపైన,య తక,0.315789,0.684211,true,agreement_below_threshold
+processed,val_10_386,20,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/20.png,surya,tesseract,empty_output,ok,,చుకియ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_386,21,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/21.png,surya,tesseract,empty_output,ok,,ూ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_386,22,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/22.png,surya,tesseract,empty_output,ok,,౧౦ ౧,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_386,23,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/23.png,surya,tesseract,ok,ok,బ్రిడ్జి సేక్షిక,తే మదిం,0.086957,0.913043,true,agreement_below_threshold
+processed,val_10_386,24,/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/24.png,surya,tesseract,empty_output,ok,,యౌ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_469,1,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/1.png,surya,tesseract,ok,ok,ప్రశ్నిపెయినిన్నట్లు,యూరీ యుగ త,0.200000,0.800000,true,agreement_below_threshold
+processed,val_10_469,2,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/2.png,surya,tesseract,ok,ok,అనునరిస్తారా,అయుగరనోాడు,0.272727,0.727273,true,agreement_below_threshold
+processed,val_10_469,3,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/3.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_469,4,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/4.png,surya,tesseract,empty_output,ok,,రెణ్తగా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_469,5,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/5.png,surya,tesseract,empty_output,ok,,యాయ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_469,6,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/6.png,surya,tesseract,empty_output,ok,,శయగుతన,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_469,7,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/7.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_469,8,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/8.png,surya,tesseract,empty_output,ok,,గ్‌ా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_469,9,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/9.png,surya,tesseract,ok,empty_output,పాఠశాల,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_469,10,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/10.png,surya,tesseract,empty_output,ok,,ంెంరలు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_469,11,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/11.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_469,12,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/12.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_469,13,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/13.png,surya,tesseract,ok,ok,మంతోమిశ్రదేవేలు,యంతంై వేలూ,0.400000,0.600000,true,agreement_below_threshold
+processed,val_10_469,14,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/14.png,surya,tesseract,ok,empty_output,‌,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_469,15,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/15.png,surya,tesseract,ok,ok,స్థానితం,నరం,0.363636,0.636364,true,agreement_below_threshold
+processed,val_10_469,16,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/16.png,surya,tesseract,empty_output,ok,,రగు,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_469,17,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/17.png,surya,tesseract,ok,ok,కామిస్తున్నాడు,చయలు గతిం,0.086957,0.913043,true,agreement_below_threshold
+processed,val_10_469,18,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/18.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_469,19,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/19.png,surya,tesseract,ok,empty_output,మౌర్య,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_469,20,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/20.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_469,21,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/21.png,surya,tesseract,ok,empty_output,ఎిపెమెంటు,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_469,22,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/22.png,surya,tesseract,ok,empty_output,‌,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_469,23,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/23.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_469,24,/home/tom/telugu_data/ground_truth_processed_0622/val/10/469/24.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_480,1,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/1.png,surya,tesseract,ok,empty_output,పండిగల,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_480,2,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/2.png,surya,tesseract,empty_output,ok,,డ్రేంయంది,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_480,3,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/3.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_480,4,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/4.png,surya,tesseract,ok,ok,ఉపాధ్యాయులకు,డఉుపొణ్యాయంలకల,0.615385,0.384615,true,agreement_below_threshold
+processed,val_10_480,5,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/5.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_480,6,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/6.png,surya,tesseract,ok,ok,సాధ్యపెంగుల,సోథ్గంచుగం,0.380952,0.619048,true,agreement_below_threshold
+processed,val_10_480,7,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/7.png,surya,tesseract,ok,ok,బేగుకుంటు,లేగ రక,0.400000,0.600000,true,agreement_below_threshold
+processed,val_10_480,8,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/8.png,surya,tesseract,ok,ok,పాండు,దుం,0.250000,0.750000,true,agreement_below_threshold
+processed,val_10_480,9,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/9.png,surya,tesseract,ok,ok,బ్రిటిషులప్రధానాలు,ఆ రుయుల్నంగా,0.333333,0.666667,true,agreement_below_threshold
+processed,val_10_480,10,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/10.png,surya,tesseract,ok,empty_output,వేస్తుంటూను,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_480,11,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/11.png,surya,tesseract,ok,ok,గుర్తులేని ాయి,గురురుంలేనాం ౮,0.571429,0.428571,true,agreement_below_threshold
+processed,val_10_480,12,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/12.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_480,13,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/13.png,surya,tesseract,empty_output,ok,,శం,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_480,14,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/14.png,surya,tesseract,empty_output,ok,,గ,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_480,15,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/15.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_480,16,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/16.png,surya,tesseract,ok,ok,జీవనాలు,శో్క్తిం్ర,0.000000,1.000000,true,agreement_below_threshold
+processed,val_10_480,17,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/17.png,surya,tesseract,empty_output,ok,,చేస్తాగా,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_480,18,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/18.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_480,19,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/19.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_480,20,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/20.png,surya,tesseract,ok,empty_output,ఎన్నాడూపంగు ఆఫ్లం,,0.000000,1.000000,true,tesseract_empty;agreement_below_threshold
+processed,val_10_480,21,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/21.png,surya,tesseract,empty_output,ok,,గమ భరత,0.000000,1.000000,true,surya_empty;agreement_below_threshold
+processed,val_10_480,22,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/22.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold
+processed,val_10_480,23,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/23.png,surya,tesseract,ok,ok,‍,లు,0.000000,1.000000,true,agreement_below_threshold
+processed,val_10_480,24,/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/24.png,surya,tesseract,empty_output,empty_output,,,0.000000,1.000000,true,both_empty;agreement_below_threshold

@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/12/191/21.jpg",
+  "relative_input_path": "test/12/191/21.jpg",
+  "status": "ok",
+  "raw_text": "_ఆోగైంటోనో",
+  "text": "ఆోగైంటోనో",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "elapsed_seconds": 0.8847446160070831,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

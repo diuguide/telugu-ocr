@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/125/7.png",
+  "relative_input_path": "test/12/125/7.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 51.82496124900035,
+  "raw_text": "కుంటున్నా",
+  "text": "కుంటున్నా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            651.0,
+            0.0
+          ],
+          [
+            651.0,
+            337.0
+          ],
+          [
+            0.0,
+            337.0
+          ]
+        ],
+        "confidence": 0.6387378492084581,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>కుంటున్నా</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          651.0,
+          337.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      651.0,
+      337.0
+    ]
+  }
+}

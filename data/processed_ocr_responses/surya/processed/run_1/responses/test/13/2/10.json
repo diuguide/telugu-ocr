@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/13/2/10.png",
+  "relative_input_path": "test/13/2/10.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 19.97169253199536,
+  "raw_text": "విశేషాల్యం 25 కు",
+  "text": "విశేషాల్యం కు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1198.0,
+            0.0
+          ],
+          [
+            1198.0,
+            195.0
+          ],
+          [
+            0.0,
+            195.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>విశేషాల్యం 25 కు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1198.0,
+          195.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1198.0,
+      195.0
+    ]
+  }
+}

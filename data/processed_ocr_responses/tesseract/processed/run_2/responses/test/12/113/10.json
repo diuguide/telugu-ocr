@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/113/10.png",
+  "relative_input_path": "test/12/113/10.png",
+  "status": "ok",
+  "raw_text": "మహా ద వున",
+  "text": "మహా ద వున",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 7,
+  "elapsed_seconds": 0.5434685090003768,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

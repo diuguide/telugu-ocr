@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/12/48/7.jpg",
+  "relative_input_path": "test/12/48/7.jpg",
+  "status": "ok",
+  "raw_text": "అసుర తందన.",
+  "text": "అసుర తందన",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "elapsed_seconds": 1.3810531469935086,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/166/4.png",
+  "relative_input_path": "test/9/166/4.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.376735240000016,
+  "raw_text": "మార్ఛమాలు",
+  "text": "మార్ఛమాలు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            778.0,
+            0.0
+          ],
+          [
+            778.0,
+            248.0
+          ],
+          [
+            0.0,
+            248.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మార్ఛమాలు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          778.0,
+          248.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      778.0,
+      248.0
+    ]
+  }
+}

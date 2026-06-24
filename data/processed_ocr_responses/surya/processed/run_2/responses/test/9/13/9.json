@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/13/9.png",
+  "relative_input_path": "test/9/13/9.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 19.011156511999616,
+  "raw_text": "నర్మా రీతి చెల్‌యా దు",
+  "text": "నర్మా రీతి చెల్‌యా దు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 17,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1092.0,
+            0.0
+          ],
+          [
+            1092.0,
+            268.0
+          ],
+          [
+            0.0,
+            268.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>నర్మా రీతి చెల్‌యా దు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1092.0,
+          268.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1092.0,
+      268.0
+    ]
+  }
+}

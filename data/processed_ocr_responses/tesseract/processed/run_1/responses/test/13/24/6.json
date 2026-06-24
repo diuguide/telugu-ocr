@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/13/24/6.png",
+  "relative_input_path": "test/13/24/6.png",
+  "status": "ok",
+  "raw_text": "ర శ్రర సుగో",
+  "text": "ర శ్రర సుగో",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "elapsed_seconds": 0.6041408000019146,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

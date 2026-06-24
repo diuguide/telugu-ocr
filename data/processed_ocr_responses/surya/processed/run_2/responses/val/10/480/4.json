@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/10/480/4.png",
+  "relative_input_path": "val/10/480/4.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 17.68655111899716,
+  "raw_text": "ఉపాధ్యాయులకు",
+  "text": "ఉపాధ్యాయులకు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1286.0,
+            0.0
+          ],
+          [
+            1286.0,
+            262.0
+          ],
+          [
+            0.0,
+            262.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ఉపాధ్యాయులకు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1286.0,
+          262.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1286.0,
+      262.0
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/206/21.png",
+  "relative_input_path": "val/4/206/21.png",
+  "status": "ok",
+  "raw_text": "కుక్ము ఆటల)",
+  "text": "కుక్ము ఆటల",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "elapsed_seconds": 0.584203391000301,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

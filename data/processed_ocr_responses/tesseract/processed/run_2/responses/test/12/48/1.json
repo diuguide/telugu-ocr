@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/48/1.png",
+  "relative_input_path": "test/12/48/1.png",
+  "status": "ok",
+  "raw_text": "నీ 2 య్యా",
+  "text": "నీ య్యా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 6,
+  "elapsed_seconds": 0.5658472830000392,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

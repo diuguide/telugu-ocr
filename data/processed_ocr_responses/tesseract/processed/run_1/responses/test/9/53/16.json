@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/53/16.png",
+  "relative_input_path": "test/9/53/16.png",
+  "status": "ok",
+  "raw_text": "కోలుర్టైితుల",
+  "text": "కోలుర్టైితుల",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "elapsed_seconds": 0.539424810995115,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/13/2/20.png",
+  "relative_input_path": "test/13/2/20.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.503383641000255,
+  "raw_text": "మందికొడు",
+  "text": "మందికొడు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            811.0,
+            0.0
+          ],
+          [
+            811.0,
+            193.0
+          ],
+          [
+            0.0,
+            193.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మందికొడు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          811.0,
+          193.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      811.0,
+      193.0
+    ]
+  }
+}

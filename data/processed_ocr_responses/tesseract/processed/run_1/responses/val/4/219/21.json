@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/val/4/219/21.png",
+  "relative_input_path": "val/4/219/21.png",
+  "status": "ok",
+  "raw_text": "వాటు కాల ను)",
+  "text": "వాటు కాల ను",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "elapsed_seconds": 0.6354261310043512,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/7/1.png",
+  "relative_input_path": "test/13/7/1.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 8.517175349999889,
+  "raw_text": "ಕುಟಿತ್",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            547.0,
+            0.0
+          ],
+          [
+            547.0,
+            252.0
+          ],
+          [
+            0.0,
+            252.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಕುಟಿತ್</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          547.0,
+          252.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      547.0,
+      252.0
+    ]
+  }
+}

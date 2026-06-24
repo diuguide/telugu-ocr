@@ -1,0 +1,38 @@
+{
+  "method": "C_cross_model_agreement",
+  "results_a": "/home/tom/telugu_data/bin/data/processed_ocr_responses/surya/raw/results.jsonl",
+  "results_b": "/home/tom/telugu_data/bin/data/processed_ocr_responses/tesseract/raw/results.jsonl",
+  "inventory": "/home/tom/telugu_data/data/ground_truth/manifests/ground_truth_manifest.csv",
+  "model_a": "surya",
+  "model_b": "tesseract",
+  "input_kind": "raw",
+  "review_threshold": 0.7,
+  "sampling": {
+    "limit_pages": null,
+    "sample_pages": null,
+    "sample_seed": null,
+    "page_keys_file": null
+  },
+  "compared_pages": 21,
+  "compared_word_regions": 508,
+  "flagged_pages": 21,
+  "flagged_word_regions": 501,
+  "unpaired_pages": 18,
+  "excluded_incomplete_pages": 1,
+  "total_pages_for_human_review": 40,
+  "mean_word_agreement": 0.06592802952755905,
+  "median_word_agreement": 0.0,
+  "mean_page_agreement": 0.20339133333333334,
+  "median_page_agreement": 0.205357,
+  "unmapped_a": 0,
+  "unmapped_b": 0,
+  "malformed_jsonl_lines_a": 0,
+  "malformed_jsonl_lines_b": 0,
+  "combined_report_written": true,
+  "method_result_paths": {
+    "fluency_a": "/home/tom/telugu_data/bin/data/llm_validations/surya/raw/results.jsonl",
+    "fluency_b": "/home/tom/telugu_data/bin/data/llm_validations/tesseract/raw/results.jsonl",
+    "errors_a": "/home/tom/telugu_data/bin/data/llm_validations/error_detection/surya/raw/results.jsonl",
+    "errors_b": "/home/tom/telugu_data/bin/data/llm_validations/error_detection/tesseract/raw/results.jsonl"
+  }
+}

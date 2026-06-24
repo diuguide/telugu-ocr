@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/13/32/2.png",
+  "relative_input_path": "test/13/32/2.png",
+  "status": "ok",
+  "raw_text": "గం సా",
+  "text": "గం సా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 4,
+  "elapsed_seconds": 0.609750075993361,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

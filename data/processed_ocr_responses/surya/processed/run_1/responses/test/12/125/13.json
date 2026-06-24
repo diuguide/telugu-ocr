@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/125/13.png",
+  "relative_input_path": "test/12/125/13.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 16.535200004000217,
+  "raw_text": "పారిశ్రమ",
+  "text": "పారిశ్రమ",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            792.0,
+            0.0
+          ],
+          [
+            792.0,
+            245.0
+          ],
+          [
+            0.0,
+            245.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>పారిశ్రమ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          792.0,
+          245.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      792.0,
+      245.0
+    ]
+  }
+}

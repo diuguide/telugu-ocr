@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/13/14.png",
+  "relative_input_path": "test/9/13/14.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.265219250999507,
+  "raw_text": "ଆଧାର",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            491.0,
+            0.0
+          ],
+          [
+            491.0,
+            289.0
+          ],
+          [
+            0.0,
+            289.0
+          ]
+        ],
+        "confidence": 0.7024085479204315,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ଆଧାର</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          491.0,
+          289.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      491.0,
+      289.0
+    ]
+  }
+}

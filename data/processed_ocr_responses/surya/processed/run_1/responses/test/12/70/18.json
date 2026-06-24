@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/70/18.png",
+  "relative_input_path": "test/12/70/18.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 5.2763696580000214,
+  "raw_text": "حياتي",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            364.0,
+            0.0
+          ],
+          [
+            364.0,
+            182.0
+          ],
+          [
+            0.0,
+            182.0
+          ]
+        ],
+        "confidence": 0.6762055446831132,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>حياتي</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          364.0,
+          182.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      364.0,
+      182.0
+    ]
+  }
+}

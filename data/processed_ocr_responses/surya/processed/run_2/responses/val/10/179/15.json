@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/10/179/15.png",
+  "relative_input_path": "val/10/179/15.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.018521967000197,
+  "raw_text": "స్థానాలను",
+  "text": "స్థానాలను",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            786.0,
+            0.0
+          ],
+          [
+            786.0,
+            243.0
+          ],
+          [
+            0.0,
+            243.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>స్థానాలను</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          786.0,
+          243.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      786.0,
+      243.0
+    ]
+  }
+}

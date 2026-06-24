@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/22.png",
+  "relative_input_path": "test/13/24/22.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 6.576475825000671,
+  "raw_text": "పరిశీలి",
+  "text": "పరిశీలి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 7,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            504.0,
+            0.0
+          ],
+          [
+            504.0,
+            199.0
+          ],
+          [
+            0.0,
+            199.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>పరిశీలి</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          504.0,
+          199.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      504.0,
+      199.0
+    ]
+  }
+}

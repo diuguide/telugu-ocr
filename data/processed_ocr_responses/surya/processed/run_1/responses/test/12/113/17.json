@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/113/17.png",
+  "relative_input_path": "test/12/113/17.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 35.36607990499988,
+  "raw_text": "బ్రిటిష్ యా క్రీడా వ్యవస్థ",
+  "text": "బ్రిటిష్ యా క్రీడా వ్యవస్థ",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 23,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1285.0,
+            0.0
+          ],
+          [
+            1285.0,
+            179.0
+          ],
+          [
+            0.0,
+            179.0
+          ]
+        ],
+        "confidence": 0.7453294224037266,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>బ్రిటిష్ యా క్రీడా వ్యవస్థ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1285.0,
+          179.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1285.0,
+      179.0
+    ]
+  }
+}

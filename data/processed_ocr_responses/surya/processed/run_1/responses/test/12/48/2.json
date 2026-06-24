@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/48/2.png",
+  "relative_input_path": "test/12/48/2.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 20.547190250000313,
+  "raw_text": "ಭಾವ ಸ್ತ್ರಿ ನಾದಂ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1105.0,
+            0.0
+          ],
+          [
+            1105.0,
+            277.0
+          ],
+          [
+            0.0,
+            277.0
+          ]
+        ],
+        "confidence": 0.7630523736753765,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಭಾವ ಸ್ತ್ರಿ ನಾದಂ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1105.0,
+          277.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1105.0,
+      277.0
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/12/131/24.jpg",
+  "relative_input_path": "test/12/131/24.jpg",
+  "status": "ok",
+  "raw_text": "'ఫ్రేట్లులని",
+  "text": "ఫ్రేట్లులని",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 11,
+  "elapsed_seconds": 0.8696567230072105,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

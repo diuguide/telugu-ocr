@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/252/5.png",
+  "relative_input_path": "test/9/252/5.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 33.515636374999985,
+  "raw_text": "ఉత్పహ్నాసాలు",
+  "text": "ఉత్పహ్నాసాలు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 12,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1314.0,
+            0.0
+          ],
+          [
+            1314.0,
+            288.0
+          ],
+          [
+            0.0,
+            288.0
+          ]
+        ],
+        "confidence": 0.7374125976743314,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ఉత్పహ్నాసాలు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1314.0,
+          288.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1314.0,
+      288.0
+    ]
+  }
+}

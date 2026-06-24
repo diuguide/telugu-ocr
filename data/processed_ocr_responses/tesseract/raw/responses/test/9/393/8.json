@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/9/393/8.jpg",
+  "relative_input_path": "test/9/393/8.jpg",
+  "status": "ok",
+  "raw_text": "'వరిద్దరిన్‌",
+  "text": "వరిద్దరిన్‌",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "elapsed_seconds": 0.8630781950050732,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

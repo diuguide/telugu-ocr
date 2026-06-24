@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/53/4.png",
+  "relative_input_path": "test/9/53/4.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 11.254801213999599,
+  "raw_text": "శ్రో నటదులు",
+  "text": "శ్రో నటదులు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            778.0,
+            0.0
+          ],
+          [
+            778.0,
+            219.0
+          ],
+          [
+            0.0,
+            219.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>శ్రో నటదులు</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          778.0,
+          219.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      778.0,
+      219.0
+    ]
+  }
+}

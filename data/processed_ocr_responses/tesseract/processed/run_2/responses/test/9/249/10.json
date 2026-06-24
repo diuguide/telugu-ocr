@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/249/10.png",
+  "relative_input_path": "test/9/249/10.png",
+  "status": "ok",
+  "raw_text": "గ్రమానికి లోడు",
+  "text": "గ్రమానికి లోడు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 13,
+  "elapsed_seconds": 0.6156203959999402,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

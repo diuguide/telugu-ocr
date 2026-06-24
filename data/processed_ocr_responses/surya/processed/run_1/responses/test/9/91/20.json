@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/91/20.png",
+  "relative_input_path": "test/9/91/20.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.356821514999865,
+  "raw_text": "మొరిబానికి",
+  "text": "మొరిబానికి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            578.0,
+            0.0
+          ],
+          [
+            578.0,
+            156.0
+          ],
+          [
+            0.0,
+            156.0
+          ]
+        ],
+        "confidence": 0.7097088264463497,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>మొరిబానికి</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          578.0,
+          156.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      578.0,
+      156.0
+    ]
+  }
+}

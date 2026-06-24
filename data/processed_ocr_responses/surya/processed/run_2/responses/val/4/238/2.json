@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/238/2.png",
+  "relative_input_path": "val/4/238/2.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.84164643999975,
+  "raw_text": "కోరుకునో",
+  "text": "కోరుకునో",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            678.0,
+            0.0
+          ],
+          [
+            678.0,
+            225.0
+          ],
+          [
+            0.0,
+            225.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>కోరుకునో</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          678.0,
+          225.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      678.0,
+      225.0
+    ]
+  }
+}

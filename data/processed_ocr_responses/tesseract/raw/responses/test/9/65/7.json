@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/9/65/7.jpg",
+  "relative_input_path": "test/9/65/7.jpg",
+  "status": "ok",
+  "raw_text": "క్రేగోయినో",
+  "text": "క్రేగోయినో",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "elapsed_seconds": 0.9985510819969932,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

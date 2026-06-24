@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/91/10.png",
+  "relative_input_path": "test/9/91/10.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 15.515543428,
+  "raw_text": "ලියවිට පරිසර",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            927.0,
+            0.0
+          ],
+          [
+            927.0,
+            191.0
+          ],
+          [
+            0.0,
+            191.0
+          ]
+        ],
+        "confidence": 0.665030816315815,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ලියවිට පරිසර</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          927.0,
+          191.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      927.0,
+      191.0
+    ]
+  }
+}

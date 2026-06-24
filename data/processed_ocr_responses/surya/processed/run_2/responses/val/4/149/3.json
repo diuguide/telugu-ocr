@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/149/3.png",
+  "relative_input_path": "val/4/149/3.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 12.791391783999643,
+  "raw_text": "ముస్తో రింవింపుగా",
+  "text": "ముస్తో రింవింపుగా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 16,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1026.0,
+            0.0
+          ],
+          [
+            1026.0,
+            201.0
+          ],
+          [
+            0.0,
+            201.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ముస్తో రింవింపుగా</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1026.0,
+          201.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1026.0,
+      201.0
+    ]
+  }
+}

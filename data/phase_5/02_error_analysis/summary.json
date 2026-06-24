@@ -1,0 +1,22 @@
+{
+  "category_definitions": {
+    "base_character_substitution": "Levenshtein substitution not involving a mark, virama, punctuation, or digit",
+    "deletion": "Deleted character",
+    "diacritic_or_vowel_sign_error": "Edit involving Telugu dependent vowel or combining sign",
+    "hallucinated_extra_text": "Insertion-heavy or disproportionately long hypothesis",
+    "insertion": "Inserted character",
+    "missing_output": "OCR returned no normalized Telugu text",
+    "non_telugu_output": "Hypothesis contains alphabetic characters outside Telugu",
+    "punctuation_or_digit_error": "Substitution involving punctuation or a digit",
+    "virama_or_conjunct_error": "Edit involving U+0C4D",
+    "word_boundary_split_or_join": "Reference and hypothesis space counts differ"
+  },
+  "configuration_records": {
+    "surya/processed": 961,
+    "surya/raw": 512,
+    "tesseract/processed": 961,
+    "tesseract/raw": 961
+  },
+  "deterministic_evidence_rows": 11781,
+  "gpt4o_evidence_rows": 910
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/191/25.png",
+  "relative_input_path": "test/12/191/25.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 14.115294929000811,
+  "raw_text": "ಗಾ ಬೆಂಕುಲ್",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            996.0,
+            0.0
+          ],
+          [
+            996.0,
+            263.0
+          ],
+          [
+            0.0,
+            263.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಗಾ ಬೆಂಕುಲ್</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          996.0,
+          263.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      996.0,
+      263.0
+    ]
+  }
+}

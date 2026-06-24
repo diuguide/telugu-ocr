@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/113/15.png",
+  "relative_input_path": "test/12/113/15.png",
+  "status": "ok",
+  "raw_text": "నమా అ)",
+  "text": "నమా అ",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 4,
+  "elapsed_seconds": 0.6167492670065258,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

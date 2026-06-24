@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/9/252/17.png",
+  "relative_input_path": "test/9/252/17.png",
+  "status": "ok",
+  "raw_text": "డియో ావోరొఫ్యాన్న",
+  "text": "డియో ావోరొఫ్యాన్న",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 16,
+  "elapsed_seconds": 0.7528428230007194,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

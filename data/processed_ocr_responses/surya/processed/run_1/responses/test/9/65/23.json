@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/65/23.png",
+  "relative_input_path": "test/9/65/23.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 13.697257240999988,
+  "raw_text": "ଆହାର ଲକ୍ଷଣ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            567.0,
+            0.0
+          ],
+          [
+            567.0,
+            239.0
+          ],
+          [
+            0.0,
+            239.0
+          ]
+        ],
+        "confidence": 0.6523473892877838,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ଆହାର ଲକ୍ଷଣ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          567.0,
+          239.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      567.0,
+      239.0
+    ]
+  }
+}

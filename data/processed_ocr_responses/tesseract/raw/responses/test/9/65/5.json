@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/sample_set/test/9/65/5.jpg",
+  "relative_input_path": "test/9/65/5.jpg",
+  "status": "ok",
+  "raw_text": "- వెం(టలోత్తజంతా",
+  "text": "వెం టలోత్తజంతా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 13,
+  "elapsed_seconds": 1.2651164470007643,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

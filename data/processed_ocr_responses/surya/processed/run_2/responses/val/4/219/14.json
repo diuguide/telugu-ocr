@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/4/219/14.png",
+  "relative_input_path": "val/4/219/14.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 16.97138548300063,
+  "raw_text": "పల్లెల బహుకుంటూ",
+  "text": "పల్లెల బహుకుంటూ",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 14,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1303.0,
+            0.0
+          ],
+          [
+            1303.0,
+            214.0
+          ],
+          [
+            0.0,
+            214.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>పల్లెల బహుకుంటూ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1303.0,
+          214.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1303.0,
+      214.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/48/15.png",
+  "relative_input_path": "test/12/48/15.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 30.78596452199963,
+  "raw_text": "ಸ್ವಾಂಪತಿ ಭಕ್ತರಲ್ಲಿ ಸಿದ್ಧ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1468.0,
+            0.0
+          ],
+          [
+            1468.0,
+            295.0
+          ],
+          [
+            0.0,
+            295.0
+          ]
+        ],
+        "confidence": 0.7001887684099137,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಸ್ವಾಂಪತಿ ಭಕ್ತರಲ್ಲಿ ಸಿದ್ಧ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1468.0,
+          295.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1468.0,
+      295.0
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/val/4/206/10.png",
+  "relative_input_path": "val/4/206/10.png",
+  "status": "ok",
+  "raw_text": "వ ద ంము ముండదు",
+  "text": "వ ద ంము ముండదు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 11,
+  "elapsed_seconds": 0.6415276280022226,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

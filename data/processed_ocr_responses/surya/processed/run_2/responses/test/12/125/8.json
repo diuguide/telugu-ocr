@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/125/8.png",
+  "relative_input_path": "test/12/125/8.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 21.97032770700025,
+  "raw_text": "ಯಾವು ಲಕ್ಷ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            986.0,
+            0.0
+          ],
+          [
+            986.0,
+            410.0
+          ],
+          [
+            0.0,
+            410.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಯಾವು ಲಕ್ಷ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          986.0,
+          410.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      986.0,
+      410.0
+    ]
+  }
+}

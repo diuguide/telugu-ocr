@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/70/15.png",
+  "relative_input_path": "test/12/70/15.png",
+  "status": "ok",
+  "raw_text": "సంగ రం౦గా",
+  "text": "సంగ రం౦గా",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "elapsed_seconds": 0.5668033090005338,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

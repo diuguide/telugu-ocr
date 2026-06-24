@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/12/131/20.png",
+  "relative_input_path": "test/12/131/20.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 14.519636633000118,
+  "raw_text": "హౌర్ బు సిం",
+  "text": "హౌర్ బు సిం",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1016.0,
+            0.0
+          ],
+          [
+            1016.0,
+            239.0
+          ],
+          [
+            0.0,
+            239.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>హౌర్ బు సిం</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          1016.0,
+          239.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      1016.0,
+      239.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/125/5.png",
+  "relative_input_path": "test/12/125/5.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 82.76595778499996,
+  "raw_text": "Selection of animals",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            764.0,
+            0.0
+          ],
+          [
+            764.0,
+            368.0
+          ],
+          [
+            0.0,
+            368.0
+          ]
+        ],
+        "confidence": 0.6839969508612566,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>Selection of animals</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          764.0,
+          368.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      764.0,
+      368.0
+    ]
+  }
+}

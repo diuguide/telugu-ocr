@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/23/10.png",
+  "relative_input_path": "test/13/23/10.png",
+  "status": "ok",
+  "raw_text": "౧A) న కుపూడిడాక డు",
+  "text": "౧ న కుపూడిడాక డు",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 13,
+  "elapsed_seconds": 0.6063930290001736,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

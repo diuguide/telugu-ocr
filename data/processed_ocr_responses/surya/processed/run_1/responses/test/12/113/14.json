@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/113/14.png",
+  "relative_input_path": "test/12/113/14.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 15.018301839999822,
+  "raw_text": "ശ്ഘദ ൦ വു",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            780.0,
+            0.0
+          ],
+          [
+            780.0,
+            187.0
+          ],
+          [
+            0.0,
+            187.0
+          ]
+        ],
+        "confidence": 0.6014788878538949,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ശ്ഘദ ൦ വു</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          780.0,
+          187.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      780.0,
+      187.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/9/53/10.png",
+  "relative_input_path": "test/9/53/10.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 9.672290162998252,
+  "raw_text": "హారికే ము",
+  "text": "హారికే ము",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 8,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            602.0,
+            0.0
+          ],
+          [
+            602.0,
+            177.0
+          ],
+          [
+            0.0,
+            177.0
+          ]
+        ],
+        "confidence": 0.707645590597649,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>హారికే ము</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          602.0,
+          177.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      602.0,
+      177.0
+    ]
+  }
+}

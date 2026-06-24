@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/test/13/24/10.png",
+  "relative_input_path": "test/13/24/10.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 11.113762304001284,
+  "raw_text": "ಯಶವಾನಲ",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            914.0,
+            0.0
+          ],
+          [
+            914.0,
+            229.0
+          ],
+          [
+            0.0,
+            229.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ಯಶವಾನಲ</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          914.0,
+          229.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      914.0,
+      229.0
+    ]
+  }
+}

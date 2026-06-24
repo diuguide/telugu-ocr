@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/12/191/20.png",
+  "relative_input_path": "test/12/191/20.png",
+  "status": "empty_output",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 13.309690441004932,
+  "raw_text": "ನಮೂದೆಲು",
+  "text": "",
+  "suspicious_output": true,
+  "suspicious_reason": "no_telugu_text",
+  "telugu_character_count": 0,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            830.0,
+            0.0
+          ],
+          [
+            830.0,
+            266.0
+          ],
+          [
+            0.0,
+            266.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>ನಮೂದೆಲು</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          830.0,
+          266.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      830.0,
+      266.0
+    ]
+  }
+}

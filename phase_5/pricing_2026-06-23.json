@@ -1,0 +1,10 @@
+{
+  "as_of_date": "2026-06-23",
+  "currency": "USD",
+  "model": "gpt-4o",
+  "input_usd_per_million_tokens": 2.50,
+  "cached_input_usd_per_million_tokens": 1.25,
+  "output_usd_per_million_tokens": 10.00,
+  "source": "https://developers.openai.com/api/docs/models/gpt-4o",
+  "note": "Standard text-token rates. Recheck the official source before a new production run."
+}

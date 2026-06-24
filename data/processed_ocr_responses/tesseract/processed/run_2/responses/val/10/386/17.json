@@ -1,0 +1,15 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth_processed_0622/val/10/386/17.png",
+  "relative_input_path": "val/10/386/17.png",
+  "status": "ok",
+  "raw_text": "త్‌పోయింటి",
+  "text": "త్‌పోయింటి",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 9,
+  "elapsed_seconds": 0.5542513270002019,
+  "tesseract_version": "tesseract 5.3.4",
+  "language": "Telugu",
+  "psm": 8,
+  "oem": 1
+}

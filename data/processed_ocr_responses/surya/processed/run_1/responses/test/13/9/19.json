@@ -1,0 +1,55 @@
+{
+  "input_path": "/home/tom/telugu_data/ground_truth/processed_sample_set/test/13/9/19.png",
+  "relative_input_path": "test/13/9/19.png",
+  "status": "ok",
+  "ocr_mode": "forced_text_block",
+  "elapsed_seconds": 11.19327529000293,
+  "raw_text": "బా రోడ బా పాల",
+  "text": "బా రోడ బా పాల",
+  "suspicious_output": false,
+  "suspicious_reason": "",
+  "telugu_character_count": 10,
+  "surya_response": {
+    "blocks": [
+      {
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            984.0,
+            0.0
+          ],
+          [
+            984.0,
+            165.0
+          ],
+          [
+            0.0,
+            165.0
+          ]
+        ],
+        "confidence": 1.0,
+        "label": "Text",
+        "raw_label": "Text",
+        "reading_order": 0,
+        "html": "<h2>బా రోడ బా పాల</h2>",
+        "skipped": false,
+        "error": false,
+        "bbox": [
+          0.0,
+          0.0,
+          984.0,
+          165.0
+        ]
+      }
+    ],
+    "image_bbox": [
+      0.0,
+      0.0,
+      984.0,
+      165.0
+    ]
+  }
+}
