@@ -1,0 +1,19 @@
+# Image-processing pipeline
+numpy
+opencv-python
+Pillow>=9.0.0
+scikit-image>=0.20.0
+deskew>=0.12.0
+
+# Phase 4 evaluation and OpenAI validation
+jiwer>=4.0,<5
+openai>=1.109,<2
+pydantic>=2.0,<3
+
+# Phase 5 statistical analysis (figures are dependency-free SVG)
+scipy>=1.11,<2
+
+# Optional: high-quality upscaling
+# Uncomment both lines to enable RealESRGAN super-resolution.
+# realesrgan>=0.3.0
+# torch>=1.9.0

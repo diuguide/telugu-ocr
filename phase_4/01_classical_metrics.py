@@ -13,14 +13,15 @@ from jiwer import cer, wer
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
+REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_MANIFEST = PROJECT_ROOT / "data/ground_truth/manifests/ground_truth_manifest.csv"
 DEFAULT_RESULTS = PROJECT_ROOT / "ground_truth/results.jsonl"
 DEFAULT_OUTPUT = PROJECT_ROOT / "data/evaluation/phase_4/classical"
 DEFAULT_RESULTS_ROOT = (
-    PROJECT_ROOT / "project_deliverable/data/processed_ocr_responses"
+    REPOSITORY_ROOT / "data/processed_ocr_responses"
 )
 DEFAULT_BATCH_OUTPUT = (
-    PROJECT_ROOT / "project_deliverable/data/llm_validations/CER-WER-validation"
+    REPOSITORY_ROOT / "data/llm_validations/CER-WER-validation"
 )
 DEFAULT_REPORT_NAME = "cer_wer_metrics.txt"
 COMPLETED_STATUSES = {"ok", "empty_output"}
