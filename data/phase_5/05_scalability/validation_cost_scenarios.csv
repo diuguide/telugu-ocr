@@ -1,3 +1,0 @@
-scenario,pages_per_configuration,models,validation_methods,api_calls,estimated_input_tokens,estimated_output_tokens,estimated_standard_api_cost_usd,serial_validation_hours,pricing_as_of
-sampled_100_pages,100,2,2,400,245015,102140,1.6339375,0.396799479333332,2026-06-23
-full_5368_pages,5368,2,2,21472,13152405,5482875,87.709765,21.30019605061326,2026-06-23

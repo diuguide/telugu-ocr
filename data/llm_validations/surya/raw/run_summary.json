@@ -1,7 +1,7 @@
 {
   "method": "A_independent_word_region_lexical_quality",
   "source_results": "/home/tom/telugu_data/bin/data/processed_ocr_responses/surya/raw/results.jsonl",
-  "inventory": "/home/tom/telugu_data/data/ground_truth/manifests/ground_truth_manifest.csv",
+  "inventory": "/home/tom/telugu_data/bin/phase_1/ground_truth/manifests/ground_truth_manifest.csv",
   "ocr_model": "surya",
   "input_kind": "raw",
   "evaluator_model": "gpt-4o",

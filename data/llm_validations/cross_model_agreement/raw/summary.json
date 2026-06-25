@@ -2,7 +2,7 @@
   "method": "C_cross_model_agreement",
   "results_a": "/home/tom/telugu_data/bin/data/processed_ocr_responses/surya/raw/results.jsonl",
   "results_b": "/home/tom/telugu_data/bin/data/processed_ocr_responses/tesseract/raw/results.jsonl",
-  "inventory": "/home/tom/telugu_data/data/ground_truth/manifests/ground_truth_manifest.csv",
+  "inventory": "/home/tom/telugu_data/bin/phase_1/ground_truth/manifests/ground_truth_manifest.csv",
   "model_a": "surya",
   "model_b": "tesseract",
   "input_kind": "raw",

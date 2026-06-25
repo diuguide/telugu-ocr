@@ -1,0 +1,158 @@
+## Phase 1
+
+### `profile_corpus.py`
+
+- **Script path:** `bin/phase_1/profile_corpus.py`
+- **Script name:** `profile_corpus.py`
+- **Description:**
+- **Deliverables:**
+
+
+## Phase 2
+
+### `binarize_images.py`
+
+- **Script path:** `bin/phase_2/binarize_images.py`
+- **Script name:** `binarize_images.py`
+- **Description:**
+- **Deliverables:**
+
+### `crop_images.py`
+
+- **Script path:** `bin/phase_2/crop_images.py`
+- **Script name:** `crop_images.py`
+- **Description:**
+- **Deliverables:**
+
+### `denoise_images.py`
+
+- **Script path:** `bin/phase_2/denoise_images.py`
+- **Script name:** `denoise_images.py`
+- **Description:**
+- **Deliverables:**
+
+### `deskew_images.py`
+
+- **Script path:** `bin/phase_2/deskew_images.py`
+- **Script name:** `deskew_images.py`
+- **Description:**
+- **Deliverables:**
+
+### `enhance_contrast_images.py`
+
+- **Script path:** `bin/phase_2/enhance_contrast_images.py`
+- **Script name:** `enhance_contrast_images.py`
+- **Description:**
+- **Deliverables:**
+
+### `standardize_images.py`
+
+- **Script path:** `bin/phase_2/standardize_images.py`
+- **Script name:** `standardize_images.py`
+- **Description:**
+- **Deliverables:**
+
+
+## Phase 3
+
+### `ocr_postprocess.py`
+
+- **Script path:** `bin/phase_3/ocr_postprocess.py`
+- **Script name:** `ocr_postprocess.py`
+- **Description:**
+- **Deliverables:**
+
+### `run_surya_ground_truth.py`
+
+- **Script path:** `bin/phase_3/run_surya_ground_truth.py`
+- **Script name:** `run_surya_ground_truth.py`
+- **Description:**
+- **Deliverables:**
+
+### `run_tesseract_ground_truth.py`
+
+- **Script path:** `bin/phase_3/run_tesseract_ground_truth.py`
+- **Script name:** `run_tesseract_ground_truth.py`
+- **Description:**
+- **Deliverables:**
+
+
+## Phase 4
+
+### `01_classical_metrics.py`
+
+- **Script path:** `bin/phase_4/01_classical_metrics.py`
+- **Script name:** `01_classical_metrics.py`
+- **Description:** Calculates classical OCR quality metrics by comparing completed OCR `results.jsonl` records against the ground-truth manifest.  The script computes character error rate (CER), word error rate (WER), exact-match accuracy, output coverage, empty-output counts, suspicious-output counts, and page-level summaries.  It can evaluate one `results.jsonl` file or recursively evaluate every `results.jsonl` file under a results directory.
+- **Usage:**
+
+```bash
+python3 ~/telugu_data/bin/phase_4/01_classical_metrics.py ~/telugu_data/bin/data/processed_ocr_responses --output-dir ~/telugu_data/bin/written_reports --report-name cer_wer_metrics.txt
+```
+
+- **Single-file usage:**
+
+```bash
+python3 ~/telugu_data/bin/phase_4/01_classical_metrics.py ~/telugu_data/bin/data/processed_ocr_responses/surya/raw/results.jsonl --output-dir ~/telugu_data/bin/written_reports/classical_metrics
+```
+
+- **Deliverables:** In batch mode, the script writes a consolidated text report such as `bin/written_reports/cer_wer_metrics.txt`.  In single-file mode, it writes `word_metrics.csv`, `page_metrics.csv`, and `summary.csv` to the selected output directory.
+
+### `run_cross_model_agreement.py`
+
+- **Script path:** `bin/phase_4/run_cross_model_agreement.py`
+- **Script name:** `run_cross_model_agreement.py`
+- **Description:**
+- **Deliverables:**
+
+### `run_openai_error_detection.py`
+
+- **Script path:** `bin/phase_4/run_openai_error_detection.py`
+- **Script name:** `run_openai_error_detection.py`
+- **Description:**
+- **Deliverables:**
+
+### `run_openai_fluency_validation.py`
+
+- **Script path:** `bin/phase_4/run_openai_fluency_validation.py`
+- **Script name:** `run_openai_fluency_validation.py`
+- **Description:**
+- **Deliverables:**
+
+
+## Phase 5
+
+### `01_model_comparison.py`
+
+- **Script path:** `bin/phase_5/01_model_comparison.py`
+- **Script name:** `01_model_comparison.py`
+- **Description:**
+- **Deliverables:**
+
+### `02_error_analysis.py`
+
+- **Script path:** `bin/phase_5/02_error_analysis.py`
+- **Script name:** `02_error_analysis.py`
+- **Description:**
+- **Deliverables:**
+
+### `03_preprocessing_impact.py`
+
+- **Script path:** `bin/phase_5/03_preprocessing_impact.py`
+- **Script name:** `03_preprocessing_impact.py`
+- **Description:**
+- **Deliverables:**
+
+### `04_failure_analysis.py`
+
+- **Script path:** `bin/phase_5/04_failure_analysis.py`
+- **Script name:** `04_failure_analysis.py`
+- **Description:**
+- **Deliverables:**
+
+### `05_scalability_estimate.py`
+
+- **Script path:** `bin/phase_5/05_scalability_estimate.py`
+- **Script name:** `05_scalability_estimate.py`
+- **Description:**
+- **Deliverables:**

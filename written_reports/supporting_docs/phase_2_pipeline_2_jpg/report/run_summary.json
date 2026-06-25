@@ -1,0 +1,15 @@
+{
+  "input": "/home/tom/telugu_data/bin/written_reports/supporting_docs/phase_2_pipeline_2_jpg/07_binarized.png",
+  "image_count": 1,
+  "resumed": 0,
+  "processed_this_run": 1,
+  "successful": 1,
+  "failed": 0,
+  "elapsed_seconds": 27.031046145999426,
+  "surya_version": "0.20.0",
+  "backend": "llamacpp",
+  "parallel_requests": 1,
+  "context_size": 4096,
+  "prompt_cache_mib": 0,
+  "logprobs": false
+}
